@@ -5,6 +5,7 @@
 ## Machine Learning Engineer Skills
 - [How to Become a Machine Learning Engineer](https://www.springboard.com/blog/how-to-become-a-machine-learning-engineer/)
 - [5 Skills You Need to Become a Machine Learning Engineer](https://blog.udacity.com/2016/04/5-skills-you-need-to-become-a-machine-learning-engineer.html)
+- [Top 5 skills needed to become a machine learning engineer](https://www.techrepublic.com/article/top-5-skills-needed-to-become-a-machine-learning-engineer/)
 - [Must-Knows from a Machine Learning Engineer at Airbnb](https://www.coursereport.com/blog/tips-from-a-machine-learning-engineer-at-airbnb)
 - [Journey to Machine Learning Part 1: Introductions, Motivations, and Roadmap](https://towardsdatascience.com/journey-to-machine-learning-part-1-introductions-motivations-and-roadmap-35a438f1e126)
 - [Journey to ML, Part 2: Skills of a (Marketable) Machine Learning Engineer](https://medium.com/@matthewmcateer/journey-to-ml-part-2-skills-of-a-marketable-machine-learning-engineer-dcff8b240e21)
