@@ -15,6 +15,7 @@
 - [Why machine learning engineer is the best job in America, not developer or data scientist - TechRepublic](https://www.techrepublic.com/article/why-machine-learning-engineer-is-the-best-job-in-america-not-developer-or-data-scientist/)
 - [How to become a machine learning engineer: A cheat sheet](https://www.techrepublic.com/article/how-to-become-a-machine-learning-engineer-a-cheat-sheet/)
 
+
 ### Computer Science Fundamentals and Programming
 
 - **Data Structures**: stacks, queues, multi-dimensional arrays, trees, graphs, etc.
@@ -51,7 +52,13 @@ Resources: the following resources are studied at CS undergraduate level. Theref
 - [Parallel Computing with Dask](https://www.datacamp.com/courses/parallel-computing-with-dask)
 - [Mastering Software Development in R Specialization](https://www.coursera.org/specializations/r?)
 - [Software Development Lifecycle Specialization](https://www.coursera.org/specializations/software-development-lifecycle?)
+<<<<<<< HEAD
 
 ### Other Useful resources
 
 - [400 free Ivy League university courses you can take online in 2019](https://qz.com/1514408/400-free-ivy-league-university-courses-you-can-take-online-in-2019/)
+=======
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNTIxMjMxMzE0XX0=
+-->
+>>>>>>> 9db0f0e0794960b13ca4203c34bb524e076ed948
