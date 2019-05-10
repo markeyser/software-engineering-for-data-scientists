@@ -57,8 +57,3 @@ Resources: the following resources are studied at CS undergraduate level. Theref
 ### Other Useful resources
 
 - [400 free Ivy League university courses you can take online in 2019](https://qz.com/1514408/400-free-ivy-league-university-courses-you-can-take-online-in-2019/)
-=======
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbNTIxMjMxMzE0XX0=
--->
->>>>>>> 9db0f0e0794960b13ca4203c34bb524e076ed948
