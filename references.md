@@ -5,6 +5,8 @@
 ## Machine Learning Engineer Skills
 - [Find Your Data Science Career Path](https://www.coursera.org/career/data-science)
 - [Become a Machine Learning Engineer](https://careers.coursera.org/machine-learning-engineer/)
+- [Become a Data Scientist](https://coursera-career-track.mystagingwebsite.com/data-scientist/)
+- [Become a Data Engineer](https://coursera-career-track.mystagingwebsite.com/data-engineer/)
 - [How to Become a Machine Learning Engineer](https://www.springboard.com/blog/how-to-become-a-machine-learning-engineer/)
 - [5 Skills You Need to Become a Machine Learning Engineer](https://blog.udacity.com/2016/04/5-skills-you-need-to-become-a-machine-learning-engineer.html)
 - [Top 5 skills needed to become a machine learning engineer](https://www.techrepublic.com/article/top-5-skills-needed-to-become-a-machine-learning-engineer/)
