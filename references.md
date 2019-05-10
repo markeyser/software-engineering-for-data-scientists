@@ -14,6 +14,7 @@
 - [Machine Learning Engineer, Data Scientist among the best US Jobs in 2018](https://www.kdnuggets.com/2018/04/machine-learning-engineer-data-scientist-best-jobs.html)
 - [Why machine learning engineer is the best job in America, not developer or data scientist - TechRepublic](https://www.techrepublic.com/article/why-machine-learning-engineer-is-the-best-job-in-america-not-developer-or-data-scientist/)
 
+
 ### Computer Science Fundamentals and Programming
 
 - **Data Structures**: stacks, queues, multi-dimensional arrays, trees, graphs, etc.
@@ -50,3 +51,6 @@ Resources: the following resources are studied at CS undergraduate level. Theref
 - [Parallel Computing with Dask](https://www.datacamp.com/courses/parallel-computing-with-dask)
 - [Mastering Software Development in R Specialization](https://www.coursera.org/specializations/r?)
 - [Software Development Lifecycle Specialization](https://www.coursera.org/specializations/software-development-lifecycle?)
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNTIxMjMxMzE0XX0=
+-->
