@@ -52,7 +52,6 @@ Resources: the following resources are studied at CS undergraduate level. Theref
 - [Parallel Computing with Dask](https://www.datacamp.com/courses/parallel-computing-with-dask)
 - [Mastering Software Development in R Specialization](https://www.coursera.org/specializations/r?)
 - [Software Development Lifecycle Specialization](https://www.coursera.org/specializations/software-development-lifecycle?)
-<<<<<<< HEAD
 
 ### Other Useful resources
 
