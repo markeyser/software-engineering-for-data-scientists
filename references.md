@@ -13,6 +13,7 @@
 - [Machine Learning Engineer vs Data Scientist](https://www.edureka.co/blog/machine-learning-engineer-vs-data-scientists/)
 - [Machine Learning Engineer, Data Scientist among the best US Jobs in 2018](https://www.kdnuggets.com/2018/04/machine-learning-engineer-data-scientist-best-jobs.html)
 - [Why machine learning engineer is the best job in America, not developer or data scientist - TechRepublic](https://www.techrepublic.com/article/why-machine-learning-engineer-is-the-best-job-in-america-not-developer-or-data-scientist/)
+- [How to become a machine learning engineer: A cheat sheet](https://www.techrepublic.com/article/how-to-become-a-machine-learning-engineer-a-cheat-sheet/)
 
 ### Computer Science Fundamentals and Programming
 
@@ -50,3 +51,7 @@ Resources: the following resources are studied at CS undergraduate level. Theref
 - [Parallel Computing with Dask](https://www.datacamp.com/courses/parallel-computing-with-dask)
 - [Mastering Software Development in R Specialization](https://www.coursera.org/specializations/r?)
 - [Software Development Lifecycle Specialization](https://www.coursera.org/specializations/software-development-lifecycle?)
+
+### Other Useful resources
+
+- [400 free Ivy League university courses you can take online in 2019](https://qz.com/1514408/400-free-ivy-league-university-courses-you-can-take-online-in-2019/)
