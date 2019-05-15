@@ -11,11 +11,12 @@ Software engineering resources for Data Scientists
 - Number Of Courses:  8 Courses in Program
 - Total Average Lenght: 24-56 weeks
 - Price: $1080 USD for the entire program
-- Prerequisites:
-    - Basic knowledge of at least one programming language (C,C++,C#,Haskell,Java,JavaScript,Python2/3,Ruby,Scala): loops,    arrays, stacks, recursion.
-    - Basic knowledge of mathematics: proof by induction, proof by contradiction.
 
-Courses:
+#### Prerequisites:
+- Basic knowledge of at least one programming language (C,C++,C#,Haskell,Java,JavaScript,Python2/3,Ruby,Scala): loops, arrays, stacks, recursion.
+- Basic knowledge of mathematics: proof by induction, proof by contradiction.
+
+#### Courses:
 
 - **Algorithmic Design and Techniques**: Learn how to design algorithms, solve computational problems and implement solutions efficiently.
 - **Data Structures Fundamentals**: Learn about data structures that are used in computational thinking – both basic and advanced.
