@@ -22,6 +22,25 @@ Software engineering resources for Data Scientists
 - **Computing in Python III: Data Structures**: Learn more complex ways of handling data, including files, lists, and dictionaries for building complex programs.
 - **Computing in Python IV: Objects & Algorithms**: Learn about recursion, search and sort algorithms, and object-oriented programming in Python.
 
+## Mathematics for Computer Science
+
+### [Introduction to Discrete Mathematics for Computer Science - Coursera Specialization - UC San Diego](https://www.coursera.org/specializations/discrete-mathematics?)
+
+- Average Length:  2.5 weeks per course
+- Effort:  Suggested 12 hours/week
+- Number Of Courses:  5 Courses in Program
+- Total Average Lenght: 12 weeks
+- Price: $40 / month
+
+#### Prerequisites:
+
+#### Courses:
+
+- **Mathematical Thinking in Computer Science**:
+- **Combinatorics and Probability**:
+- **Introduction to Graph Theory**:
+- ****:
+
 ## Algorithms and Data Structures
 
 ### [Algorithms and Data Structures - Edx MicroMasters Program - UC San Diego](https://www.edx.org/micromasters/ucsandiegox-algorithms-and-data-structures)
