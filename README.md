@@ -1,10 +1,30 @@
 # software-engineering-for-data-scientists
 Software engineering resources for Data Scientists
 
+## Programming Language (Python)
+
+### [Introduction to Computing in Python - Edx Professional Certificate - The Georgia Institute of Technology](https://www.edx.org/professional-certificate/introduction-to-computing-in-python)
+
+- Average Length: 5 weeks per course
+- Effort: 10-11 hours per week, per course
+- Number Of Courses:  4 Courses in Program
+- Total Average Lenght: 20 weeks
+- Price: $229.50 USD for the entire program.
+
+#### Prerequisites:
+
+- This course presupposes no prior knowledge beyond basic arithmetic; knowledge of high school-level algebra, however, is desirable.
+
+#### Courses:
+
+- **Computing in Python I: Fundamentals and Procedural Programming**: Learn the fundamentals of computing in Python, including variables, operators, and writing and debugging your own programs.
+- **Computing in Python II: Control Structures**: Learn about control structures, one of the most powerful parts of programming. This course covers conditionals, loops, functions, and error handling, specifically in Python but with broader applicability to other languages as well.
+- **Computing in Python III: Data Structures**: Learn more complex ways of handling data, including files, lists, and dictionaries for building complex programs.
+- **Computing in Python IV: Objects & Algorithms**: Learn about recursion, search and sort algorithms, and object-oriented programming in Python.
 
 ## Algorithms and Data Structures
 
-### [Algorithms and Data Structures - MicroMasters Program - UC San Diego](https://www.edx.org/micromasters/ucsandiegox-algorithms-and-data-structures)
+### [Algorithms and Data Structures - Edx MicroMasters Program - UC San Diego](https://www.edx.org/micromasters/ucsandiegox-algorithms-and-data-structures)
 
 - Average Length:  3-7 weeks per course
 - Effort:  8-10 hours per week, per course
