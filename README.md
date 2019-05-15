@@ -4,7 +4,7 @@ Software engineering resources for Data Scientists
 
 ## Algorithms and Data Structures
 
-### Algorithms and Data Structures - MicroMasters Program - UC San Diego
+### [Algorithms and Data Structures - MicroMasters Program - UC San Diego](https://www.edx.org/micromasters/ucsandiegox-algorithms-and-data-structures)
 
 - Average Length:  3-7 weeks per course
 - Effort:  8-10 hours per week, per course
