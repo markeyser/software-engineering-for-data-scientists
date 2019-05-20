@@ -19,6 +19,7 @@
 - [Machine Learning Engineer, Data Scientist among the best US Jobs in 2018](https://www.kdnuggets.com/2018/04/machine-learning-engineer-data-scientist-best-jobs.html)
 - [Why machine learning engineer is the best job in America, not developer or data scientist - TechRepublic](https://www.techrepublic.com/article/why-machine-learning-engineer-is-the-best-job-in-america-not-developer-or-data-scientist/)
 - [How to become a machine learning engineer: A cheat sheet](https://www.techrepublic.com/article/how-to-become-a-machine-learning-engineer-a-cheat-sheet/)
+- [How to write a production-level code in Data Science?](https://towardsdatascience.com/how-to-write-a-production-level-code-in-data-science-5d87bd75ced)
 
 
 ### Computer Science Fundamentals and Programming
