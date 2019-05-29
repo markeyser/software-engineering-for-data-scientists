@@ -53,6 +53,8 @@ Resources: the following resources are studied at CS undergraduate level. Theref
 - [Foundations in Computer Science Graduate Certificate](https://online.stanford.edu/programs/foundations-computer-science-graduate-certificate)
 - [CERTIFICATE IN PYTHON PROGRAMMING](https://www.pce.uw.edu/certificates/python-programming)
 - [Python 3 Programming Specialization](https://www.coursera.org/specializations/python-3-programming)
+- [python-3-object-oriented-programming-third-edition](https://www.packtpub.com/application-development/python-3-object-oriented-programming-third-edition)
+- [hands-software-engineering-python](https://www.packtpub.com/application-development/hands-software-engineering-python)
 
 ### Software Engineering and System Design
 
@@ -69,5 +71,6 @@ Resources: the following resources are studied at CS undergraduate level. Theref
 
 - [400 free Ivy League university courses you can take online in 2019](https://qz.com/1514408/400-free-ivy-league-university-courses-you-can-take-online-in-2019/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4Njc2Mzc4NCw4OTA2NzA5NDBdfQ==
+eyJoaXN0b3J5IjpbLTEyNzA4NjEyMzgsLTI4Njc2Mzc4NCw4OT
+A2NzA5NDBdfQ==
 -->
