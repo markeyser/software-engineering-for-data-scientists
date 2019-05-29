@@ -22,7 +22,7 @@
 - [How to write a production-level code in Data Science?](https://towardsdatascience.com/how-to-write-a-production-level-code-in-data-science-5d87bd75ced)
 - [Is The Demand For Machine Learning Engineers Surpassing The Need For Data Scientists?](https://www.analyticsindiamag.com/is-the-demand-for-machine-learning-engineers-surpassing-the-need-for-data-scientists/)
 - 
-### Computer Science Fundamentals and Programming
+[What-software-engineering-skills-should-data-scientists-pick-up](https://www.quora.com/What-software-engineering-skills-should-data-scientists-pick-up)### Computer Science Fundamentals and Programming
 
 - **Data Structures**: stacks, queues, multi-dimensional arrays, trees, graphs, etc.
 - **Algorithms**: searching, sorting, optimization, dynamic programming, etc.
@@ -63,5 +63,5 @@ Resources: the following resources are studied at CS undergraduate level. Theref
 
 - [400 free Ivy League university courses you can take online in 2019](https://qz.com/1514408/400-free-ivy-league-university-courses-you-can-take-online-in-2019/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODkwNjcwOTQwXX0=
+eyJoaXN0b3J5IjpbLTExOTE2ODE2NjcsODkwNjcwOTQwXX0=
 -->
