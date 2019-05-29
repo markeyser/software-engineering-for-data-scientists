@@ -28,6 +28,7 @@
 - [How-common-is-it-for-data-scientists-to-switch-to-software-engineering-roles?](https://www.quora.com/How-common-is-it-for-data-scientists-to-switch-to-software-engineering-roles)
 - [how-to-become-a-machine-learning-engineer](https://towardsdatascience.com/how-to-become-a-machine-learning-engineer-ce81821a025f)
 - [data-engineers-vs-data-scientists](https://www.oreilly.com/ideas/data-engineers-vs-data-scientists)
+- [who-is-a-data-engineer-how-to-become-a-data-engineer](https://towardsdatascience.com/who-is-a-data-engineer-how-to-become-a-data-engineer-1167ddc12811)
 
 ### Computer Science Fundamentals and Programming
 
@@ -72,6 +73,6 @@ Resources: the following resources are studied at CS undergraduate level. Theref
 
 - [400 free Ivy League university courses you can take online in 2019](https://qz.com/1514408/400-free-ivy-league-university-courses-you-can-take-online-in-2019/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzU3MTc2NSwtMTI3MDg2MTIzOCwtMj
-g2NzYzNzg0LDg5MDY3MDk0MF19
+eyJoaXN0b3J5IjpbNjgwMDQ0MjU2LC0xMDM1NzE3NjUsLTEyNz
+A4NjEyMzgsLTI4Njc2Mzc4NCw4OTA2NzA5NDBdfQ==
 -->
