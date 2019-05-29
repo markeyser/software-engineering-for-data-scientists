@@ -24,6 +24,9 @@
 - [What software engineering skills should data scientists pick up](https://www.quora.com/What-software-engineering-skills-should-data-scientists-pick-up)
 - [As-a-data-scientist-how-can-I-transition-to-be-a-machine-learning-engineer](https://www.quora.com/As-a-data-scientist-how-can-I-transition-to-be-a-machine-learning-engineer)
 - [3-common-data-science-career-transitions-and-how-to-make-them-happen](https://towardsdatascience.com/3-common-data-science-career-transitions-and-how-to-make-them-happen-588c3618942f)
+- [Is-a-data-scientist-a-software-engineer?](https://www.quora.com/Is-a-data-scientist-a-software-engineer)
+- [How-common-is-it-for-data-scientists-to-switch-to-software-engineering-roles?](https://www.quora.com/How-common-is-it-for-data-scientists-to-switch-to-software-engineering-roles)
+- [how-to-become-a-machine-learning-engineer](https://towardsdatascience.com/how-to-become-a-machine-learning-engineer-ce81821a025f)
 
 ### Computer Science Fundamentals and Programming
 
@@ -66,5 +69,5 @@ Resources: the following resources are studied at CS undergraduate level. Theref
 
 - [400 free Ivy League university courses you can take online in 2019](https://qz.com/1514408/400-free-ivy-league-university-courses-you-can-take-online-in-2019/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDAzMTk3NDgsODkwNjcwOTQwXX0=
+eyJoaXN0b3J5IjpbLTI4Njc2Mzc4NCw4OTA2NzA5NDBdfQ==
 -->
