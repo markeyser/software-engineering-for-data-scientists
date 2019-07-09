@@ -73,11 +73,11 @@ Resources: the following resources are studied at CS undergraduate level. Theref
 ### Other Useful resources
 
 - [400 free Ivy League university courses you can take online in 2019](https://qz.com/1514408/400-free-ivy-league-university-courses-you-can-take-online-in-2019/)
-- - [Being a data scientist does not make you a software engineer](https://towardsdatascience.com/being-a-data-scientist-does-not-make-you-a-software-engineer-c64081526372)
+- [Being a data scientist does not make you a software engineer](https://towardsdatascience.com/being-a-data-scientist-does-not-make-you-a-software-engineer-c64081526372)
 - [Architecting a machine learning pipeline I](https://towardsdatascience.com/architecting-a-machine-learning-pipeline-a847f094d1c7)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyOTIyNjc4NCwxODEzMDYxMjA5LDY4MD
+eyJoaXN0b3J5IjpbLTY5Mjg3NzU0OSwxODEzMDYxMjA5LDY4MD
 A0NDI1NiwtMTAzNTcxNzY1LC0xMjcwODYxMjM4LC0yODY3NjM3
 ODQsODkwNjcwOTQwXX0=
 -->
