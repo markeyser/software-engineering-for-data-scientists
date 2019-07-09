@@ -73,8 +73,10 @@ Resources: the following resources are studied at CS undergraduate level. Theref
 ### Other Useful resources
 
 - [400 free Ivy League university courses you can take online in 2019](https://qz.com/1514408/400-free-ivy-league-university-courses-you-can-take-online-in-2019/)
+- [Architecting a machine learning pipeline I](https://towardsdatascience.com/architecting-a-machine-learning-pipeline-a847f094d1c7)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxMzA2MTIwOSw2ODAwNDQyNTYsLTEwMz
-U3MTc2NSwtMTI3MDg2MTIzOCwtMjg2NzYzNzg0LDg5MDY3MDk0
-MF19
+eyJoaXN0b3J5IjpbLTE4NTEwNTY5OTIsMTgxMzA2MTIwOSw2OD
+AwNDQyNTYsLTEwMzU3MTc2NSwtMTI3MDg2MTIzOCwtMjg2NzYz
+Nzg0LDg5MDY3MDk0MF19
 -->
