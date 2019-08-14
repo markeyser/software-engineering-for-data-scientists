@@ -10,6 +10,7 @@ The following topics are relevant for Data Scientists
 The above four topics comes from the introductory video in the following DataCamp couse:
 
 [software engineering for data scientists in python datacamp lesson 1](https://campus.datacamp.com/courses/software-engineering-for-data-scientists-in-python/software-engineering-data-science?ex=1)
+>The above course don't cover version control and git topic.
 
 Recently, Udacity also realesed a new version for their "[Data Science Nanodegree](https://eu.udacity.com/course/data-scientist-nanodegree--nd025)" with the following information in the pdf version of the [syllabus](https://github.com/markeyser/software-engineering-for-data-scientists/blob/master/documents/Data%2BScientist%2BNanodegree%2BSyllabus.pdf):
 
@@ -38,6 +39,6 @@ WEB DEVELOPMENT
 - Portfolio Exercise : Build a data dashboard
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA2MjE3OTkyLDExMjg1OTczMCwxMjU0NT
+eyJoaXN0b3J5IjpbNzMwNjQ2MzQzLDExMjg1OTczMCwxMjU0NT
 U0MDk4LC0xNTc4NzI3MDY4XX0=
 -->
