@@ -40,7 +40,10 @@ WEB DEVELOPMENT
 
 For Git and GitHub I've found that the following coureses have the right content:
 
+- [Version Control with git - Udacity - Free course](https://eu.udacity.com/course/version-control-with-git--ud123)
+- [https://eu.udacity.com/course/github-collaboration--ud456](https://eu.udacity.com/course/github-collaboration--ud456)
+
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk4Nzc0NTM2XX0=
+eyJoaXN0b3J5IjpbLTE3MTYxNTYzMDhdfQ==
 -->
