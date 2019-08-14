@@ -11,9 +11,8 @@ The above four topics comes from the introductory video in the following DataCam
 
 [software engineering for data scientists in python datacamp lesson 1](https://campus.datacamp.com/courses/software-engineering-for-data-scientists-in-python/software-engineering-data-science?ex=1)
 
-Recently, Udacity also realesed a new version for their 
+Recently, Udacity also realesed a new version for their "[Data Science Nanodegree](https://eu.udacity.com/course/data-scientist-nanodegree--nd025)"
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODA1MjY4NzgsLTE1Nzg3MjcwNjhdfQ
-==
+eyJoaXN0b3J5IjpbMTI1NDU1NDA5OCwtMTU3ODcyNzA2OF19
 -->
