@@ -47,8 +47,10 @@ For Git and GitHub I've found that the following coureses have the right content
 - [Optimize your GitHub](https://eu.udacity.com/course/optimize-your-github--ud247)
 - [Introduction to Git for Data Science](https://www.datacamp.com/courses/introduction-to-git-for-data-science) 
 
+## Version control for Data Science projects
 
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjkxMzgyNzIyLDExNjYzMjg4MDYsOTU2MT
-cyMjUxXX0=
+eyJoaXN0b3J5IjpbLTIzNzM3MzMxMSw2OTEzODI3MjIsMTE2Nj
+MyODgwNiw5NTYxNzIyNTFdfQ==
 -->
