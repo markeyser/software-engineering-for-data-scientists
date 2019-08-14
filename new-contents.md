@@ -46,6 +46,9 @@ For Git and GitHub I've found that the following coureses have the right content
 - [GitHub & Collaboration- Udacity - free course](https://eu.udacity.com/course/github-collaboration--ud456)
 - [Optimize your GitHub](https://eu.udacity.com/course/optimize-your-github--ud247)
 - [Introduction to Git for Data Science](https://www.datacamp.com/courses/introduction-to-git-for-data-science) 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2NjMyODgwNiw5NTYxNzIyNTFdfQ==
+eyJoaXN0b3J5IjpbNjkxMzgyNzIyLDExNjYzMjg4MDYsOTU2MT
+cyMjUxXX0=
 -->
