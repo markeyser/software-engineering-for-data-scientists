@@ -49,8 +49,8 @@ For Git and GitHub I've found that the following coureses have the right content
 
 ## Version control for Data Science projects
 
-- 
+- [HOW TO BECOME A MACHINE LEARNING ENGINEER: 3 PROS SHARE CAREER INSIGHTS](https://builtin.com/software-engineering-perspectives/machine-learning-career)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzNzM3MzMxMSw2OTEzODI3MjIsMTE2Nj
-MyODgwNiw5NTYxNzIyNTFdfQ==
+eyJoaXN0b3J5IjpbMTY2NDc4MDU4MSwtMjM3MzczMzExLDY5MT
+M4MjcyMiwxMTY2MzI4ODA2LDk1NjE3MjI1MV19
 -->
