@@ -55,9 +55,9 @@ For Git and GitHub I've found that the following coureses have the right content
 - [What-software-engineering-skills-should-data-scientists-pick-up](https://www.quora.com/What-software-engineering-skills-should-data-scientists-pick-up)
 - [Software-development-skills-data-scientists](https://www.kdnuggets.com/2015/12/software-development-skills-data-scientists.html)
 - [4 Things Data Scientists Should Learn From Software Engineers](https://towardsdatascience.com/be-a-better-data-scientist-1a5ad87fe48)
-- [https://www.oreilly.com/ideas/why-a-data-scientist-is-not-a-data-engineer](https://www.oreilly.com/ideas/why-a-data-scientist-is-not-a-data-engineer)
+- [Why-a-data-scientist-is-not-a-data-engineer](https://www.oreilly.com/ideas/why-a-data-scientist-is-not-a-data-engineer)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzMDQ0NjMwNywxNjYyMzQ1NjIsLTIzNz
+eyJoaXN0b3J5IjpbLTE1NzEwNDcwNCwxNjYyMzQ1NjIsLTIzNz
 M3MzMxMSw2OTEzODI3MjIsMTE2NjMyODgwNiw5NTYxNzIyNTFd
 fQ==
 -->
