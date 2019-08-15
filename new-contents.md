@@ -51,7 +51,9 @@ For Git and GitHub I've found that the following coureses have the right content
 
 - [HOW TO BECOME A MACHINE LEARNING ENGINEER: 3 PROS SHARE CAREER INSIGHTS](https://builtin.com/software-engineering-perspectives/machine-learning-career)
 - [Software-engineers-have-become-key-players-in-data-science-teams](https://www.analyticsindiamag.com/software-engineers-have-become-key-players-in-data-science-teams/)
+- [Software-engineering-for-data-scientists](http://hiphoff.com/software-engineering-for-data-scientists/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2MjM0NTYyLC0yMzczNzMzMTEsNjkxMz
-gyNzIyLDExNjYzMjg4MDYsOTU2MTcyMjUxXX0=
+eyJoaXN0b3J5IjpbLTE5ODgwNzIzNjcsMTY2MjM0NTYyLC0yMz
+czNzMzMTEsNjkxMzgyNzIyLDExNjYzMjg4MDYsOTU2MTcyMjUx
+XX0=
 -->
