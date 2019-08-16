@@ -92,11 +92,11 @@ Paul Bull is also co-author of the [cookiecutter-data-science](https://github.co
 - [Kirstie Whitaker: The Turing Way: A how to guide for reproducible research | PyData London 2019](https://www.youtube.com/watch?v=IG3PcZ6EhiU&list=PLGVZCDnMOq0ocea1dd0it7jX7HgvZCjSW)
 - [Kevin Lemagnen: Maintainable code in data science | PyData London 2019](https://www.youtube.com/watch?v=_UE8fsVuQYc&list=PLGVZCDnMOq0ocea1dd0it7jX7HgvZCjSW&index=7&t=0s)
 - [Raoul-Gabriel Urma, Kevin Lemagnen: Adv. Software Testing for Data Scientists | PyData London 2019](https://www.youtube.com/watch?v=WTj6T0QdHHM&list=PLGVZCDnMOq0ocea1dd0it7jX7HgvZCjSW&index=9&t=0s)
-- [https://www.youtube.com/watch?v=2qhUIl1MBe4&list=PLGVZCDnMOq0ocea1dd0it7jX7HgvZCjSW&index=34&t=0s](https://www.youtube.com/watch?v=2qhUIl1MBe4&list=PLGVZCDnMOq0ocea1dd0it7jX7HgvZCjSW&index=34&t=0s)
+- [Christopher Samiullah, Soledad Galli: Testing and Validating MLMs | PyData London 2019](https://www.youtube.com/watch?v=2qhUIl1MBe4&list=PLGVZCDnMOq0ocea1dd0it7jX7HgvZCjSW&index=34&t=0s)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU2NTI5NTYxLDE3NDk3MDEyODAsLTIwNz
-g1Mjc2NzIsMjEzNjY0MzE1MywxMDUyMDc4NjkxLC0xOTMzMDMw
-ODU5LC0xNTU0OTY2MDQsOTU2NzQ1NDczLDE4MTA0NzE0NDMsLT
-E1NzEwNDcwNCwxNjYyMzQ1NjIsLTIzNzM3MzMxMSw2OTEzODI3
-MjIsMTE2NjMyODgwNiw5NTYxNzIyNTFdfQ==
+eyJoaXN0b3J5IjpbMTI2MTA1ODc1MSwxNzQ5NzAxMjgwLC0yMD
+c4NTI3NjcyLDIxMzY2NDMxNTMsMTA1MjA3ODY5MSwtMTkzMzAz
+MDg1OSwtMTU1NDk2NjA0LDk1Njc0NTQ3MywxODEwNDcxNDQzLC
+0xNTcxMDQ3MDQsMTY2MjM0NTYyLC0yMzczNzMzMTEsNjkxMzgy
+NzIyLDExNjYzMjg4MDYsOTU2MTcyMjUxXX0=
 -->
