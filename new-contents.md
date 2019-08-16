@@ -84,9 +84,11 @@ Paul Bull is also co-author of the [cookiecutter-data-science](https://github.co
 [https://www.seas.harvard.edu/programs/graduate/applied-computation/master-of-science-in-cse/faq](https://www.seas.harvard.edu/programs/graduate/applied-computation/master-of-science-in-cse/faq)
 
 [https://www.udemy.com/course/continuous-integration-on-gitlab/](https://www.udemy.com/course/continuous-integration-on-gitlab/)
+
+[https://www.udemy.com/courses/search/?src=ukw&q=unit%20testing%20python](https://www.udemy.com/courses/search/?src=ukw&q=unit%20testing%20python)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1MjA3ODY5MSwtMTkzMzAzMDg1OSwtMT
-U1NDk2NjA0LDk1Njc0NTQ3MywxODEwNDcxNDQzLC0xNTcxMDQ3
-MDQsMTY2MjM0NTYyLC0yMzczNzMzMTEsNjkxMzgyNzIyLDExNj
-YzMjg4MDYsOTU2MTcyMjUxXX0=
+eyJoaXN0b3J5IjpbNjE3MDU3NjYsMTA1MjA3ODY5MSwtMTkzMz
+AzMDg1OSwtMTU1NDk2NjA0LDk1Njc0NTQ3MywxODEwNDcxNDQz
+LC0xNTcxMDQ3MDQsMTY2MjM0NTYyLC0yMzczNzMzMTEsNjkxMz
+gyNzIyLDExNjYzMjg4MDYsOTU2MTcyMjUxXX0=
 -->
