@@ -75,8 +75,11 @@ Agenda
 - Collaboration
 
 I forked the repository of this presentation. The LinkedIn profile of the speakers are interesting. 
+
+[https://www.linkedin.com/in/isaacslavitt/](https://www.linkedin.com/in/isaacslavitt/)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI3MTk0MDM1LDk1Njc0NTQ3MywxODEwND
-cxNDQzLC0xNTcxMDQ3MDQsMTY2MjM0NTYyLC0yMzczNzMzMTEs
-NjkxMzgyNzIyLDExNjYzMjg4MDYsOTU2MTcyMjUxXX0=
+eyJoaXN0b3J5IjpbLTE1NTQ5NjYwNCw5NTY3NDU0NzMsMTgxMD
+Q3MTQ0MywtMTU3MTA0NzA0LDE2NjIzNDU2MiwtMjM3MzczMzEx
+LDY5MTM4MjcyMiwxMTY2MzI4ODA2LDk1NjE3MjI1MV19
 -->
