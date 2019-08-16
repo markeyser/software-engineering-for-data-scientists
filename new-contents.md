@@ -69,9 +69,12 @@ The following tutorial is really interesting:
 
 Agenda
 - Project structure
-- 
+- Environments and reproducibility
+- Coding for reusability
+- Testing
+- Collaboration 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjEyMjUxNDIsMTgxMDQ3MTQ0MywtMT
-U3MTA0NzA0LDE2NjIzNDU2MiwtMjM3MzczMzExLDY5MTM4Mjcy
-MiwxMTY2MzI4ODA2LDk1NjE3MjI1MV19
+eyJoaXN0b3J5IjpbOTU2NzQ1NDczLDE4MTA0NzE0NDMsLTE1Nz
+EwNDcwNCwxNjYyMzQ1NjIsLTIzNzM3MzMxMSw2OTEzODI3MjIs
+MTE2NjMyODgwNiw5NTYxNzIyNTFdfQ==
 -->
