@@ -56,8 +56,13 @@ For Git and GitHub I've found that the following coureses have the right content
 - [Software-development-skills-data-scientists](https://www.kdnuggets.com/2015/12/software-development-skills-data-scientists.html)
 - [4 Things Data Scientists Should Learn From Software Engineers](https://towardsdatascience.com/be-a-better-data-scientist-1a5ad87fe48)
 - [Why-a-data-scientist-is-not-a-data-engineer](https://www.oreilly.com/ideas/why-a-data-scientist-is-not-a-data-engineer)
+
+## Data Science Project Folder Structure
+
+- [Manage your data science project structure in early stage](https://towardsdatascience.com/manage-your-data-science-project-structure-in-early-stage-95f91d4d0600)
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzEwNDcwNCwxNjYyMzQ1NjIsLTIzNz
-M3MzMxMSw2OTEzODI3MjIsMTE2NjMyODgwNiw5NTYxNzIyNTFd
-fQ==
+eyJoaXN0b3J5IjpbMTgxMDQ3MTQ0MywtMTU3MTA0NzA0LDE2Nj
+IzNDU2MiwtMjM3MzczMzExLDY5MTM4MjcyMiwxMTY2MzI4ODA2
+LDk1NjE3MjI1MV19
 -->
