@@ -39,7 +39,7 @@ WEB DEVELOPMENT
 - Portfolio Exercise : Build a data dashboard
 
 ## Git & GitHub training courses
-
+ 
 For Git and GitHub I've found that the following coureses have the right content:
 
 - [Version Control with git - Udacity - Free course](https://eu.udacity.com/course/version-control-with-git--ud123)
@@ -72,9 +72,11 @@ Agenda
 - Environments and reproducibility
 - Coding for reusability
 - Testing
-- Collaboration 
+- Collaboration
+
+I forked the repository of this presentation. The LinkedIn profile of the speakers are interesting. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU2NzQ1NDczLDE4MTA0NzE0NDMsLTE1Nz
-EwNDcwNCwxNjYyMzQ1NjIsLTIzNzM3MzMxMSw2OTEzODI3MjIs
-MTE2NjMyODgwNiw5NTYxNzIyNTFdfQ==
+eyJoaXN0b3J5IjpbNDI3MTk0MDM1LDk1Njc0NTQ3MywxODEwND
+cxNDQzLC0xNTcxMDQ3MDQsMTY2MjM0NTYyLC0yMzczNzMzMTEs
+NjkxMzgyNzIyLDExNjYzMjg4MDYsOTU2MTcyMjUxXX0=
 -->
