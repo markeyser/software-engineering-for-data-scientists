@@ -80,9 +80,13 @@ I forked the repository of this presentation. The LinkedIn profile of the speake
 - [https://www.linkedin.com/in/pjbull/](https://www.linkedin.com/in/pjbull/)
 
 Paul Bull is also co-author of the [cookiecutter-data-science](https://github.com/drivendata/cookiecutter-data-science) and [documentaiton](https://drivendata.github.io/cookiecutter-data-science/#contributing).
+
+[https://www.seas.harvard.edu/programs/graduate/applied-computation/master-of-science-in-cse/faq](https://www.seas.harvard.edu/programs/graduate/applied-computation/master-of-science-in-cse/faq)
+
+[https://www.udemy.com/course/continuous-integration-on-gitlab/](https://www.udemy.com/course/continuous-integration-on-gitlab/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzMwMzA4NTksLTE1NTQ5NjYwNCw5NT
-Y3NDU0NzMsMTgxMDQ3MTQ0MywtMTU3MTA0NzA0LDE2NjIzNDU2
-MiwtMjM3MzczMzExLDY5MTM4MjcyMiwxMTY2MzI4ODA2LDk1Nj
-E3MjI1MV19
+eyJoaXN0b3J5IjpbMTA1MjA3ODY5MSwtMTkzMzAzMDg1OSwtMT
+U1NDk2NjA0LDk1Njc0NTQ3MywxODEwNDcxNDQzLC0xNTcxMDQ3
+MDQsMTY2MjM0NTYyLC0yMzczNzMzMTEsNjkxMzgyNzIyLDExNj
+YzMjg4MDYsOTU2MTcyMjUxXX0=
 -->
