@@ -76,10 +76,13 @@ Agenda
 
 I forked the repository of this presentation. The LinkedIn profile of the speakers are interesting. 
 
-[https://www.linkedin.com/in/isaacslavitt/](https://www.linkedin.com/in/isaacslavitt/)
+- [https://www.linkedin.com/in/isaacslavitt/](https://www.linkedin.com/in/isaacslavitt/)
+- [https://www.linkedin.com/in/pjbull/](https://www.linkedin.com/in/pjbull/)
 
+Paul Bull is also co-author of the 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTQ5NjYwNCw5NTY3NDU0NzMsMTgxMD
-Q3MTQ0MywtMTU3MTA0NzA0LDE2NjIzNDU2MiwtMjM3MzczMzEx
-LDY5MTM4MjcyMiwxMTY2MzI4ODA2LDk1NjE3MjI1MV19
+eyJoaXN0b3J5IjpbNzg5ODMwMzQzLC0xNTU0OTY2MDQsOTU2Nz
+Q1NDczLDE4MTA0NzE0NDMsLTE1NzEwNDcwNCwxNjYyMzQ1NjIs
+LTIzNzM3MzMxMSw2OTEzODI3MjIsMTE2NjMyODgwNiw5NTYxNz
+IyNTFdfQ==
 -->
