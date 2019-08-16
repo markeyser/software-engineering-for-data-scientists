@@ -60,9 +60,12 @@ For Git and GitHub I've found that the following coureses have the right content
 ## Data Science Project Folder Structure
 
 - [Manage your data science project structure in early stage](https://towardsdatascience.com/manage-your-data-science-project-structure-in-early-stage-95f91d4d0600)
-- 
+
+## A fantastic presentation
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxMDQ3MTQ0MywtMTU3MTA0NzA0LDE2Nj
-IzNDU2MiwtMjM3MzczMzExLDY5MTM4MjcyMiwxMTY2MzI4ODA2
-LDk1NjE3MjI1MV19
+eyJoaXN0b3J5IjpbLTg3NTkyMDE2MiwxODEwNDcxNDQzLC0xNT
+cxMDQ3MDQsMTY2MjM0NTYyLC0yMzczNzMzMTEsNjkxMzgyNzIy
+LDExNjYzMjg4MDYsOTU2MTcyMjUxXX0=
 -->
