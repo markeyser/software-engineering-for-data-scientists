@@ -90,10 +90,11 @@ Paul Bull is also co-author of the [cookiecutter-data-science](https://github.co
 - [Raphael Pierzina - Kickstarting projects with Cookiecutter](https://www.youtube.com/watch?v=nExL0SgKsDY)
 
 - [Kirstie Whitaker: The Turing Way: A how to guide for reproducible research | PyData London 2019](https://www.youtube.com/watch?v=IG3PcZ6EhiU&list=PLGVZCDnMOq0ocea1dd0it7jX7HgvZCjSW)
+- [Kevin Lemagnen: Maintainable code in data science | PyData London 2019](https://www.youtube.com/watch?v=_UE8fsVuQYc&list=PLGVZCDnMOq0ocea1dd0it7jX7HgvZCjSW&index=7&t=0s)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzg1Mjc2NzIsMjEzNjY0MzE1MywxMD
-UyMDc4NjkxLC0xOTMzMDMwODU5LC0xNTU0OTY2MDQsOTU2NzQ1
-NDczLDE4MTA0NzE0NDMsLTE1NzEwNDcwNCwxNjYyMzQ1NjIsLT
-IzNzM3MzMxMSw2OTEzODI3MjIsMTE2NjMyODgwNiw5NTYxNzIy
-NTFdfQ==
+eyJoaXN0b3J5IjpbMTc0OTcwMTI4MCwtMjA3ODUyNzY3MiwyMT
+M2NjQzMTUzLDEwNTIwNzg2OTEsLTE5MzMwMzA4NTksLTE1NTQ5
+NjYwNCw5NTY3NDU0NzMsMTgxMDQ3MTQ0MywtMTU3MTA0NzA0LD
+E2NjIzNDU2MiwtMjM3MzczMzExLDY5MTM4MjcyMiwxMTY2MzI4
+ODA2LDk1NjE3MjI1MV19
 -->
