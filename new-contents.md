@@ -63,9 +63,15 @@ For Git and GitHub I've found that the following coureses have the right content
 
 ## A fantastic presentation
 
+The following tutorial is really interesting:
 
+- [Data Science is Software | SciPy 2016 Tutorial | Peter Bull & Isaac Slavitt](https://www.youtube.com/watch?v=EKUy0TSLg04)
+
+Agenda
+- Project structure
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3NTkyMDE2MiwxODEwNDcxNDQzLC0xNT
-cxMDQ3MDQsMTY2MjM0NTYyLC0yMzczNzMzMTEsNjkxMzgyNzIy
-LDExNjYzMjg4MDYsOTU2MTcyMjUxXX0=
+eyJoaXN0b3J5IjpbLTIxMjEyMjUxNDIsMTgxMDQ3MTQ0MywtMT
+U3MTA0NzA0LDE2NjIzNDU2MiwtMjM3MzczMzExLDY5MTM4Mjcy
+MiwxMTY2MzI4ODA2LDk1NjE3MjI1MV19
 -->
