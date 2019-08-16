@@ -79,10 +79,10 @@ I forked the repository of this presentation. The LinkedIn profile of the speake
 - [https://www.linkedin.com/in/isaacslavitt/](https://www.linkedin.com/in/isaacslavitt/)
 - [https://www.linkedin.com/in/pjbull/](https://www.linkedin.com/in/pjbull/)
 
-Paul Bull is also co-author of the 
+Paul Bull is also co-author of the [cookiecutter-data-science](https://github.com/drivendata/cookiecutter-data-science) and 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg5ODMwMzQzLC0xNTU0OTY2MDQsOTU2Nz
-Q1NDczLDE4MTA0NzE0NDMsLTE1NzEwNDcwNCwxNjYyMzQ1NjIs
-LTIzNzM3MzMxMSw2OTEzODI3MjIsMTE2NjMyODgwNiw5NTYxNz
-IyNTFdfQ==
+eyJoaXN0b3J5IjpbMTU4MjM5NzcxNiwtMTU1NDk2NjA0LDk1Nj
+c0NTQ3MywxODEwNDcxNDQzLC0xNTcxMDQ3MDQsMTY2MjM0NTYy
+LC0yMzczNzMzMTEsNjkxMzgyNzIyLDExNjYzMjg4MDYsOTU2MT
+cyMjUxXX0=
 -->
