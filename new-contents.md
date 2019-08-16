@@ -87,8 +87,9 @@ Paul Bull is also co-author of the [cookiecutter-data-science](https://github.co
 
 [https://www.udemy.com/courses/search/?src=ukw&q=unit%20testing%20python](https://www.udemy.com/courses/search/?src=ukw&q=unit%20testing%20python)
 
+- [Raphael Pierzina - Kickstarting projects with Cookiecutter](https://www.youtube.com/watch?v=nExL0SgKsDY)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwMzI4NDY5MiwxMDUyMDc4NjkxLC0xOT
+eyJoaXN0b3J5IjpbMjEzNjY0MzE1MywxMDUyMDc4NjkxLC0xOT
 MzMDMwODU5LC0xNTU0OTY2MDQsOTU2NzQ1NDczLDE4MTA0NzE0
 NDMsLTE1NzEwNDcwNCwxNjYyMzQ1NjIsLTIzNzM3MzMxMSw2OT
 EzODI3MjIsMTE2NjMyODgwNiw5NTYxNzIyNTFdfQ==
