@@ -124,9 +124,11 @@ In the above presentation there is an slide naming some interesting software dev
 
 - writing modular, reusable code
 - Documentation
-- Versio
+- Version control
+- Testing
+- Logging
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDMyNzU2MDEsMTA5MTE1OTgwMiw2Nz
+eyJoaXN0b3J5IjpbLTEyMTMyNDYwMzcsMTA5MTE1OTgwMiw2Nz
 M3NzUwNjQsMTU5NTE4ODgyMywtMTE5NzMyMzgxNCwxMjYxMDU4
 NzUxLDE3NDk3MDEyODAsLTIwNzg1Mjc2NzIsMjEzNjY0MzE1My
 wxMDUyMDc4NjkxLC0xOTMzMDMwODU5LC0xNTU0OTY2MDQsOTU2
