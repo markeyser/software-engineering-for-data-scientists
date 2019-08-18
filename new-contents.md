@@ -116,11 +116,13 @@ The following presentation also contain a lot of of interesting references about
 - [Jes Ford - Getting Started Testing in Data Science - PyCon 2019](https://www.youtube.com/watch?v=0ysyWk-ox-8&list=PLPbTDk1hBo3y_yzy0ZIx_0PKlUiQ0WXG7&index=93&t=0s)
 
 The slides of the above presentation are [here](https://speakerdeck.com/pycon2019/jes-ford-getting-started-testing-in-data-science?slide=45). 
+
+- [Eric J Ma Best Testing Practices for Data Science PyCon 2017](https://www.youtube.com/watch?v=yACtdj1_IxE)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTUwNTcyNjgsMTU5NTE4ODgyMywtMT
-E5NzMyMzgxNCwxMjYxMDU4NzUxLDE3NDk3MDEyODAsLTIwNzg1
-Mjc2NzIsMjEzNjY0MzE1MywxMDUyMDc4NjkxLC0xOTMzMDMwOD
-U5LC0xNTU0OTY2MDQsOTU2NzQ1NDczLDE4MTA0NzE0NDMsLTE1
-NzEwNDcwNCwxNjYyMzQ1NjIsLTIzNzM3MzMxMSw2OTEzODI3Mj
-IsMTE2NjMyODgwNiw5NTYxNzIyNTFdfQ==
+eyJoaXN0b3J5IjpbLTM1NDI5MTMwOCwxNTk1MTg4ODIzLC0xMT
+k3MzIzODE0LDEyNjEwNTg3NTEsMTc0OTcwMTI4MCwtMjA3ODUy
+NzY3MiwyMTM2NjQzMTUzLDEwNTIwNzg2OTEsLTE5MzMwMzA4NT
+ksLTE1NTQ5NjYwNCw5NTY3NDU0NzMsMTgxMDQ3MTQ0MywtMTU3
+MTA0NzA0LDE2NjIzNDU2MiwtMjM3MzczMzExLDY5MTM4MjcyMi
+wxMTY2MzI4ODA2LDk1NjE3MjI1MV19
 -->
