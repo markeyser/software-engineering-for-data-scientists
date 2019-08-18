@@ -60,7 +60,8 @@ For Git and GitHub I've found that the following coureses have the right content
 - [GitHub For Data Science -01-201904241531](https://www.youtube.com/watch?v=85x666vJGJ0)
 - [What is Git LFS?](https://www.youtube.com/watch?v=9gaTargV5BY)
 - [Jon Bodner | You got your engineering in my Data Science: Addressing the reproducibility crisis](https://www.youtube.com/watch?v=U1dg1QwLp98)
-- [https://www.youtube.com/watch?v=BvqLgeNVg0Y](https://www.youtube.com/watch?v=BvqLgeNVg0Y)
+- [Right Code, Right Place, Right Time - Tim Hopper](https://www.youtube.com/watch?v=BvqLgeNVg0Y)
+[# Contributing to Open Source: A Guide - Paul Ganssle](https://www.youtube.com/watch?v=JhPC6_rO08s)
 
 ## Data Science Project Folder Structure
 
@@ -99,7 +100,7 @@ Paul Bull is also co-author of the [cookiecutter-data-science](https://github.co
 - [Raoul-Gabriel Urma, Kevin Lemagnen: Adv. Software Testing for Data Scientists | PyData London 2019](https://www.youtube.com/watch?v=WTj6T0QdHHM&list=PLGVZCDnMOq0ocea1dd0it7jX7HgvZCjSW&index=9&t=0s)
 - [Christopher Samiullah, Soledad Galli: Testing and Validating MLMs | PyData London 2019](https://www.youtube.com/watch?v=2qhUIl1MBe4&list=PLGVZCDnMOq0ocea1dd0it7jX7HgvZCjSW&index=34&t=0s)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQyNjk2NzkyLC0xMTk3MzIzODE0LDEyNj
+eyJoaXN0b3J5IjpbOTg2OTAwMjQ0LC0xMTk3MzIzODE0LDEyNj
 EwNTg3NTEsMTc0OTcwMTI4MCwtMjA3ODUyNzY3MiwyMTM2NjQz
 MTUzLDEwNTIwNzg2OTEsLTE5MzMwMzA4NTksLTE1NTQ5NjYwNC
 w5NTY3NDU0NzMsMTgxMDQ3MTQ0MywtMTU3MTA0NzA0LDE2NjIz
