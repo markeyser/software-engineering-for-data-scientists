@@ -111,10 +111,13 @@ Paul Bull is also co-author of the [cookiecutter-data-science](https://github.co
 
 ## Testing for Data Scientists
 
-The following presentation also
+The following presentation also contain a lot of of interesting references about testing in general and about how to use test in a data science context:
+
 - [Jes Ford - Getting Started Testing in Data Science - PyCon 2019](https://www.youtube.com/watch?v=0ysyWk-ox-8&list=PLPbTDk1hBo3y_yzy0ZIx_0PKlUiQ0WXG7&index=93&t=0s)
+
+The slides of the above presentation are [here](https://speakerdeck.com/pycon2019/jes-ford-getting-started-testing-in-data-science?slide=45). 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDA1NzQyMjEsMTU5NTE4ODgyMywtMT
+eyJoaXN0b3J5IjpbLTEwOTUwNTcyNjgsMTU5NTE4ODgyMywtMT
 E5NzMyMzgxNCwxMjYxMDU4NzUxLDE3NDk3MDEyODAsLTIwNzg1
 Mjc2NzIsMjEzNjY0MzE1MywxMDUyMDc4NjkxLC0xOTMzMDMwOD
 U5LC0xNTU0OTY2MDQsOTU2NzQ1NDczLDE4MTA0NzE0NDMsLTE1
