@@ -130,13 +130,13 @@ In the above presentation there is an slide naming some interesting software dev
 
 This presentation is really interesting.
 
-
+[https://www.youtube.com/watch?v=LdVJj65ikRY](https://www.youtube.com/watch?v=LdVJj65ikRY)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTAyMDkyNzAsLTEyMTMyNDYwMzcsMT
-A5MTE1OTgwMiw2NzM3NzUwNjQsMTU5NTE4ODgyMywtMTE5NzMy
-MzgxNCwxMjYxMDU4NzUxLDE3NDk3MDEyODAsLTIwNzg1Mjc2Nz
-IsMjEzNjY0MzE1MywxMDUyMDc4NjkxLC0xOTMzMDMwODU5LC0x
-NTU0OTY2MDQsOTU2NzQ1NDczLDE4MTA0NzE0NDMsLTE1NzEwND
-cwNCwxNjYyMzQ1NjIsLTIzNzM3MzMxMSw2OTEzODI3MjIsMTE2
-NjMyODgwNl19
+eyJoaXN0b3J5IjpbNDg0MDQxNjE3LC0xNzEwMjA5MjcwLC0xMj
+EzMjQ2MDM3LDEwOTExNTk4MDIsNjczNzc1MDY0LDE1OTUxODg4
+MjMsLTExOTczMjM4MTQsMTI2MTA1ODc1MSwxNzQ5NzAxMjgwLC
+0yMDc4NTI3NjcyLDIxMzY2NDMxNTMsMTA1MjA3ODY5MSwtMTkz
+MzAzMDg1OSwtMTU1NDk2NjA0LDk1Njc0NTQ3MywxODEwNDcxND
+QzLC0xNTcxMDQ3MDQsMTY2MjM0NTYyLC0yMzczNzMzMTEsNjkx
+MzgyNzIyXX0=
 -->
