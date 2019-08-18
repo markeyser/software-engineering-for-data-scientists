@@ -71,7 +71,9 @@ For Git and GitHub I've found that the following coureses have the right content
 
 - [Manage your data science project structure in early stage](https://towardsdatascience.com/manage-your-data-science-project-structure-in-early-stage-95f91d4d0600)
 - [How to manage machine learning projects](https://www.kaggle.com/general/4815)
-- [https://dzone.com/articles/data-science-project-folder-structure](https://dzone.com/articles/data-science-project-folder-structure)
+- [Data Science Project Folder Structure](https://dzone.com/articles/data-science-project-folder-structure)
+- [Azure-TDSP-ProjectTemplate](https://github.com/Azure/Azure-TDSP-ProjectTemplate)
+- [Charter.md](https://github.com/Azure/Azure-TDSP-ProjectTemplate/blob/master/Docs/Project/Charter.md)
 
 ## A fantastic presentation
 
@@ -106,10 +108,10 @@ Paul Bull is also co-author of the [cookiecutter-data-science](https://github.co
 - [Raoul-Gabriel Urma, Kevin Lemagnen: Adv. Software Testing for Data Scientists | PyData London 2019](https://www.youtube.com/watch?v=WTj6T0QdHHM&list=PLGVZCDnMOq0ocea1dd0it7jX7HgvZCjSW&index=9&t=0s)
 - [Christopher Samiullah, Soledad Galli: Testing and Validating MLMs | PyData London 2019](https://www.youtube.com/watch?v=2qhUIl1MBe4&list=PLGVZCDnMOq0ocea1dd0it7jX7HgvZCjSW&index=34&t=0s)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc4NTk0MzE0LC0xMTk3MzIzODE0LDEyNj
-EwNTg3NTEsMTc0OTcwMTI4MCwtMjA3ODUyNzY3MiwyMTM2NjQz
-MTUzLDEwNTIwNzg2OTEsLTE5MzMwMzA4NTksLTE1NTQ5NjYwNC
-w5NTY3NDU0NzMsMTgxMDQ3MTQ0MywtMTU3MTA0NzA0LDE2NjIz
-NDU2MiwtMjM3MzczMzExLDY5MTM4MjcyMiwxMTY2MzI4ODA2LD
-k1NjE3MjI1MV19
+eyJoaXN0b3J5IjpbLTI3Mzk1OTM5OCwtMTE5NzMyMzgxNCwxMj
+YxMDU4NzUxLDE3NDk3MDEyODAsLTIwNzg1Mjc2NzIsMjEzNjY0
+MzE1MywxMDUyMDc4NjkxLC0xOTMzMDMwODU5LC0xNTU0OTY2MD
+QsOTU2NzQ1NDczLDE4MTA0NzE0NDMsLTE1NzEwNDcwNCwxNjYy
+MzQ1NjIsLTIzNzM3MzMxMSw2OTEzODI3MjIsMTE2NjMyODgwNi
+w5NTYxNzIyNTFdfQ==
 -->
