@@ -130,13 +130,13 @@ In the above presentation there is an slide naming some interesting software dev
 
 This presentation is really interesting.
 
-[https://www.youtube.com/watch?v=LdVJj65ikRY](https://www.youtube.com/watch?v=LdVJj65ikRY)
+[Andreas Pelme's - Introduction to PyTest](https://www.youtube.com/watch?v=LdVJj65ikRY)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg0MDQxNjE3LC0xNzEwMjA5MjcwLC0xMj
-EzMjQ2MDM3LDEwOTExNTk4MDIsNjczNzc1MDY0LDE1OTUxODg4
-MjMsLTExOTczMjM4MTQsMTI2MTA1ODc1MSwxNzQ5NzAxMjgwLC
-0yMDc4NTI3NjcyLDIxMzY2NDMxNTMsMTA1MjA3ODY5MSwtMTkz
-MzAzMDg1OSwtMTU1NDk2NjA0LDk1Njc0NTQ3MywxODEwNDcxND
-QzLC0xNTcxMDQ3MDQsMTY2MjM0NTYyLC0yMzczNzMzMTEsNjkx
-MzgyNzIyXX0=
+eyJoaXN0b3J5IjpbMTQ2MDI0MjA2OSw0ODQwNDE2MTcsLTE3MT
+AyMDkyNzAsLTEyMTMyNDYwMzcsMTA5MTE1OTgwMiw2NzM3NzUw
+NjQsMTU5NTE4ODgyMywtMTE5NzMyMzgxNCwxMjYxMDU4NzUxLD
+E3NDk3MDEyODAsLTIwNzg1Mjc2NzIsMjEzNjY0MzE1MywxMDUy
+MDc4NjkxLC0xOTMzMDMwODU5LC0xNTU0OTY2MDQsOTU2NzQ1ND
+czLDE4MTA0NzE0NDMsLTE1NzEwNDcwNCwxNjYyMzQ1NjIsLTIz
+NzM3MzMxMV19
 -->
