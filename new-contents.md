@@ -61,7 +61,8 @@ For Git and GitHub I've found that the following coureses have the right content
 - [What is Git LFS?](https://www.youtube.com/watch?v=9gaTargV5BY)
 - [Jon Bodner | You got your engineering in my Data Science: Addressing the reproducibility crisis](https://www.youtube.com/watch?v=U1dg1QwLp98)
 - [Right Code, Right Place, Right Time - Tim Hopper](https://www.youtube.com/watch?v=BvqLgeNVg0Y)
-[# Contributing to Open Source: A Guide - Paul Ganssle](https://www.youtube.com/watch?v=JhPC6_rO08s)
+- [Contributing to Open Source: A Guide - Paul Ganssle](https://www.youtube.com/watch?v=JhPC6_rO08s)
+- [From a model to production like a Pro: Software-engineering Best-Practices - Marcel Krčah](https://www.youtube.com/watch?v=MKrPXfvIWoc&t=3s)
 
 ## Data Science Project Folder Structure
 
@@ -100,10 +101,10 @@ Paul Bull is also co-author of the [cookiecutter-data-science](https://github.co
 - [Raoul-Gabriel Urma, Kevin Lemagnen: Adv. Software Testing for Data Scientists | PyData London 2019](https://www.youtube.com/watch?v=WTj6T0QdHHM&list=PLGVZCDnMOq0ocea1dd0it7jX7HgvZCjSW&index=9&t=0s)
 - [Christopher Samiullah, Soledad Galli: Testing and Validating MLMs | PyData London 2019](https://www.youtube.com/watch?v=2qhUIl1MBe4&list=PLGVZCDnMOq0ocea1dd0it7jX7HgvZCjSW&index=34&t=0s)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg2OTAwMjQ0LC0xMTk3MzIzODE0LDEyNj
-EwNTg3NTEsMTc0OTcwMTI4MCwtMjA3ODUyNzY3MiwyMTM2NjQz
-MTUzLDEwNTIwNzg2OTEsLTE5MzMwMzA4NTksLTE1NTQ5NjYwNC
-w5NTY3NDU0NzMsMTgxMDQ3MTQ0MywtMTU3MTA0NzA0LDE2NjIz
-NDU2MiwtMjM3MzczMzExLDY5MTM4MjcyMiwxMTY2MzI4ODA2LD
-k1NjE3MjI1MV19
+eyJoaXN0b3J5IjpbLTE3MTU2MDA1OTIsLTExOTczMjM4MTQsMT
+I2MTA1ODc1MSwxNzQ5NzAxMjgwLC0yMDc4NTI3NjcyLDIxMzY2
+NDMxNTMsMTA1MjA3ODY5MSwtMTkzMzAzMDg1OSwtMTU1NDk2Nj
+A0LDk1Njc0NTQ3MywxODEwNDcxNDQzLC0xNTcxMDQ3MDQsMTY2
+MjM0NTYyLC0yMzczNzMzMTEsNjkxMzgyNzIyLDExNjYzMjg4MD
+YsOTU2MTcyMjUxXX0=
 -->
