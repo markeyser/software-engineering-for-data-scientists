@@ -108,11 +108,16 @@ Paul Bull is also co-author of the [cookiecutter-data-science](https://github.co
 - [Kevin Lemagnen: Maintainable code in data science | PyData London 2019](https://www.youtube.com/watch?v=_UE8fsVuQYc&list=PLGVZCDnMOq0ocea1dd0it7jX7HgvZCjSW&index=7&t=0s)
 - [Raoul-Gabriel Urma, Kevin Lemagnen: Adv. Software Testing for Data Scientists | PyData London 2019](https://www.youtube.com/watch?v=WTj6T0QdHHM&list=PLGVZCDnMOq0ocea1dd0it7jX7HgvZCjSW&index=9&t=0s)
 - [Christopher Samiullah, Soledad Galli: Testing and Validating MLMs | PyData London 2019](https://www.youtube.com/watch?v=2qhUIl1MBe4&list=PLGVZCDnMOq0ocea1dd0it7jX7HgvZCjSW&index=34&t=0s)
+
+## Testing for Data Scientists
+
+The following presentation also
+- [Jes Ford - Getting Started Testing in Data Science - PyCon 2019](https://www.youtube.com/watch?v=0ysyWk-ox-8&list=PLPbTDk1hBo3y_yzy0ZIx_0PKlUiQ0WXG7&index=93&t=0s)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5NTE4ODgyMywtMTE5NzMyMzgxNCwxMj
-YxMDU4NzUxLDE3NDk3MDEyODAsLTIwNzg1Mjc2NzIsMjEzNjY0
-MzE1MywxMDUyMDc4NjkxLC0xOTMzMDMwODU5LC0xNTU0OTY2MD
-QsOTU2NzQ1NDczLDE4MTA0NzE0NDMsLTE1NzEwNDcwNCwxNjYy
-MzQ1NjIsLTIzNzM3MzMxMSw2OTEzODI3MjIsMTE2NjMyODgwNi
-w5NTYxNzIyNTFdfQ==
+eyJoaXN0b3J5IjpbLTE4MDA1NzQyMjEsMTU5NTE4ODgyMywtMT
+E5NzMyMzgxNCwxMjYxMDU4NzUxLDE3NDk3MDEyODAsLTIwNzg1
+Mjc2NzIsMjEzNjY0MzE1MywxMDUyMDc4NjkxLC0xOTMzMDMwOD
+U5LC0xNTU0OTY2MDQsOTU2NzQ1NDczLDE4MTA0NzE0NDMsLTE1
+NzEwNDcwNCwxNjYyMzQ1NjIsLTIzNzM3MzMxMSw2OTEzODI3Mj
+IsMTE2NjMyODgwNiw5NTYxNzIyNTFdfQ==
 -->
