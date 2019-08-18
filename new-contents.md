@@ -132,10 +132,10 @@ This presentation is really interesting.
 
 - [Andreas Pelme's - Introduction to pytest](https://www.youtube.com/watch?v=LdVJj65ikRY)
 - [Mark Vousden's - Python testing 3-part series of youtube videos](https://www.youtube.com/channel/UCKaKhMyhboLoMwmeF9yxg9w)
-- [https://www.youtube.com/watch?v=LDdUuoI_lIg](https://www.youtube.com/watch?v=LDdUuoI_lIg)
+- [Justin Crown - "WHAT IS THIS MESS?" - Writing tests for pre-existing code bases - PyCon 2018](https://www.youtube.com/watch?v=LDdUuoI_lIg)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5NzIyNTQ1Nyw0ODQwNDE2MTcsLTE3MT
+eyJoaXN0b3J5IjpbMTA1MDgxMDQyMiw0ODQwNDE2MTcsLTE3MT
 AyMDkyNzAsLTEyMTMyNDYwMzcsMTA5MTE1OTgwMiw2NzM3NzUw
 NjQsMTU5NTE4ODgyMywtMTE5NzMyMzgxNCwxMjYxMDU4NzUxLD
 E3NDk3MDEyODAsLTIwNzg1Mjc2NzIsMjEzNjY0MzE1MywxMDUy
