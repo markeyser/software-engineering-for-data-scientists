@@ -137,12 +137,14 @@ This presentation is really interesting.
 - [Justin Crown - "WHAT IS THIS MESS?" - Writing tests for pre-existing code bases - PyCon 2018](https://www.youtube.com/watch?v=LDdUuoI_lIg)
 - [Ned Batchelder: Getting Started Testing - PyCon 2014 (focuses on unittest)](https://www.youtube.com/watch?v=FxSsnHeWQBY)
 
+Another great presentation
+- [To trust or to test?: Automated testing of scientific projects with pytest - PyCon 2019](https://www.youtube.com/watch?v=G-MAMrJ-CSA&list=PLPbTDk1hBo3xof51R8pk3kP1BVBuMYP9c&index=13&t=0s)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyMDUxMzgxNSwtMTAzMDkyNDUxMSw0OD
-QwNDE2MTcsLTE3MTAyMDkyNzAsLTEyMTMyNDYwMzcsMTA5MTE1
-OTgwMiw2NzM3NzUwNjQsMTU5NTE4ODgyMywtMTE5NzMyMzgxNC
-wxMjYxMDU4NzUxLDE3NDk3MDEyODAsLTIwNzg1Mjc2NzIsMjEz
-NjY0MzE1MywxMDUyMDc4NjkxLC0xOTMzMDMwODU5LC0xNTU0OT
-Y2MDQsOTU2NzQ1NDczLDE4MTA0NzE0NDMsLTE1NzEwNDcwNCwx
-NjYyMzQ1NjJdfQ==
+eyJoaXN0b3J5IjpbMTk0NDYxNDMzNSwtNzIwNTEzODE1LC0xMD
+MwOTI0NTExLDQ4NDA0MTYxNywtMTcxMDIwOTI3MCwtMTIxMzI0
+NjAzNywxMDkxMTU5ODAyLDY3Mzc3NTA2NCwxNTk1MTg4ODIzLC
+0xMTk3MzIzODE0LDEyNjEwNTg3NTEsMTc0OTcwMTI4MCwtMjA3
+ODUyNzY3MiwyMTM2NjQzMTUzLDEwNTIwNzg2OTEsLTE5MzMwMz
+A4NTksLTE1NTQ5NjYwNCw5NTY3NDU0NzMsMTgxMDQ3MTQ0Mywt
+MTU3MTA0NzA0XX0=
 -->
