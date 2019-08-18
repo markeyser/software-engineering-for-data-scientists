@@ -46,6 +46,7 @@ For Git and GitHub I've found that the following coureses have the right content
 - [GitHub & Collaboration- Udacity - free course](https://eu.udacity.com/course/github-collaboration--ud456)
 - [Optimize your GitHub](https://eu.udacity.com/course/optimize-your-github--ud247)
 - [Introduction to Git for Data Science](https://www.datacamp.com/courses/introduction-to-git-for-data-science) 
+- [https://www.youtube.com/watch?v=RrdECLvHW6g](https://www.youtube.com/watch?v=RrdECLvHW6g)
 
 ## Version control for Data Science projects
 
@@ -140,7 +141,7 @@ This presentation is really interesting.
 Another great presentation
 - [To trust or to test?: Automated testing of scientific projects with pytest - PyCon 2019](https://www.youtube.com/watch?v=G-MAMrJ-CSA&list=PLPbTDk1hBo3xof51R8pk3kP1BVBuMYP9c&index=13&t=0s)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0NDYxNDMzNSwtNzIwNTEzODE1LC0xMD
+eyJoaXN0b3J5IjpbMjA3MTkwMTM3NywtNzIwNTEzODE1LC0xMD
 MwOTI0NTExLDQ4NDA0MTYxNywtMTcxMDIwOTI3MCwtMTIxMzI0
 NjAzNywxMDkxMTU5ODAyLDY3Mzc3NTA2NCwxNTk1MTg4ODIzLC
 0xMTk3MzIzODE0LDEyNjEwNTg3NTEsMTc0OTcwMTI4MCwtMjA3
