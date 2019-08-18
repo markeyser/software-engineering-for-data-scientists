@@ -133,14 +133,14 @@ This presentation is really interesting.
 - [Andreas Pelme's - Introduction to pytest](https://www.youtube.com/watch?v=LdVJj65ikRY)
 - [Mark Vousden's - Python testing 3-part series of youtube videos](https://www.youtube.com/channel/UCKaKhMyhboLoMwmeF9yxg9w)
 - [Justin Crown - "WHAT IS THIS MESS?" - Writing tests for pre-existing code bases - PyCon 2018](https://www.youtube.com/watch?v=LDdUuoI_lIg)
-- [# Ned Batchelder: Getting Started Testing - PyCon 2014](https://www.youtube.com/watch?v=FxSsnHeWQBY)
+- [Ned Batchelder: Getting Started Testing - PyCon 2014 (focuses on unittest)](https://www.youtube.com/watch?v=FxSsnHeWQBY)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNDMzMjU4NCw0ODQwNDE2MTcsLTE3MT
-AyMDkyNzAsLTEyMTMyNDYwMzcsMTA5MTE1OTgwMiw2NzM3NzUw
-NjQsMTU5NTE4ODgyMywtMTE5NzMyMzgxNCwxMjYxMDU4NzUxLD
-E3NDk3MDEyODAsLTIwNzg1Mjc2NzIsMjEzNjY0MzE1MywxMDUy
-MDc4NjkxLC0xOTMzMDMwODU5LC0xNTU0OTY2MDQsOTU2NzQ1ND
-czLDE4MTA0NzE0NDMsLTE1NzEwNDcwNCwxNjYyMzQ1NjIsLTIz
-NzM3MzMxMV19
+eyJoaXN0b3J5IjpbLTEwMzA5MjQ1MTEsNDg0MDQxNjE3LC0xNz
+EwMjA5MjcwLC0xMjEzMjQ2MDM3LDEwOTExNTk4MDIsNjczNzc1
+MDY0LDE1OTUxODg4MjMsLTExOTczMjM4MTQsMTI2MTA1ODc1MS
+wxNzQ5NzAxMjgwLC0yMDc4NTI3NjcyLDIxMzY2NDMxNTMsMTA1
+MjA3ODY5MSwtMTkzMzAzMDg1OSwtMTU1NDk2NjA0LDk1Njc0NT
+Q3MywxODEwNDcxNDQzLC0xNTcxMDQ3MDQsMTY2MjM0NTYyLC0y
+MzczNzMzMTFdfQ==
 -->
