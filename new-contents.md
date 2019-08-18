@@ -119,11 +119,13 @@ The slides of the above presentation are [here](https://speakerdeck.com/pycon201
 
 - [Eric J Ma Best Testing Practices for Data Science PyCon 2017](https://www.youtube.com/watch?v=yACtdj1_IxE)
 - [Trey Causey: Testing for Data Scientists](https://www.youtube.com/watch?v=GEqM9uJi64Q)
+
+In the above presentation there is an slide naming the 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjczNzc1MDY0LDE1OTUxODg4MjMsLTExOT
-czMjM4MTQsMTI2MTA1ODc1MSwxNzQ5NzAxMjgwLC0yMDc4NTI3
-NjcyLDIxMzY2NDMxNTMsMTA1MjA3ODY5MSwtMTkzMzAzMDg1OS
-wtMTU1NDk2NjA0LDk1Njc0NTQ3MywxODEwNDcxNDQzLC0xNTcx
-MDQ3MDQsMTY2MjM0NTYyLC0yMzczNzMzMTEsNjkxMzgyNzIyLD
-ExNjYzMjg4MDYsOTU2MTcyMjUxXX0=
+eyJoaXN0b3J5IjpbMTA5MTE1OTgwMiw2NzM3NzUwNjQsMTU5NT
+E4ODgyMywtMTE5NzMyMzgxNCwxMjYxMDU4NzUxLDE3NDk3MDEy
+ODAsLTIwNzg1Mjc2NzIsMjEzNjY0MzE1MywxMDUyMDc4NjkxLC
+0xOTMzMDMwODU5LC0xNTU0OTY2MDQsOTU2NzQ1NDczLDE4MTA0
+NzE0NDMsLTE1NzEwNDcwNCwxNjYyMzQ1NjIsLTIzNzM3MzMxMS
+w2OTEzODI3MjIsMTE2NjMyODgwNiw5NTYxNzIyNTFdfQ==
 -->
