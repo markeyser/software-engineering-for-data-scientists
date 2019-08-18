@@ -74,6 +74,7 @@ For Git and GitHub I've found that the following coureses have the right content
 - [Data Science Project Folder Structure](https://dzone.com/articles/data-science-project-folder-structure)
 - [Azure-TDSP-ProjectTemplate](https://github.com/Azure/Azure-TDSP-ProjectTemplate)
 - [Charter.md](https://github.com/Azure/Azure-TDSP-ProjectTemplate/blob/master/Docs/Project/Charter.md)
+- [Installing Cookiecutter data science project template](https://www.youtube.com/watch?v=E6X0dFSAW08)
 
 ## A fantastic presentation
 
@@ -108,7 +109,7 @@ Paul Bull is also co-author of the [cookiecutter-data-science](https://github.co
 - [Raoul-Gabriel Urma, Kevin Lemagnen: Adv. Software Testing for Data Scientists | PyData London 2019](https://www.youtube.com/watch?v=WTj6T0QdHHM&list=PLGVZCDnMOq0ocea1dd0it7jX7HgvZCjSW&index=9&t=0s)
 - [Christopher Samiullah, Soledad Galli: Testing and Validating MLMs | PyData London 2019](https://www.youtube.com/watch?v=2qhUIl1MBe4&list=PLGVZCDnMOq0ocea1dd0it7jX7HgvZCjSW&index=34&t=0s)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3Mzk1OTM5OCwtMTE5NzMyMzgxNCwxMj
+eyJoaXN0b3J5IjpbMTU5NTE4ODgyMywtMTE5NzMyMzgxNCwxMj
 YxMDU4NzUxLDE3NDk3MDEyODAsLTIwNzg1Mjc2NzIsMjEzNjY0
 MzE1MywxMDUyMDc4NjkxLC0xOTMzMDMwODU5LC0xNTU0OTY2MD
 QsOTU2NzQ1NDczLDE4MTA0NzE0NDMsLTE1NzEwNDcwNCwxNjYy
