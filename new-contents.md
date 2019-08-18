@@ -63,6 +63,8 @@ For Git and GitHub I've found that the following coureses have the right content
 - [Right Code, Right Place, Right Time - Tim Hopper](https://www.youtube.com/watch?v=BvqLgeNVg0Y)
 - [Contributing to Open Source: A Guide - Paul Ganssle](https://www.youtube.com/watch?v=JhPC6_rO08s)
 - [From a model to production like a Pro: Software-engineering Best-Practices - Marcel Krčah](https://www.youtube.com/watch?v=MKrPXfvIWoc&t=3s)
+- [COMS W4995 Applied Machine Learning Spring 2019 - Schedule](https://www.cs.columbia.edu/~amueller/comsw4995s19/schedule/)
+- [Applied Machine Learning 2019 - Lecture 02 - Version control and Testing](https://www.youtube.com/watch?v=EPVwnG-n4B0)
 
 ## Data Science Project Folder Structure
 
@@ -101,7 +103,7 @@ Paul Bull is also co-author of the [cookiecutter-data-science](https://github.co
 - [Raoul-Gabriel Urma, Kevin Lemagnen: Adv. Software Testing for Data Scientists | PyData London 2019](https://www.youtube.com/watch?v=WTj6T0QdHHM&list=PLGVZCDnMOq0ocea1dd0it7jX7HgvZCjSW&index=9&t=0s)
 - [Christopher Samiullah, Soledad Galli: Testing and Validating MLMs | PyData London 2019](https://www.youtube.com/watch?v=2qhUIl1MBe4&list=PLGVZCDnMOq0ocea1dd0it7jX7HgvZCjSW&index=34&t=0s)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTU2MDA1OTIsLTExOTczMjM4MTQsMT
+eyJoaXN0b3J5IjpbLTEwOTg2ODMwOTAsLTExOTczMjM4MTQsMT
 I2MTA1ODc1MSwxNzQ5NzAxMjgwLC0yMDc4NTI3NjcyLDIxMzY2
 NDMxNTMsMTA1MjA3ODY5MSwtMTkzMzAzMDg1OSwtMTU1NDk2Nj
 A0LDk1Njc0NTQ3MywxODEwNDcxNDQzLC0xNTcxMDQ3MDQsMTY2
