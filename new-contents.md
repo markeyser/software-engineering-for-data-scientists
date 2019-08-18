@@ -120,12 +120,17 @@ The slides of the above presentation are [here](https://speakerdeck.com/pycon201
 - [Eric J Ma Best Testing Practices for Data Science PyCon 2017](https://www.youtube.com/watch?v=yACtdj1_IxE)
 - [Trey Causey: Testing for Data Scientists](https://www.youtube.com/watch?v=GEqM9uJi64Q)
 
-In the above presentation there is an slide naming the 
+In the above presentation there is an slide naming some interesting software development skills for data scientists [here more ](http://treycausey.com/software_dev_skills.html):
+
+- writing modular, reusable code
+- Documentation
+- Versio
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5MTE1OTgwMiw2NzM3NzUwNjQsMTU5NT
-E4ODgyMywtMTE5NzMyMzgxNCwxMjYxMDU4NzUxLDE3NDk3MDEy
-ODAsLTIwNzg1Mjc2NzIsMjEzNjY0MzE1MywxMDUyMDc4NjkxLC
-0xOTMzMDMwODU5LC0xNTU0OTY2MDQsOTU2NzQ1NDczLDE4MTA0
-NzE0NDMsLTE1NzEwNDcwNCwxNjYyMzQ1NjIsLTIzNzM3MzMxMS
-w2OTEzODI3MjIsMTE2NjMyODgwNiw5NTYxNzIyNTFdfQ==
+eyJoaXN0b3J5IjpbLTEzMDMyNzU2MDEsMTA5MTE1OTgwMiw2Nz
+M3NzUwNjQsMTU5NTE4ODgyMywtMTE5NzMyMzgxNCwxMjYxMDU4
+NzUxLDE3NDk3MDEyODAsLTIwNzg1Mjc2NzIsMjEzNjY0MzE1My
+wxMDUyMDc4NjkxLC0xOTMzMDMwODU5LC0xNTU0OTY2MDQsOTU2
+NzQ1NDczLDE4MTA0NzE0NDMsLTE1NzEwNDcwNCwxNjYyMzQ1Nj
+IsLTIzNzM3MzMxMSw2OTEzODI3MjIsMTE2NjMyODgwNiw5NTYx
+NzIyNTFdfQ==
 -->
