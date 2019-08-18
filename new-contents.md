@@ -56,6 +56,7 @@ For Git and GitHub I've found that the following coureses have the right content
 - [Software-development-skills-data-scientists](https://www.kdnuggets.com/2015/12/software-development-skills-data-scientists.html)
 - [4 Things Data Scientists Should Learn From Software Engineers](https://towardsdatascience.com/be-a-better-data-scientist-1a5ad87fe48)
 - [Why-a-data-scientist-is-not-a-data-engineer](https://www.oreilly.com/ideas/why-a-data-scientist-is-not-a-data-engineer)
+- [https://www.youtube.com/watch?v=vEeiFth9SeE](https://www.youtube.com/watch?v=vEeiFth9SeE)
 
 ## Data Science Project Folder Structure
 
@@ -94,9 +95,10 @@ Paul Bull is also co-author of the [cookiecutter-data-science](https://github.co
 - [Raoul-Gabriel Urma, Kevin Lemagnen: Adv. Software Testing for Data Scientists | PyData London 2019](https://www.youtube.com/watch?v=WTj6T0QdHHM&list=PLGVZCDnMOq0ocea1dd0it7jX7HgvZCjSW&index=9&t=0s)
 - [Christopher Samiullah, Soledad Galli: Testing and Validating MLMs | PyData London 2019](https://www.youtube.com/watch?v=2qhUIl1MBe4&list=PLGVZCDnMOq0ocea1dd0it7jX7HgvZCjSW&index=34&t=0s)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2MTA1ODc1MSwxNzQ5NzAxMjgwLC0yMD
-c4NTI3NjcyLDIxMzY2NDMxNTMsMTA1MjA3ODY5MSwtMTkzMzAz
-MDg1OSwtMTU1NDk2NjA0LDk1Njc0NTQ3MywxODEwNDcxNDQzLC
-0xNTcxMDQ3MDQsMTY2MjM0NTYyLC0yMzczNzMzMTEsNjkxMzgy
-NzIyLDExNjYzMjg4MDYsOTU2MTcyMjUxXX0=
+eyJoaXN0b3J5IjpbLTE1NDg5NTk3NzksMTI2MTA1ODc1MSwxNz
+Q5NzAxMjgwLC0yMDc4NTI3NjcyLDIxMzY2NDMxNTMsMTA1MjA3
+ODY5MSwtMTkzMzAzMDg1OSwtMTU1NDk2NjA0LDk1Njc0NTQ3My
+wxODEwNDcxNDQzLC0xNTcxMDQ3MDQsMTY2MjM0NTYyLC0yMzcz
+NzMzMTEsNjkxMzgyNzIyLDExNjYzMjg4MDYsOTU2MTcyMjUxXX
+0=
 -->
