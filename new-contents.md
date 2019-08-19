@@ -150,7 +150,8 @@ Another great presentation
 - [Version Control and Unit Testing for Scientific Software, SciPy2013 Tutorial, Part 2 of 3](https://www.youtube.com/watch?v=-shepsIjEZs)
 - [Jérôme Petazzoni, AJ Bowen - Getting started with Kubernetes and container orchestration](https://www.youtube.com/watch?v=J08MrW2NC1Y&list=PLPbTDk1hBo3xof51R8pk3kP1BVBuMYP9c&index=18&t=0s)
 - [Sergio Sánchez - Analyzing Census Data with Pandas - PyCon 2019](https://www.youtube.com/watch?v=sGtCgYWzOV4&list=PLPbTDk1hBo3xof51R8pk3kP1BVBuMYP9c&index=19&t=0s)
-- [https://www.freecodecamp.org/news/which-languages-should-you-learn-for-data-science-e806ba55a81f/](https://www.freecodecamp.org/news/which-languages-should-you-learn-for-data-science-e806ba55a81f/)
+- [Tania Allard - Building data pipelines in Python: Airflow vs scripts soup - PyCon 2019](https://www.youtube.com/watch?v=n9_JjmHRtys&list=PLPbTDk1hBo3xof51R8pk3kP1BVBuMYP9c&index=26&t=0s)
+- [Which languages should you learn for data science?](https://www.freecodecamp.org/news/which-languages-should-you-learn-for-data-science-e806ba55a81f/)
 
 
 ## Logging 
@@ -168,7 +169,7 @@ By the way, an Atom package for debbuing [here](https://atom.io/packages/python-
 
 - [A guided tour of Python logging](https://www.youtube.com/watch?v=DxZ5WEo4hvU)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTYwMzI5NDAsMTEzMjI3NTcxMiw0Nz
+eyJoaXN0b3J5IjpbLTE1NzU4NTUzNjYsMTEzMjI3NTcxMiw0Nz
 I1OTE2NzQsMzIwNjczNTg4LC0yMTI4NDQ4NTY4LC05MTg4Njkz
 MzEsMjEyOTAzNDg5OCw2NDEwNzY5MTgsLTE3MDMwNDI1MzcsLT
 cyMDUxMzgxNSwtMTAzMDkyNDUxMSw0ODQwNDE2MTcsLTE3MTAy
