@@ -151,16 +151,16 @@ The following presentation is really good:
 
 - [Albert Sweigart, "Logging and Testing and Debugging, Oh My!", PyBay2017](https://www.youtube.com/watch?v=ONCVvS-gDMA)
 
-The above talk is about logging, debugging, testing (doctest package), 
+The above talk is about logging, debugging, testing (doctest package). The discussion at the end of the presentation is really intesting. They talked about [this](https://inventwithpython.com/blog/2012/04/06/stop-using-print-for-debugging-a-5-minute-quickstart-guide-to-pythons-logging-module/).
 
 
 - [A guided tour of Python logging](https://www.youtube.com/watch?v=DxZ5WEo4hvU)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxODg2OTMzMSwyMTI5MDM0ODk4LDY0MT
-A3NjkxOCwtMTcwMzA0MjUzNywtNzIwNTEzODE1LC0xMDMwOTI0
-NTExLDQ4NDA0MTYxNywtMTcxMDIwOTI3MCwtMTIxMzI0NjAzNy
-wxMDkxMTU5ODAyLDY3Mzc3NTA2NCwxNTk1MTg4ODIzLC0xMTk3
-MzIzODE0LDEyNjEwNTg3NTEsMTc0OTcwMTI4MCwtMjA3ODUyNz
-Y3MiwyMTM2NjQzMTUzLDEwNTIwNzg2OTEsLTE5MzMwMzA4NTks
-LTE1NTQ5NjYwNF19
+eyJoaXN0b3J5IjpbLTIxMjg0NDg1NjgsLTkxODg2OTMzMSwyMT
+I5MDM0ODk4LDY0MTA3NjkxOCwtMTcwMzA0MjUzNywtNzIwNTEz
+ODE1LC0xMDMwOTI0NTExLDQ4NDA0MTYxNywtMTcxMDIwOTI3MC
+wtMTIxMzI0NjAzNywxMDkxMTU5ODAyLDY3Mzc3NTA2NCwxNTk1
+MTg4ODIzLC0xMTk3MzIzODE0LDEyNjEwNTg3NTEsMTc0OTcwMT
+I4MCwtMjA3ODUyNzY3MiwyMTM2NjQzMTUzLDEwNTIwNzg2OTEs
+LTE5MzMwMzA4NTldfQ==
 -->
