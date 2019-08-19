@@ -145,7 +145,8 @@ Another great presentation
 
 - [Kevin Markham - Data Science Best Practices with pandas - PyCon 2019](https://www.youtube.com/watch?v=ZjrUmNq41Eo&list=PLPbTDk1hBo3xof51R8pk3kP1BVBuMYP9c&index=5&t=0s)
 - [Dave Forgac - Writing Command Line Applications that Click - PyCon 2019](https://www.youtube.com/watch?v=Sv7rRGTaMHE&list=PLPbTDk1hBo3xof51R8pk3kP1BVBuMYP9c&index=28&t=0s)
-- 
+- [DevOps Tutorial for Beginners | Learn DevOps in 7 Hours - Full Course | DevOps Training | Edureka](https://www.youtube.com/watch?v=hQcFE0RD0cQ)
+- [# Version Control and Unit Testing for Scientific Software, SciPy2013 Tutorial, Part 2 of 3](https://www.youtube.com/watch?v=-shepsIjEZs)
 
 ## Logging 
 
@@ -162,11 +163,11 @@ By the way, an Atom package for debbuing [here](https://atom.io/packages/python-
 
 - [A guided tour of Python logging](https://www.youtube.com/watch?v=DxZ5WEo4hvU)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwNzc5NzA0NSw0NzI1OTE2NzQsMzIwNj
-czNTg4LC0yMTI4NDQ4NTY4LC05MTg4NjkzMzEsMjEyOTAzNDg5
-OCw2NDEwNzY5MTgsLTE3MDMwNDI1MzcsLTcyMDUxMzgxNSwtMT
-AzMDkyNDUxMSw0ODQwNDE2MTcsLTE3MTAyMDkyNzAsLTEyMTMy
-NDYwMzcsMTA5MTE1OTgwMiw2NzM3NzUwNjQsMTU5NTE4ODgyMy
-wtMTE5NzMyMzgxNCwxMjYxMDU4NzUxLDE3NDk3MDEyODAsLTIw
-Nzg1Mjc2NzJdfQ==
+eyJoaXN0b3J5IjpbNjAwODcxOTM5LDQ3MjU5MTY3NCwzMjA2Nz
+M1ODgsLTIxMjg0NDg1NjgsLTkxODg2OTMzMSwyMTI5MDM0ODk4
+LDY0MTA3NjkxOCwtMTcwMzA0MjUzNywtNzIwNTEzODE1LC0xMD
+MwOTI0NTExLDQ4NDA0MTYxNywtMTcxMDIwOTI3MCwtMTIxMzI0
+NjAzNywxMDkxMTU5ODAyLDY3Mzc3NTA2NCwxNTk1MTg4ODIzLC
+0xMTk3MzIzODE0LDEyNjEwNTg3NTEsMTc0OTcwMTI4MCwtMjA3
+ODUyNzY3Ml19
 -->
