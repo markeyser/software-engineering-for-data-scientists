@@ -145,6 +145,7 @@ Another great presentation
 
 - [Kevin Markham - Data Science Best Practices with pandas - PyCon 2019](https://www.youtube.com/watch?v=ZjrUmNq41Eo&list=PLPbTDk1hBo3xof51R8pk3kP1BVBuMYP9c&index=5&t=0s)
 - [Dave Forgac - Writing Command Line Applications that Click - PyCon 2019](https://www.youtube.com/watch?v=Sv7rRGTaMHE&list=PLPbTDk1hBo3xof51R8pk3kP1BVBuMYP9c&index=28&t=0s)
+- 
 
 ## Logging 
 
@@ -161,11 +162,11 @@ By the way, an Atom package for debbuing [here](https://atom.io/packages/python-
 
 - [A guided tour of Python logging](https://www.youtube.com/watch?v=DxZ5WEo4hvU)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDcyNTkxNjc0LDMyMDY3MzU4OCwtMjEyOD
-Q0ODU2OCwtOTE4ODY5MzMxLDIxMjkwMzQ4OTgsNjQxMDc2OTE4
-LC0xNzAzMDQyNTM3LC03MjA1MTM4MTUsLTEwMzA5MjQ1MTEsND
-g0MDQxNjE3LC0xNzEwMjA5MjcwLC0xMjEzMjQ2MDM3LDEwOTEx
-NTk4MDIsNjczNzc1MDY0LDE1OTUxODg4MjMsLTExOTczMjM4MT
-QsMTI2MTA1ODc1MSwxNzQ5NzAxMjgwLC0yMDc4NTI3NjcyLDIx
-MzY2NDMxNTNdfQ==
+eyJoaXN0b3J5IjpbMjAwNzc5NzA0NSw0NzI1OTE2NzQsMzIwNj
+czNTg4LC0yMTI4NDQ4NTY4LC05MTg4NjkzMzEsMjEyOTAzNDg5
+OCw2NDEwNzY5MTgsLTE3MDMwNDI1MzcsLTcyMDUxMzgxNSwtMT
+AzMDkyNDUxMSw0ODQwNDE2MTcsLTE3MTAyMDkyNzAsLTEyMTMy
+NDYwMzcsMTA5MTE1OTgwMiw2NzM3NzUwNjQsMTU5NTE4ODgyMy
+wtMTE5NzMyMzgxNCwxMjYxMDU4NzUxLDE3NDk3MDEyODAsLTIw
+Nzg1Mjc2NzJdfQ==
 -->
