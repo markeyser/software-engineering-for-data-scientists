@@ -168,12 +168,13 @@ By the way, an Atom package for debbuing [here](https://atom.io/packages/python-
 
 
 - [A guided tour of Python logging](https://www.youtube.com/watch?v=DxZ5WEo4hvU)
+- [Logging for Scientific Computing: Reproducibility, Debugging, Optimization - PyCon 2019](https://www.youtube.com/watch?v=ctYZje9yI-Q&list=PLPbTDk1hBo3y_yzy0ZIx_0PKlUiQ0WXG7&index=88&t=0s)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzU4NTUzNjYsMTEzMjI3NTcxMiw0Nz
-I1OTE2NzQsMzIwNjczNTg4LC0yMTI4NDQ4NTY4LC05MTg4Njkz
-MzEsMjEyOTAzNDg5OCw2NDEwNzY5MTgsLTE3MDMwNDI1MzcsLT
-cyMDUxMzgxNSwtMTAzMDkyNDUxMSw0ODQwNDE2MTcsLTE3MTAy
-MDkyNzAsLTEyMTMyNDYwMzcsMTA5MTE1OTgwMiw2NzM3NzUwNj
-QsMTU5NTE4ODgyMywtMTE5NzMyMzgxNCwxMjYxMDU4NzUxLDE3
-NDk3MDEyODBdfQ==
+eyJoaXN0b3J5IjpbMzExMDIxMDc5LDExMzIyNzU3MTIsNDcyNT
+kxNjc0LDMyMDY3MzU4OCwtMjEyODQ0ODU2OCwtOTE4ODY5MzMx
+LDIxMjkwMzQ4OTgsNjQxMDc2OTE4LC0xNzAzMDQyNTM3LC03Mj
+A1MTM4MTUsLTEwMzA5MjQ1MTEsNDg0MDQxNjE3LC0xNzEwMjA5
+MjcwLC0xMjEzMjQ2MDM3LDEwOTExNTk4MDIsNjczNzc1MDY0LD
+E1OTUxODg4MjMsLTExOTczMjM4MTQsMTI2MTA1ODc1MSwxNzQ5
+NzAxMjgwXX0=
 -->
