@@ -140,12 +140,16 @@ This presentation is really interesting.
 
 Another great presentation
 - [To trust or to test?: Automated testing of scientific projects with pytest - PyCon 2019](https://www.youtube.com/watch?v=G-MAMrJ-CSA&list=PLPbTDk1hBo3xof51R8pk3kP1BVBuMYP9c&index=13&t=0s)
+
+## Other
+
+- [Kevin Markham - Data Science Best Practices with pandas - PyCon 2019](https://www.youtube.com/watch?v=ZjrUmNq41Eo&list=PLPbTDk1hBo3xof51R8pk3kP1BVBuMYP9c&index=5&t=0s)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDMwNDI1MzcsLTcyMDUxMzgxNSwtMT
-AzMDkyNDUxMSw0ODQwNDE2MTcsLTE3MTAyMDkyNzAsLTEyMTMy
-NDYwMzcsMTA5MTE1OTgwMiw2NzM3NzUwNjQsMTU5NTE4ODgyMy
-wtMTE5NzMyMzgxNCwxMjYxMDU4NzUxLDE3NDk3MDEyODAsLTIw
-Nzg1Mjc2NzIsMjEzNjY0MzE1MywxMDUyMDc4NjkxLC0xOTMzMD
-MwODU5LC0xNTU0OTY2MDQsOTU2NzQ1NDczLDE4MTA0NzE0NDMs
-LTE1NzEwNDcwNF19
+eyJoaXN0b3J5IjpbNjQxMDc2OTE4LC0xNzAzMDQyNTM3LC03Mj
+A1MTM4MTUsLTEwMzA5MjQ1MTEsNDg0MDQxNjE3LC0xNzEwMjA5
+MjcwLC0xMjEzMjQ2MDM3LDEwOTExNTk4MDIsNjczNzc1MDY0LD
+E1OTUxODg4MjMsLTExOTczMjM4MTQsMTI2MTA1ODc1MSwxNzQ5
+NzAxMjgwLC0yMDc4NTI3NjcyLDIxMzY2NDMxNTMsMTA1MjA3OD
+Y5MSwtMTkzMzAzMDg1OSwtMTU1NDk2NjA0LDk1Njc0NTQ3Mywx
+ODEwNDcxNDQzXX0=
 -->
