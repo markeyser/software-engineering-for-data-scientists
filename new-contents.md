@@ -155,16 +155,16 @@ The speaker is the author of this [this book](https://automatetheboringstuff.com
 
 The above talk is about logging, debugging, testing (doctest package). The discussion at the end of the presentation is really intesting. They talked about [this](https://inventwithpython.com/blog/2012/04/06/stop-using-print-for-debugging-a-5-minute-quickstart-guide-to-pythons-logging-module/). 
 
-By the way, a
+By the way, an Atom package for debbuing [here](https://atom.io/packages/python-debugger).
 
 
 - [A guided tour of Python logging](https://www.youtube.com/watch?v=DxZ5WEo4hvU)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxMDcxNzk2NiwtMjEyODQ0ODU2OCwtOT
-E4ODY5MzMxLDIxMjkwMzQ4OTgsNjQxMDc2OTE4LC0xNzAzMDQy
-NTM3LC03MjA1MTM4MTUsLTEwMzA5MjQ1MTEsNDg0MDQxNjE3LC
-0xNzEwMjA5MjcwLC0xMjEzMjQ2MDM3LDEwOTExNTk4MDIsNjcz
-Nzc1MDY0LDE1OTUxODg4MjMsLTExOTczMjM4MTQsMTI2MTA1OD
-c1MSwxNzQ5NzAxMjgwLC0yMDc4NTI3NjcyLDIxMzY2NDMxNTMs
-MTA1MjA3ODY5MV19
+eyJoaXN0b3J5IjpbMzIwNjczNTg4LC0yMTI4NDQ4NTY4LC05MT
+g4NjkzMzEsMjEyOTAzNDg5OCw2NDEwNzY5MTgsLTE3MDMwNDI1
+MzcsLTcyMDUxMzgxNSwtMTAzMDkyNDUxMSw0ODQwNDE2MTcsLT
+E3MTAyMDkyNzAsLTEyMTMyNDYwMzcsMTA5MTE1OTgwMiw2NzM3
+NzUwNjQsMTU5NTE4ODgyMywtMTE5NzMyMzgxNCwxMjYxMDU4Nz
+UxLDE3NDk3MDEyODAsLTIwNzg1Mjc2NzIsMjEzNjY0MzE1Mywx
+MDUyMDc4NjkxXX0=
 -->
