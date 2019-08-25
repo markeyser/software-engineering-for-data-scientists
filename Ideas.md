@@ -5,7 +5,12 @@
 
 ## Some ideas
 
-There are
+There are two backgrounds in Data Science:
+
+- Statistics, Mathematics, Physics, Economics, etc.
+- 
+
+I can devote the courses to the 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2ODI4OTAyOF19
+eyJoaXN0b3J5IjpbLTgxMzg1MDY5NywtMzY4Mjg5MDI4XX0=
 -->
