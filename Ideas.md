@@ -12,8 +12,10 @@ There are two backgrounds in Data Science:
 
 > I realized that some CS people end up working as Data Engineers but other works in specialized fields like NLP. Some NLP positions ask only for CS backgrounds. 
 
-I can devote the courses to those people coming from an statistical background mainly. 
+I can devote the courses to those people coming from a statistical background mainly.
+
+I could create a version for Python and another for R. This is because data engineer 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2OTI1MzEyOCwxNDU4ODEwMjYsLTM2OD
+eyJoaXN0b3J5IjpbMTE5Nzg3MDk3NiwxNDU4ODEwMjYsLTM2OD
 I4OTAyOF19
 -->
