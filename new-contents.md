@@ -169,12 +169,16 @@ By the way, an Atom package for debbuing [here](https://atom.io/packages/python-
 
 - [A guided tour of Python logging](https://www.youtube.com/watch?v=DxZ5WEo4hvU)
 - [Logging for Scientific Computing: Reproducibility, Debugging, Optimization - PyCon 2019](https://www.youtube.com/watch?v=ctYZje9yI-Q&list=PLPbTDk1hBo3y_yzy0ZIx_0PKlUiQ0WXG7&index=88&t=0s)
+
+The following article is 
+
+- [The case against the jupyter notebook - Joel Grus on the TDS podcast](https://towardsdatascience.com/the-case-against-the-jupyter-notebook-d4da17e97243)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzExMDIxMDc5LDExMzIyNzU3MTIsNDcyNT
-kxNjc0LDMyMDY3MzU4OCwtMjEyODQ0ODU2OCwtOTE4ODY5MzMx
-LDIxMjkwMzQ4OTgsNjQxMDc2OTE4LC0xNzAzMDQyNTM3LC03Mj
-A1MTM4MTUsLTEwMzA5MjQ1MTEsNDg0MDQxNjE3LC0xNzEwMjA5
-MjcwLC0xMjEzMjQ2MDM3LDEwOTExNTk4MDIsNjczNzc1MDY0LD
-E1OTUxODg4MjMsLTExOTczMjM4MTQsMTI2MTA1ODc1MSwxNzQ5
-NzAxMjgwXX0=
+eyJoaXN0b3J5IjpbMzczMDkyMzcwLDMxMTAyMTA3OSwxMTMyMj
+c1NzEyLDQ3MjU5MTY3NCwzMjA2NzM1ODgsLTIxMjg0NDg1Njgs
+LTkxODg2OTMzMSwyMTI5MDM0ODk4LDY0MTA3NjkxOCwtMTcwMz
+A0MjUzNywtNzIwNTEzODE1LC0xMDMwOTI0NTExLDQ4NDA0MTYx
+NywtMTcxMDIwOTI3MCwtMTIxMzI0NjAzNywxMDkxMTU5ODAyLD
+Y3Mzc3NTA2NCwxNTk1MTg4ODIzLC0xMTk3MzIzODE0LDEyNjEw
+NTg3NTFdfQ==
 -->
