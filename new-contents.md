@@ -1,4 +1,13 @@
+
+
+
 > Written with [StackEdit](https://stackedit.io/).
+
+The following article is mentions the opinion of Joel Grus abut software engineering in Data Science:
+
+_Overall, Joel’s objections to Jupyter notebooks seem to come in large part from his somewhat philosophical view that **data scientists should follow the same set of best practices that any good software engineers would**. For instance, Joel stresses the importance of [writing unit tests](https://www.freecodecamp.org/news/learning-to-test-with-python-997ace2d8abe/?source=post_stats_page---------------------------) (even for data science code), and is a strong proponent of using type annotation (if you aren’t familiar with that, you should [definitely learn about it here](https://medium.com/@shamir.stav_83310/the-other-great-benefit-of-python-type-annotations-896c7d077c6b))._
+
+- [The case against the jupyter notebook - Joel Grus on the TDS podcast](https://towardsdatascience.com/the-case-against-the-jupyter-notebook-d4da17e97243)
 
 The following topics are relevant for Data Scientists
 
@@ -170,17 +179,14 @@ By the way, an Atom package for debbuing [here](https://atom.io/packages/python-
 - [A guided tour of Python logging](https://www.youtube.com/watch?v=DxZ5WEo4hvU)
 - [Logging for Scientific Computing: Reproducibility, Debugging, Optimization - PyCon 2019](https://www.youtube.com/watch?v=ctYZje9yI-Q&list=PLPbTDk1hBo3y_yzy0ZIx_0PKlUiQ0WXG7&index=88&t=0s)
 
-The following article is mentions the opinion of Joel Grus abut software engineering in Data Science:
 
-_Overall, Joel’s objections to Jupyter notebooks seem to come in large part from his somewhat philosophical view that **data scientists should follow the same set of best practices that any good software engineers would**. For instance, Joel stresses the importance of [writing unit tests](https://www.freecodecamp.org/news/learning-to-test-with-python-997ace2d8abe/?source=post_stats_page---------------------------) (even for data science code), and is a strong proponent of using type annotation (if you aren’t familiar with that, you should [definitely learn about it here](https://medium.com/@shamir.stav_83310/the-other-great-benefit-of-python-type-annotations-896c7d077c6b))._
 
-- [The case against the jupyter notebook - Joel Grus on the TDS podcast](https://towardsdatascience.com/the-case-against-the-jupyter-notebook-d4da17e97243)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDc2NjAwNDYsMzczMDkyMzcwLDMxMT
-AyMTA3OSwxMTMyMjc1NzEyLDQ3MjU5MTY3NCwzMjA2NzM1ODgs
-LTIxMjg0NDg1NjgsLTkxODg2OTMzMSwyMTI5MDM0ODk4LDY0MT
-A3NjkxOCwtMTcwMzA0MjUzNywtNzIwNTEzODE1LC0xMDMwOTI0
-NTExLDQ4NDA0MTYxNywtMTcxMDIwOTI3MCwtMTIxMzI0NjAzNy
-wxMDkxMTU5ODAyLDY3Mzc3NTA2NCwxNTk1MTg4ODIzLC0xMTk3
-MzIzODE0XX0=
+eyJoaXN0b3J5IjpbNzI3NDkxNDE0LDM3MzA5MjM3MCwzMTEwMj
+EwNzksMTEzMjI3NTcxMiw0NzI1OTE2NzQsMzIwNjczNTg4LC0y
+MTI4NDQ4NTY4LC05MTg4NjkzMzEsMjEyOTAzNDg5OCw2NDEwNz
+Y5MTgsLTE3MDMwNDI1MzcsLTcyMDUxMzgxNSwtMTAzMDkyNDUx
+MSw0ODQwNDE2MTcsLTE3MTAyMDkyNzAsLTEyMTMyNDYwMzcsMT
+A5MTE1OTgwMiw2NzM3NzUwNjQsMTU5NTE4ODgyMywtMTE5NzMy
+MzgxNF19
 -->
