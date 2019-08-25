@@ -14,8 +14,10 @@ There are two backgrounds in Data Science:
 
 I can devote the courses to those people coming from a statistical background mainly.
 
-I could create a version for Python and another for R. This is because data engineer 
+I could create a version for Python and another for R. This is because data engineer practices depends on the programming language you use.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5Nzg3MDk3NiwxNDU4ODEwMjYsLTM2OD
+eyJoaXN0b3J5IjpbMTk1NTExNTQ5MCwxNDU4ODEwMjYsLTM2OD
 I4OTAyOF19
 -->
