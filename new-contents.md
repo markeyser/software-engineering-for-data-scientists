@@ -3,6 +3,10 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 
+_Data Scientists (n.): Person who is better at statistics than any software engineer and better at software engineering than any statistician._
+
+[source](http://blog.kaggle.com/2012/10/04/engineering-practices-in-data-science/)
+
 The following article is mentions the opinion of Joel Grus abut software engineering in Data Science:
 
 _Overall, Joel’s objections to Jupyter notebooks seem to come in large part from his somewhat philosophical view that **data scientists should follow the same set of best practices that any good software engineers would**. For instance, Joel stresses the importance of [writing unit tests](https://www.freecodecamp.org/news/learning-to-test-with-python-997ace2d8abe/?source=post_stats_page---------------------------) (even for data science code), and is a strong proponent of using type annotation (if you aren’t familiar with that, you should [definitely learn about it here](https://medium.com/@shamir.stav_83310/the-other-great-benefit-of-python-type-annotations-896c7d077c6b))._
@@ -183,11 +187,11 @@ By the way, an Atom package for debbuing [here](https://atom.io/packages/python-
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0MDg0ODAzMCw3Mjc0OTE0MTQsMzczMD
-kyMzcwLDMxMTAyMTA3OSwxMTMyMjc1NzEyLDQ3MjU5MTY3NCwz
-MjA2NzM1ODgsLTIxMjg0NDg1NjgsLTkxODg2OTMzMSwyMTI5MD
-M0ODk4LDY0MTA3NjkxOCwtMTcwMzA0MjUzNywtNzIwNTEzODE1
-LC0xMDMwOTI0NTExLDQ4NDA0MTYxNywtMTcxMDIwOTI3MCwtMT
-IxMzI0NjAzNywxMDkxMTU5ODAyLDY3Mzc3NTA2NCwxNTk1MTg4
-ODIzXX0=
+eyJoaXN0b3J5IjpbMTc2NTA2MzY0LDE3NDA4NDgwMzAsNzI3ND
+kxNDE0LDM3MzA5MjM3MCwzMTEwMjEwNzksMTEzMjI3NTcxMiw0
+NzI1OTE2NzQsMzIwNjczNTg4LC0yMTI4NDQ4NTY4LC05MTg4Nj
+kzMzEsMjEyOTAzNDg5OCw2NDEwNzY5MTgsLTE3MDMwNDI1Mzcs
+LTcyMDUxMzgxNSwtMTAzMDkyNDUxMSw0ODQwNDE2MTcsLTE3MT
+AyMDkyNzAsLTEyMTMyNDYwMzcsMTA5MTE1OTgwMiw2NzM3NzUw
+NjRdfQ==
 -->
