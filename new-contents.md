@@ -53,7 +53,8 @@ For Git and GitHub I've found that the following coureses have the right content
 
 - [Version Control with git - Udacity - Free course](https://eu.udacity.com/course/version-control-with-git--ud123)
 - [GitHub & Collaboration- Udacity - free course](https://eu.udacity.com/course/github-collaboration--ud456)
-- [Optimize your GitHub](https://eu.udacity.com/course/optimize-your-github--ud247)
+- [Optimize your GitHub - Udacity - Free course](https://eu.udacity.com/course/optimize-your-github--ud247)
+- [Writing readmes - Udacity - Free course](https://www.udacity.com/course/writing-readmes--ud777)
 - [Introduction to Git for Data Science](https://www.datacamp.com/courses/introduction-to-git-for-data-science) 
 - [David Baumgold - Get Started with Git - PyCon 2016](https://www.youtube.com/watch?v=RrdECLvHW6g)
 
@@ -182,11 +183,11 @@ By the way, an Atom package for debbuing [here](https://atom.io/packages/python-
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI3NDkxNDE0LDM3MzA5MjM3MCwzMTEwMj
-EwNzksMTEzMjI3NTcxMiw0NzI1OTE2NzQsMzIwNjczNTg4LC0y
-MTI4NDQ4NTY4LC05MTg4NjkzMzEsMjEyOTAzNDg5OCw2NDEwNz
-Y5MTgsLTE3MDMwNDI1MzcsLTcyMDUxMzgxNSwtMTAzMDkyNDUx
-MSw0ODQwNDE2MTcsLTE3MTAyMDkyNzAsLTEyMTMyNDYwMzcsMT
-A5MTE1OTgwMiw2NzM3NzUwNjQsMTU5NTE4ODgyMywtMTE5NzMy
-MzgxNF19
+eyJoaXN0b3J5IjpbMTc0MDg0ODAzMCw3Mjc0OTE0MTQsMzczMD
+kyMzcwLDMxMTAyMTA3OSwxMTMyMjc1NzEyLDQ3MjU5MTY3NCwz
+MjA2NzM1ODgsLTIxMjg0NDg1NjgsLTkxODg2OTMzMSwyMTI5MD
+M0ODk4LDY0MTA3NjkxOCwtMTcwMzA0MjUzNywtNzIwNTEzODE1
+LC0xMDMwOTI0NTExLDQ4NDA0MTYxNywtMTcxMDIwOTI3MCwtMT
+IxMzI0NjAzNywxMDkxMTU5ODAyLDY3Mzc3NTA2NCwxNTk1MTg4
+ODIzXX0=
 -->
