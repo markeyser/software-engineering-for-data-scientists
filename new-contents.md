@@ -168,6 +168,7 @@ Another great presentation
 - [Tania Allard - Building data pipelines in Python: Airflow vs scripts soup - PyCon 2019](https://www.youtube.com/watch?v=n9_JjmHRtys&list=PLPbTDk1hBo3xof51R8pk3kP1BVBuMYP9c&index=26&t=0s)
 - [Which languages should you learn for data science?](https://www.freecodecamp.org/news/which-languages-should-you-learn-for-data-science-e806ba55a81f/)
 - [How-to-avoid-common-difficulties-in-your-data-science-programming-environment](https://towardsdatascience.com/how-to-avoid-common-difficulties-in-your-data-science-programming-environment-1b78af2977df)
+- [Introducing-kedro-the-open-source-library-for-production-ready-machine-learning-code](https://medium.com/@QuantumBlack/introducing-kedro-the-open-source-library-for-production-ready-machine-learning-code-d1c6d26ce2cf)
 
 ## Logging 
 
@@ -189,11 +190,11 @@ By the way, an Atom package for debbuing [here](https://atom.io/packages/python-
 
 - [Creating-a-python-package-for-ubuntu-from-code-zero-to-apt-install](https://medium.com/@trstringer/creating-a-python-package-for-ubuntu-from-code-zero-to-apt-install-d02d0108144c)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwNDg1NDI1OCwxNzY1MDYzNjQsMTc0MD
-g0ODAzMCw3Mjc0OTE0MTQsMzczMDkyMzcwLDMxMTAyMTA3OSwx
-MTMyMjc1NzEyLDQ3MjU5MTY3NCwzMjA2NzM1ODgsLTIxMjg0ND
-g1NjgsLTkxODg2OTMzMSwyMTI5MDM0ODk4LDY0MTA3NjkxOCwt
-MTcwMzA0MjUzNywtNzIwNTEzODE1LC0xMDMwOTI0NTExLDQ4ND
-A0MTYxNywtMTcxMDIwOTI3MCwtMTIxMzI0NjAzNywxMDkxMTU5
-ODAyXX0=
+eyJoaXN0b3J5IjpbNTQ1MjMwMDg1LDE2MDQ4NTQyNTgsMTc2NT
+A2MzY0LDE3NDA4NDgwMzAsNzI3NDkxNDE0LDM3MzA5MjM3MCwz
+MTEwMjEwNzksMTEzMjI3NTcxMiw0NzI1OTE2NzQsMzIwNjczNT
+g4LC0yMTI4NDQ4NTY4LC05MTg4NjkzMzEsMjEyOTAzNDg5OCw2
+NDEwNzY5MTgsLTE3MDMwNDI1MzcsLTcyMDUxMzgxNSwtMTAzMD
+kyNDUxMSw0ODQwNDE2MTcsLTE3MTAyMDkyNzAsLTEyMTMyNDYw
+MzddfQ==
 -->
