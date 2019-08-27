@@ -185,10 +185,11 @@ By the way, an Atom package for debbuing [here](https://atom.io/packages/python-
 - [A guided tour of Python logging](https://www.youtube.com/watch?v=DxZ5WEo4hvU)
 - [Logging for Scientific Computing: Reproducibility, Debugging, Optimization - PyCon 2019](https://www.youtube.com/watch?v=ctYZje9yI-Q&list=PLPbTDk1hBo3y_yzy0ZIx_0PKlUiQ0WXG7&index=88&t=0s)
 
+## Packaging 
 
-
+- [Creating-a-python-package-for-ubuntu-from-code-zero-to-apt-install](https://medium.com/@trstringer/creating-a-python-package-for-ubuntu-from-code-zero-to-apt-install-d02d0108144c)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxNDI0NDIzNiwxNzY1MDYzNjQsMTc0MD
+eyJoaXN0b3J5IjpbMTYwNDg1NDI1OCwxNzY1MDYzNjQsMTc0MD
 g0ODAzMCw3Mjc0OTE0MTQsMzczMDkyMzcwLDMxMTAyMTA3OSwx
 MTMyMjc1NzEyLDQ3MjU5MTY3NCwzMjA2NzM1ODgsLTIxMjg0ND
 g1NjgsLTkxODg2OTMzMSwyMTI5MDM0ODk4LDY0MTA3NjkxOCwt
