@@ -57,7 +57,18 @@ In the following course:
 
 We can see the agenda [here](https://www.eventbrite.co.uk/e/software-engineering-for-data-scientists-tickets-66241132009?aff=erelexpmlt):
 
+During the course we'll:
 
+-   Develop defensive coding practices in our Notebook which double up as documentation
+-   Refactor Notebook code into modules for reuse and increased trust
+-   Add unit-tests to test our modules for trust and integration with a Continuous Integration pipeline
+-   Review a git process that uses nbdime for collaboration on Jupyter Notebooks
+-   Practice code reviews backed by a documented process you can take back to your team
+-   Review a standard research-to-deployment process using cookiecutter  
+    
+-   Discuss how to sell these new techniques to team members and senior staff to get critical buy-in to see change occur after the course
+-   Look at how "traditional" software engineering and "data science engineering" differ to highlight process differences that your software engineering colleagues probably haven't seen
+-   Write useful documentation in our code to improve future support
 
 
 ## Git & GitHub training courses
@@ -200,11 +211,11 @@ By the way, an Atom package for debbuing [here](https://atom.io/packages/python-
 
 - [Creating-a-python-package-for-ubuntu-from-code-zero-to-apt-install](https://medium.com/@trstringer/creating-a-python-package-for-ubuntu-from-code-zero-to-apt-install-d02d0108144c)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzAyMTgwODEzLDU0NTIzMDA4NSwxNjA0OD
-U0MjU4LDE3NjUwNjM2NCwxNzQwODQ4MDMwLDcyNzQ5MTQxNCwz
-NzMwOTIzNzAsMzExMDIxMDc5LDExMzIyNzU3MTIsNDcyNTkxNj
-c0LDMyMDY3MzU4OCwtMjEyODQ0ODU2OCwtOTE4ODY5MzMxLDIx
-MjkwMzQ4OTgsNjQxMDc2OTE4LC0xNzAzMDQyNTM3LC03MjA1MT
-M4MTUsLTEwMzA5MjQ1MTEsNDg0MDQxNjE3LC0xNzEwMjA5Mjcw
-XX0=
+eyJoaXN0b3J5IjpbMTgxNjI4MzQwNyw1NDUyMzAwODUsMTYwND
+g1NDI1OCwxNzY1MDYzNjQsMTc0MDg0ODAzMCw3Mjc0OTE0MTQs
+MzczMDkyMzcwLDMxMTAyMTA3OSwxMTMyMjc1NzEyLDQ3MjU5MT
+Y3NCwzMjA2NzM1ODgsLTIxMjg0NDg1NjgsLTkxODg2OTMzMSwy
+MTI5MDM0ODk4LDY0MTA3NjkxOCwtMTcwMzA0MjUzNywtNzIwNT
+EzODE1LC0xMDMwOTI0NTExLDQ4NDA0MTYxNywtMTcxMDIwOTI3
+MF19
 -->
