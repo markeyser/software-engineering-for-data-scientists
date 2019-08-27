@@ -58,6 +58,8 @@ Resources: the following resources are studied at CS undergraduate level. Theref
 - [Python 3 Programming Specialization](https://www.coursera.org/specializations/python-3-programming)
 - [python-3-object-oriented-programming-third-edition](https://www.packtpub.com/application-development/python-3-object-oriented-programming-third-edition)
 - [hands-software-engineering-python](https://www.packtpub.com/application-development/hands-software-engineering-python)
+- [University of Illinois launches new specialization on coursera to increase access to online-master-of-computer-science-degree/](https://blog.coursera.org/university-of-illinois-launches-new-specialization-on-coursera-to-increase-access-to-online-master-of-computer-science-degree/)
+- [Accelerated Computer Science Fundamentals Specialization](https://www.coursera.org/specializations/cs-fundamentals)
 
 ### Software Engineering and System Design
 
@@ -77,7 +79,7 @@ Resources: the following resources are studied at CS undergraduate level. Theref
 - [Architecting a machine learning pipeline I](https://towardsdatascience.com/architecting-a-machine-learning-pipeline-a847f094d1c7)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5Mjg3NzU0OSwxODEzMDYxMjA5LDY4MD
-A0NDI1NiwtMTAzNTcxNzY1LC0xMjcwODYxMjM4LC0yODY3NjM3
-ODQsODkwNjcwOTQwXX0=
+eyJoaXN0b3J5IjpbLTE2MjEzMTM1OTEsLTY5Mjg3NzU0OSwxOD
+EzMDYxMjA5LDY4MDA0NDI1NiwtMTAzNTcxNzY1LC0xMjcwODYx
+MjM4LC0yODY3NjM3ODQsODkwNjcwOTQwXX0=
 -->
