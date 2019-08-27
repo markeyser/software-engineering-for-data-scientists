@@ -167,7 +167,7 @@ Another great presentation
 - [Sergio Sánchez - Analyzing Census Data with Pandas - PyCon 2019](https://www.youtube.com/watch?v=sGtCgYWzOV4&list=PLPbTDk1hBo3xof51R8pk3kP1BVBuMYP9c&index=19&t=0s)
 - [Tania Allard - Building data pipelines in Python: Airflow vs scripts soup - PyCon 2019](https://www.youtube.com/watch?v=n9_JjmHRtys&list=PLPbTDk1hBo3xof51R8pk3kP1BVBuMYP9c&index=26&t=0s)
 - [Which languages should you learn for data science?](https://www.freecodecamp.org/news/which-languages-should-you-learn-for-data-science-e806ba55a81f/)
-
+- [How-to-avoid-common-difficulties-in-your-data-science-programming-environment](https://towardsdatascience.com/how-to-avoid-common-difficulties-in-your-data-science-programming-environment-1b78af2977df)
 
 ## Logging 
 
@@ -188,7 +188,7 @@ By the way, an Atom package for debbuing [here](https://atom.io/packages/python-
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5NjMzNTkxNiwxNzY1MDYzNjQsMTc0MD
+eyJoaXN0b3J5IjpbLTYxNDI0NDIzNiwxNzY1MDYzNjQsMTc0MD
 g0ODAzMCw3Mjc0OTE0MTQsMzczMDkyMzcwLDMxMTAyMTA3OSwx
 MTMyMjc1NzEyLDQ3MjU5MTY3NCwzMjA2NzM1ODgsLTIxMjg0ND
 g1NjgsLTkxODg2OTMzMSwyMTI5MDM0ODk4LDY0MTA3NjkxOCwt
