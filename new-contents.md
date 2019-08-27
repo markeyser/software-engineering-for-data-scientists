@@ -51,6 +51,15 @@ WEB DEVELOPMENT
 - Build a web application that uses Flask, Plotly, and the Bootstrap framework
 - Portfolio Exercise : Build a data dashboard
 
+In the following course:
+
+- [Software-engineering-for-data-scientists-and-successfully-delivering-data-science-projects](https://ianozsvald.com/2019/04/24/software-engineering-for-data-scientists-and-successfully-delivering-data-science-projects-2-courses-for-may/)
+
+We can see the agenda [here](https://www.eventbrite.co.uk/e/software-engineering-for-data-scientists-tickets-66241132009?aff=erelexpmlt):
+
+
+
+
 ## Git & GitHub training courses
  
 For Git and GitHub I've found that the following coureses have the right content:
@@ -170,6 +179,7 @@ Another great presentation
 - [How-to-avoid-common-difficulties-in-your-data-science-programming-environment](https://towardsdatascience.com/how-to-avoid-common-difficulties-in-your-data-science-programming-environment-1b78af2977df)
 - [Introducing-kedro-the-open-source-library-for-production-ready-machine-learning-code](https://medium.com/@QuantumBlack/introducing-kedro-the-open-source-library-for-production-ready-machine-learning-code-d1c6d26ce2cf)
 
+
 ## Logging 
 
 The following presentation is really good:
@@ -190,11 +200,11 @@ By the way, an Atom package for debbuing [here](https://atom.io/packages/python-
 
 - [Creating-a-python-package-for-ubuntu-from-code-zero-to-apt-install](https://medium.com/@trstringer/creating-a-python-package-for-ubuntu-from-code-zero-to-apt-install-d02d0108144c)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ1MjMwMDg1LDE2MDQ4NTQyNTgsMTc2NT
-A2MzY0LDE3NDA4NDgwMzAsNzI3NDkxNDE0LDM3MzA5MjM3MCwz
-MTEwMjEwNzksMTEzMjI3NTcxMiw0NzI1OTE2NzQsMzIwNjczNT
-g4LC0yMTI4NDQ4NTY4LC05MTg4NjkzMzEsMjEyOTAzNDg5OCw2
-NDEwNzY5MTgsLTE3MDMwNDI1MzcsLTcyMDUxMzgxNSwtMTAzMD
-kyNDUxMSw0ODQwNDE2MTcsLTE3MTAyMDkyNzAsLTEyMTMyNDYw
-MzddfQ==
+eyJoaXN0b3J5IjpbMzAyMTgwODEzLDU0NTIzMDA4NSwxNjA0OD
+U0MjU4LDE3NjUwNjM2NCwxNzQwODQ4MDMwLDcyNzQ5MTQxNCwz
+NzMwOTIzNzAsMzExMDIxMDc5LDExMzIyNzU3MTIsNDcyNTkxNj
+c0LDMyMDY3MzU4OCwtMjEyODQ0ODU2OCwtOTE4ODY5MzMxLDIx
+MjkwMzQ4OTgsNjQxMDc2OTE4LC0xNzAzMDQyNTM3LC03MjA1MT
+M4MTUsLTEwMzA5MjQ1MTEsNDg0MDQxNjE3LC0xNzEwMjA5Mjcw
+XX0=
 -->
