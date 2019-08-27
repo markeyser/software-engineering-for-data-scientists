@@ -61,6 +61,7 @@ For Git and GitHub I've found that the following coureses have the right content
 - [Writing readmes - Udacity - Free course](https://www.udacity.com/course/writing-readmes--ud777)
 - [Introduction to Git for Data Science](https://www.datacamp.com/courses/introduction-to-git-for-data-science) 
 - [David Baumgold - Get Started with Git - PyCon 2016](https://www.youtube.com/watch?v=RrdECLvHW6g)
+- [A-simple-git-guide-and-cheat-sheet-for-open-source-contributors](https://www.freecodecamp.org/news/a-simple-git-guide-and-cheat-sheet-for-open-source-contributors/)
 
 ## Version control for Data Science projects
 
@@ -187,11 +188,11 @@ By the way, an Atom package for debbuing [here](https://atom.io/packages/python-
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2NTA2MzY0LDE3NDA4NDgwMzAsNzI3ND
-kxNDE0LDM3MzA5MjM3MCwzMTEwMjEwNzksMTEzMjI3NTcxMiw0
-NzI1OTE2NzQsMzIwNjczNTg4LC0yMTI4NDQ4NTY4LC05MTg4Nj
-kzMzEsMjEyOTAzNDg5OCw2NDEwNzY5MTgsLTE3MDMwNDI1Mzcs
-LTcyMDUxMzgxNSwtMTAzMDkyNDUxMSw0ODQwNDE2MTcsLTE3MT
-AyMDkyNzAsLTEyMTMyNDYwMzcsMTA5MTE1OTgwMiw2NzM3NzUw
-NjRdfQ==
+eyJoaXN0b3J5IjpbMTc5NjMzNTkxNiwxNzY1MDYzNjQsMTc0MD
+g0ODAzMCw3Mjc0OTE0MTQsMzczMDkyMzcwLDMxMTAyMTA3OSwx
+MTMyMjc1NzEyLDQ3MjU5MTY3NCwzMjA2NzM1ODgsLTIxMjg0ND
+g1NjgsLTkxODg2OTMzMSwyMTI5MDM0ODk4LDY0MTA3NjkxOCwt
+MTcwMzA0MjUzNywtNzIwNTEzODE1LC0xMDMwOTI0NTExLDQ4ND
+A0MTYxNywtMTcxMDIwOTI3MCwtMTIxMzI0NjAzNywxMDkxMTU5
+ODAyXX0=
 -->
