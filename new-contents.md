@@ -13,6 +13,10 @@ _Overall, Joel’s objections to Jupyter notebooks seem to come in large part fr
 
 - [The case against the jupyter notebook - Joel Grus on the TDS podcast](https://towardsdatascience.com/the-case-against-the-jupyter-notebook-d4da17e97243)
 
+Another interesting article:
+
+- [Why Jupyter Is Not My Ideal Notebook](https://blog.sicara.com/jupyter-notebook-analysis-production-b2d585204520)
+
 The following topics are relevant for Data Scientists
 
 - Modularity
@@ -211,7 +215,7 @@ By the way, an Atom package for debbuing [here](https://atom.io/packages/python-
 
 - [Creating-a-python-package-for-ubuntu-from-code-zero-to-apt-install](https://medium.com/@trstringer/creating-a-python-package-for-ubuntu-from-code-zero-to-apt-install-d02d0108144c)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxNjI4MzQwNyw1NDUyMzAwODUsMTYwND
+eyJoaXN0b3J5IjpbLTI5MzQ1OTE3Miw1NDUyMzAwODUsMTYwND
 g1NDI1OCwxNzY1MDYzNjQsMTc0MDg0ODAzMCw3Mjc0OTE0MTQs
 MzczMDkyMzcwLDMxMTAyMTA3OSwxMTMyMjc1NzEyLDQ3MjU5MT
 Y3NCwzMjA2NzM1ODgsLTIxMjg0NDg1NjgsLTkxODg2OTMzMSwy
