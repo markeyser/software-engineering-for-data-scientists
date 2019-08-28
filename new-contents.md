@@ -21,6 +21,9 @@ Another interesting article:
 
 - [Why Jupyter Is Not My Ideal Notebook](https://blog.sicara.com/jupyter-notebook-analysis-production-b2d585204520)
 
+- [how-to-write-a-production-level-code-in-data-science](https://towardsdatascience.com/how-to-write-a-production-level-code-in-data-science-5d87bd75ced)
+- [Do-you-write-production-code-as-a-data-scientist](http://www.juyang.co/do-you-write-production-code-as-a-data-scientist/)
+
 The following topics are relevant for Data Scientists
 
 - Modularity
@@ -219,11 +222,11 @@ By the way, an Atom package for debbuing [here](https://atom.io/packages/python-
 
 - [Creating-a-python-package-for-ubuntu-from-code-zero-to-apt-install](https://medium.com/@trstringer/creating-a-python-package-for-ubuntu-from-code-zero-to-apt-install-d02d0108144c)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDc0NTM0ODEsLTI5MzQ1OTE3Miw1ND
-UyMzAwODUsMTYwNDg1NDI1OCwxNzY1MDYzNjQsMTc0MDg0ODAz
-MCw3Mjc0OTE0MTQsMzczMDkyMzcwLDMxMTAyMTA3OSwxMTMyMj
-c1NzEyLDQ3MjU5MTY3NCwzMjA2NzM1ODgsLTIxMjg0NDg1Njgs
-LTkxODg2OTMzMSwyMTI5MDM0ODk4LDY0MTA3NjkxOCwtMTcwMz
-A0MjUzNywtNzIwNTEzODE1LC0xMDMwOTI0NTExLDQ4NDA0MTYx
-N119
+eyJoaXN0b3J5IjpbMTc5MzYyNDk2OCwtMjE0NzQ1MzQ4MSwtMj
+kzNDU5MTcyLDU0NTIzMDA4NSwxNjA0ODU0MjU4LDE3NjUwNjM2
+NCwxNzQwODQ4MDMwLDcyNzQ5MTQxNCwzNzMwOTIzNzAsMzExMD
+IxMDc5LDExMzIyNzU3MTIsNDcyNTkxNjc0LDMyMDY3MzU4OCwt
+MjEyODQ0ODU2OCwtOTE4ODY5MzMxLDIxMjkwMzQ4OTgsNjQxMD
+c2OTE4LC0xNzAzMDQyNTM3LC03MjA1MTM4MTUsLTEwMzA5MjQ1
+MTFdfQ==
 -->
