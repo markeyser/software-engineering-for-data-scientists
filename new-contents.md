@@ -32,6 +32,7 @@ Another interesting article:
 - [awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning)
 - [Help-my-data-scientists-cant-write-production-code!](https://insidebigdata.com/2019/08/13/help-my-data-scientists-cant-write-production-code/)
 - [5-pro-tips-for-data-scientists-to-write-good-code](https://www.datasciencecentral.com/profiles/blogs/5-pro-tips-for-data-scientists-to-write-good-code)
+- [https://blog.valohai.com/leveling-up-your-ml-code-from-notebook](https://blog.valohai.com/leveling-up-your-ml-code-from-notebook)
 
 The following topics are relevant for Data Scientists
 
@@ -231,7 +232,7 @@ By the way, an Atom package for debbuing [here](https://atom.io/packages/python-
 
 - [Creating-a-python-package-for-ubuntu-from-code-zero-to-apt-install](https://medium.com/@trstringer/creating-a-python-package-for-ubuntu-from-code-zero-to-apt-install-d02d0108144c)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0Nzg0NzA5MCw1Mzk5NDI3ODYsLTUwMz
+eyJoaXN0b3J5IjpbMTUxNzM1NTc5Miw1Mzk5NDI3ODYsLTUwMz
 Q1NTEzOCwtNDE0OTA5MjY1LC0yMTQ3NDUzNDgxLC0yOTM0NTkx
 NzIsNTQ1MjMwMDg1LDE2MDQ4NTQyNTgsMTc2NTA2MzY0LDE3ND
 A4NDgwMzAsNzI3NDkxNDE0LDM3MzA5MjM3MCwzMTEwMjEwNzks
