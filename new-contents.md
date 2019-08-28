@@ -23,6 +23,7 @@ Another interesting article:
 
 - [how-to-write-a-production-level-code-in-data-science](https://towardsdatascience.com/how-to-write-a-production-level-code-in-data-science-5d87bd75ced)
 - [Do-you-write-production-code-as-a-data-scientist](http://www.juyang.co/do-you-write-production-code-as-a-data-scientist/)
+- [Do-data-scientists-write-production-code?](https://www.quora.com/Do-data-scientists-write-production-code)
 
 The following topics are relevant for Data Scientists
 
@@ -222,7 +223,7 @@ By the way, an Atom package for debbuing [here](https://atom.io/packages/python-
 
 - [Creating-a-python-package-for-ubuntu-from-code-zero-to-apt-install](https://medium.com/@trstringer/creating-a-python-package-for-ubuntu-from-code-zero-to-apt-install-d02d0108144c)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5MzYyNDk2OCwtMjE0NzQ1MzQ4MSwtMj
+eyJoaXN0b3J5IjpbLTQxNDkwOTI2NSwtMjE0NzQ1MzQ4MSwtMj
 kzNDU5MTcyLDU0NTIzMDA4NSwxNjA0ODU0MjU4LDE3NjUwNjM2
 NCwxNzQwODQ4MDMwLDcyNzQ5MTQxNCwzNzMwOTIzNzAsMzExMD
 IxMDc5LDExMzIyNzU3MTIsNDcyNTkxNjc0LDMyMDY3MzU4OCwt
