@@ -13,6 +13,10 @@ _Overall, Joel’s objections to Jupyter notebooks seem to come in large part fr
 
 - [The case against the jupyter notebook - Joel Grus on the TDS podcast](https://towardsdatascience.com/the-case-against-the-jupyter-notebook-d4da17e97243)
 
+A super interestging article:
+
+- [Data scientists, the only useful code is production code](https://thuijskens.github.io/2018/11/13/useful-code-is-production-code/)
+
 Another interesting article:
 
 - [Why Jupyter Is Not My Ideal Notebook](https://blog.sicara.com/jupyter-notebook-analysis-production-b2d585204520)
@@ -215,11 +219,11 @@ By the way, an Atom package for debbuing [here](https://atom.io/packages/python-
 
 - [Creating-a-python-package-for-ubuntu-from-code-zero-to-apt-install](https://medium.com/@trstringer/creating-a-python-package-for-ubuntu-from-code-zero-to-apt-install-d02d0108144c)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5MzQ1OTE3Miw1NDUyMzAwODUsMTYwND
-g1NDI1OCwxNzY1MDYzNjQsMTc0MDg0ODAzMCw3Mjc0OTE0MTQs
-MzczMDkyMzcwLDMxMTAyMTA3OSwxMTMyMjc1NzEyLDQ3MjU5MT
-Y3NCwzMjA2NzM1ODgsLTIxMjg0NDg1NjgsLTkxODg2OTMzMSwy
-MTI5MDM0ODk4LDY0MTA3NjkxOCwtMTcwMzA0MjUzNywtNzIwNT
-EzODE1LC0xMDMwOTI0NTExLDQ4NDA0MTYxNywtMTcxMDIwOTI3
-MF19
+eyJoaXN0b3J5IjpbLTIxNDc0NTM0ODEsLTI5MzQ1OTE3Miw1ND
+UyMzAwODUsMTYwNDg1NDI1OCwxNzY1MDYzNjQsMTc0MDg0ODAz
+MCw3Mjc0OTE0MTQsMzczMDkyMzcwLDMxMTAyMTA3OSwxMTMyMj
+c1NzEyLDQ3MjU5MTY3NCwzMjA2NzM1ODgsLTIxMjg0NDg1Njgs
+LTkxODg2OTMzMSwyMTI5MDM0ODk4LDY0MTA3NjkxOCwtMTcwMz
+A0MjUzNywtNzIwNTEzODE1LC0xMDMwOTI0NTExLDQ4NDA0MTYx
+N119
 -->
