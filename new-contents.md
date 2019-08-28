@@ -124,6 +124,7 @@ For Git and GitHub I've found that the following coureses have the right content
 - [Applied Machine Learning 2019 - Lecture 02 - Version control and Testing](https://www.youtube.com/watch?v=EPVwnG-n4B0)
 - [Data-structures-algorithms-technical-interview-prep.html](https://blog.udacity.com/2019/03/data-structures-algorithms-technical-interview-prep.html)
 - [How A Data Scientist Can Improve His Productivity](https://blog.dataversioncontrol.com/how-a-data-scientist-can-improve-his-productivity-730425ba4aa0)
+- [http://swcarpentry.github.io/swc-releases/2017.08/git-novice/14-supplemental-rstudio/](http://swcarpentry.github.io/swc-releases/2017.08/git-novice/14-supplemental-rstudio/)
 
 ## Data Science Project Folder Structure
 
@@ -197,6 +198,7 @@ This presentation is really interesting.
 
 Another great presentation
 - [To trust or to test?: Automated testing of scientific projects with pytest - PyCon 2019](https://www.youtube.com/watch?v=G-MAMrJ-CSA&list=PLPbTDk1hBo3xof51R8pk3kP1BVBuMYP9c&index=13&t=0s)
+- [Python Testing and Continuous Integration](http://katyhuff.github.io/python-testing/)
 
 ## Other
 
@@ -232,11 +234,11 @@ By the way, an Atom package for debbuing [here](https://atom.io/packages/python-
 
 - [Creating-a-python-package-for-ubuntu-from-code-zero-to-apt-install](https://medium.com/@trstringer/creating-a-python-package-for-ubuntu-from-code-zero-to-apt-install-d02d0108144c)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxNzM1NTc5Miw1Mzk5NDI3ODYsLTUwMz
-Q1NTEzOCwtNDE0OTA5MjY1LC0yMTQ3NDUzNDgxLC0yOTM0NTkx
-NzIsNTQ1MjMwMDg1LDE2MDQ4NTQyNTgsMTc2NTA2MzY0LDE3ND
-A4NDgwMzAsNzI3NDkxNDE0LDM3MzA5MjM3MCwzMTEwMjEwNzks
-MTEzMjI3NTcxMiw0NzI1OTE2NzQsMzIwNjczNTg4LC0yMTI4ND
-Q4NTY4LC05MTg4NjkzMzEsMjEyOTAzNDg5OCw2NDEwNzY5MThd
+eyJoaXN0b3J5IjpbMjYxNjk1MDU0LDE1MTczNTU3OTIsNTM5OT
+QyNzg2LC01MDM0NTUxMzgsLTQxNDkwOTI2NSwtMjE0NzQ1MzQ4
+MSwtMjkzNDU5MTcyLDU0NTIzMDA4NSwxNjA0ODU0MjU4LDE3Nj
+UwNjM2NCwxNzQwODQ4MDMwLDcyNzQ5MTQxNCwzNzMwOTIzNzAs
+MzExMDIxMDc5LDExMzIyNzU3MTIsNDcyNTkxNjc0LDMyMDY3Mz
+U4OCwtMjEyODQ0ODU2OCwtOTE4ODY5MzMxLDIxMjkwMzQ4OThd
 fQ==
 -->
