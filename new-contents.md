@@ -25,6 +25,10 @@ Another interesting article:
 - [Do-you-write-production-code-as-a-data-scientist](http://www.juyang.co/do-you-write-production-code-as-a-data-scientist/)
 - [Do-data-scientists-write-production-code?](https://www.quora.com/Do-data-scientists-write-production-code)
 
+- [How-to-write-production-level-code](https://phdstatsphys.wordpress.com/2018/11/27/how-to-write-production-level-code/)
+- [lowclass-python-style-guide](http://columbia-applied-data-science.github.io/pages/lowclass-python-style-guide.html)
+- [bridging-the-gap-from-data-science-to-production](https://ep2018.europython.eu/media/conference/slides/bridging-the-gap-from-data-science-to-production.pdf)
+
 The following topics are relevant for Data Scientists
 
 - Modularity
@@ -223,11 +227,11 @@ By the way, an Atom package for debbuing [here](https://atom.io/packages/python-
 
 - [Creating-a-python-package-for-ubuntu-from-code-zero-to-apt-install](https://medium.com/@trstringer/creating-a-python-package-for-ubuntu-from-code-zero-to-apt-install-d02d0108144c)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNDkwOTI2NSwtMjE0NzQ1MzQ4MSwtMj
-kzNDU5MTcyLDU0NTIzMDA4NSwxNjA0ODU0MjU4LDE3NjUwNjM2
-NCwxNzQwODQ4MDMwLDcyNzQ5MTQxNCwzNzMwOTIzNzAsMzExMD
-IxMDc5LDExMzIyNzU3MTIsNDcyNTkxNjc0LDMyMDY3MzU4OCwt
-MjEyODQ0ODU2OCwtOTE4ODY5MzMxLDIxMjkwMzQ4OTgsNjQxMD
-c2OTE4LC0xNzAzMDQyNTM3LC03MjA1MTM4MTUsLTEwMzA5MjQ1
-MTFdfQ==
+eyJoaXN0b3J5IjpbLTUwMzQ1NTEzOCwtNDE0OTA5MjY1LC0yMT
+Q3NDUzNDgxLC0yOTM0NTkxNzIsNTQ1MjMwMDg1LDE2MDQ4NTQy
+NTgsMTc2NTA2MzY0LDE3NDA4NDgwMzAsNzI3NDkxNDE0LDM3Mz
+A5MjM3MCwzMTEwMjEwNzksMTEzMjI3NTcxMiw0NzI1OTE2NzQs
+MzIwNjczNTg4LC0yMTI4NDQ4NTY4LC05MTg4NjkzMzEsMjEyOT
+AzNDg5OCw2NDEwNzY5MTgsLTE3MDMwNDI1MzcsLTcyMDUxMzgx
+NV19
 -->
