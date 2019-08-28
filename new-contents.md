@@ -29,6 +29,7 @@ Another interesting article:
 - [lowclass-python-style-guide](http://columbia-applied-data-science.github.io/pages/lowclass-python-style-guide.html)
 - [bridging-the-gap-from-data-science-to-production](https://ep2018.europython.eu/media/conference/slides/bridging-the-gap-from-data-science-to-production.pdf)
 -[http://columbia-applied-data-science.github.io/extras/2013/02/04/debugging/](http://columbia-applied-data-science.github.io/extras/2013/02/04/debugging/)
+- [awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning)
 
 The following topics are relevant for Data Scientists
 
@@ -228,11 +229,11 @@ By the way, an Atom package for debbuing [here](https://atom.io/packages/python-
 
 - [Creating-a-python-package-for-ubuntu-from-code-zero-to-apt-install](https://medium.com/@trstringer/creating-a-python-package-for-ubuntu-from-code-zero-to-apt-install-d02d0108144c)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzkyMDY4MzAsLTUwMzQ1NTEzOCwtND
-E0OTA5MjY1LC0yMTQ3NDUzNDgxLC0yOTM0NTkxNzIsNTQ1MjMw
-MDg1LDE2MDQ4NTQyNTgsMTc2NTA2MzY0LDE3NDA4NDgwMzAsNz
-I3NDkxNDE0LDM3MzA5MjM3MCwzMTEwMjEwNzksMTEzMjI3NTcx
-Miw0NzI1OTE2NzQsMzIwNjczNTg4LC0yMTI4NDQ4NTY4LC05MT
-g4NjkzMzEsMjEyOTAzNDg5OCw2NDEwNzY5MTgsLTE3MDMwNDI1
-MzddfQ==
+eyJoaXN0b3J5IjpbMTU0NDU0MTgyMiwtNTAzNDU1MTM4LC00MT
+Q5MDkyNjUsLTIxNDc0NTM0ODEsLTI5MzQ1OTE3Miw1NDUyMzAw
+ODUsMTYwNDg1NDI1OCwxNzY1MDYzNjQsMTc0MDg0ODAzMCw3Mj
+c0OTE0MTQsMzczMDkyMzcwLDMxMTAyMTA3OSwxMTMyMjc1NzEy
+LDQ3MjU5MTY3NCwzMjA2NzM1ODgsLTIxMjg0NDg1NjgsLTkxOD
+g2OTMzMSwyMTI5MDM0ODk4LDY0MTA3NjkxOCwtMTcwMzA0MjUz
+N119
 -->
