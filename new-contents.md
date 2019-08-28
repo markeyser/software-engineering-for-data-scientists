@@ -103,6 +103,8 @@ For Git and GitHub I've found that the following coureses have the right content
 - [Introduction to Git for Data Science](https://www.datacamp.com/courses/introduction-to-git-for-data-science) 
 - [David Baumgold - Get Started with Git - PyCon 2016](https://www.youtube.com/watch?v=RrdECLvHW6g)
 - [A-simple-git-guide-and-cheat-sheet-for-open-source-contributors](https://www.freecodecamp.org/news/a-simple-git-guide-and-cheat-sheet-for-open-source-contributors/)
+- [Version Control with Git](http://swcarpentry.github.io/git-novice/)
+- [https://software-carpentry.org/lessons/](https://software-carpentry.org/lessons/)
 
 ## Version control for Data Science projects
 
@@ -124,7 +126,7 @@ For Git and GitHub I've found that the following coureses have the right content
 - [Applied Machine Learning 2019 - Lecture 02 - Version control and Testing](https://www.youtube.com/watch?v=EPVwnG-n4B0)
 - [Data-structures-algorithms-technical-interview-prep.html](https://blog.udacity.com/2019/03/data-structures-algorithms-technical-interview-prep.html)
 - [How A Data Scientist Can Improve His Productivity](https://blog.dataversioncontrol.com/how-a-data-scientist-can-improve-his-productivity-730425ba4aa0)
-- [http://swcarpentry.github.io/swc-releases/2017.08/git-novice/14-supplemental-rstudio/](http://swcarpentry.github.io/swc-releases/2017.08/git-novice/14-supplemental-rstudio/)
+- [Using Git from RStudio](http://swcarpentry.github.io/swc-releases/2017.08/git-novice/14-supplemental-rstudio/)
 
 ## Data Science Project Folder Structure
 
@@ -234,11 +236,11 @@ By the way, an Atom package for debbuing [here](https://atom.io/packages/python-
 
 - [Creating-a-python-package-for-ubuntu-from-code-zero-to-apt-install](https://medium.com/@trstringer/creating-a-python-package-for-ubuntu-from-code-zero-to-apt-install-d02d0108144c)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjYxNjk1MDU0LDE1MTczNTU3OTIsNTM5OT
-QyNzg2LC01MDM0NTUxMzgsLTQxNDkwOTI2NSwtMjE0NzQ1MzQ4
-MSwtMjkzNDU5MTcyLDU0NTIzMDA4NSwxNjA0ODU0MjU4LDE3Nj
-UwNjM2NCwxNzQwODQ4MDMwLDcyNzQ5MTQxNCwzNzMwOTIzNzAs
-MzExMDIxMDc5LDExMzIyNzU3MTIsNDcyNTkxNjc0LDMyMDY3Mz
-U4OCwtMjEyODQ0ODU2OCwtOTE4ODY5MzMxLDIxMjkwMzQ4OThd
-fQ==
+eyJoaXN0b3J5IjpbMTY5NTIyMTAzOSwxNTE3MzU1NzkyLDUzOT
+k0Mjc4NiwtNTAzNDU1MTM4LC00MTQ5MDkyNjUsLTIxNDc0NTM0
+ODEsLTI5MzQ1OTE3Miw1NDUyMzAwODUsMTYwNDg1NDI1OCwxNz
+Y1MDYzNjQsMTc0MDg0ODAzMCw3Mjc0OTE0MTQsMzczMDkyMzcw
+LDMxMTAyMTA3OSwxMTMyMjc1NzEyLDQ3MjU5MTY3NCwzMjA2Nz
+M1ODgsLTIxMjg0NDg1NjgsLTkxODg2OTMzMSwyMTI5MDM0ODk4
+XX0=
 -->
