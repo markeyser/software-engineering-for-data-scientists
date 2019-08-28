@@ -30,6 +30,7 @@ Another interesting article:
 - [bridging-the-gap-from-data-science-to-production](https://ep2018.europython.eu/media/conference/slides/bridging-the-gap-from-data-science-to-production.pdf)
 -[http://columbia-applied-data-science.github.io/extras/2013/02/04/debugging/](http://columbia-applied-data-science.github.io/extras/2013/02/04/debugging/)
 - [awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning)
+- [Help-my-data-scientists-cant-write-production-code/](https://insidebigdata.com/2019/08/13/help-my-data-scientists-cant-write-production-code/)
 
 The following topics are relevant for Data Scientists
 
@@ -229,11 +230,11 @@ By the way, an Atom package for debbuing [here](https://atom.io/packages/python-
 
 - [Creating-a-python-package-for-ubuntu-from-code-zero-to-apt-install](https://medium.com/@trstringer/creating-a-python-package-for-ubuntu-from-code-zero-to-apt-install-d02d0108144c)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0NDU0MTgyMiwtNTAzNDU1MTM4LC00MT
-Q5MDkyNjUsLTIxNDc0NTM0ODEsLTI5MzQ1OTE3Miw1NDUyMzAw
-ODUsMTYwNDg1NDI1OCwxNzY1MDYzNjQsMTc0MDg0ODAzMCw3Mj
-c0OTE0MTQsMzczMDkyMzcwLDMxMTAyMTA3OSwxMTMyMjc1NzEy
-LDQ3MjU5MTY3NCwzMjA2NzM1ODgsLTIxMjg0NDg1NjgsLTkxOD
-g2OTMzMSwyMTI5MDM0ODk4LDY0MTA3NjkxOCwtMTcwMzA0MjUz
-N119
+eyJoaXN0b3J5IjpbNTM5OTQyNzg2LC01MDM0NTUxMzgsLTQxND
+kwOTI2NSwtMjE0NzQ1MzQ4MSwtMjkzNDU5MTcyLDU0NTIzMDA4
+NSwxNjA0ODU0MjU4LDE3NjUwNjM2NCwxNzQwODQ4MDMwLDcyNz
+Q5MTQxNCwzNzMwOTIzNzAsMzExMDIxMDc5LDExMzIyNzU3MTIs
+NDcyNTkxNjc0LDMyMDY3MzU4OCwtMjEyODQ0ODU2OCwtOTE4OD
+Y5MzMxLDIxMjkwMzQ4OTgsNjQxMDc2OTE4LC0xNzAzMDQyNTM3
+XX0=
 -->
