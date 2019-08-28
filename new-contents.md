@@ -105,6 +105,7 @@ For Git and GitHub I've found that the following coureses have the right content
 - [A-simple-git-guide-and-cheat-sheet-for-open-source-contributors](https://www.freecodecamp.org/news/a-simple-git-guide-and-cheat-sheet-for-open-source-contributors/)
 - [Version Control with Git](http://swcarpentry.github.io/git-novice/)
 - [https://software-carpentry.org/lessons/](https://software-carpentry.org/lessons/)
+- [https://software-carpentry.org/lessons/previous/](https://software-carpentry.org/lessons/previous/)
 
 ## Version control for Data Science projects
 
@@ -236,11 +237,11 @@ By the way, an Atom package for debbuing [here](https://atom.io/packages/python-
 
 - [Creating-a-python-package-for-ubuntu-from-code-zero-to-apt-install](https://medium.com/@trstringer/creating-a-python-package-for-ubuntu-from-code-zero-to-apt-install-d02d0108144c)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5NTIyMTAzOSwxNTE3MzU1NzkyLDUzOT
-k0Mjc4NiwtNTAzNDU1MTM4LC00MTQ5MDkyNjUsLTIxNDc0NTM0
-ODEsLTI5MzQ1OTE3Miw1NDUyMzAwODUsMTYwNDg1NDI1OCwxNz
-Y1MDYzNjQsMTc0MDg0ODAzMCw3Mjc0OTE0MTQsMzczMDkyMzcw
-LDMxMTAyMTA3OSwxMTMyMjc1NzEyLDQ3MjU5MTY3NCwzMjA2Nz
-M1ODgsLTIxMjg0NDg1NjgsLTkxODg2OTMzMSwyMTI5MDM0ODk4
-XX0=
+eyJoaXN0b3J5IjpbLTE3NzEwNDI0MzcsMTUxNzM1NTc5Miw1Mz
+k5NDI3ODYsLTUwMzQ1NTEzOCwtNDE0OTA5MjY1LC0yMTQ3NDUz
+NDgxLC0yOTM0NTkxNzIsNTQ1MjMwMDg1LDE2MDQ4NTQyNTgsMT
+c2NTA2MzY0LDE3NDA4NDgwMzAsNzI3NDkxNDE0LDM3MzA5MjM3
+MCwzMTEwMjEwNzksMTEzMjI3NTcxMiw0NzI1OTE2NzQsMzIwNj
+czNTg4LC0yMTI4NDQ4NTY4LC05MTg4NjkzMzEsMjEyOTAzNDg5
+OF19
 -->
