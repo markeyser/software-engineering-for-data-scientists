@@ -236,12 +236,15 @@ By the way, an Atom package for debbuing [here](https://atom.io/packages/python-
 ## Packaging 
 
 - [Creating-a-python-package-for-ubuntu-from-code-zero-to-apt-install](https://medium.com/@trstringer/creating-a-python-package-for-ubuntu-from-code-zero-to-apt-install-d02d0108144c)
+
+
+- [cloud-services-for-jupyter-notebook](https://www.dataschool.io/cloud-services-for-jupyter-notebook/#1binder)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzEwNDI0MzcsMTUxNzM1NTc5Miw1Mz
-k5NDI3ODYsLTUwMzQ1NTEzOCwtNDE0OTA5MjY1LC0yMTQ3NDUz
-NDgxLC0yOTM0NTkxNzIsNTQ1MjMwMDg1LDE2MDQ4NTQyNTgsMT
-c2NTA2MzY0LDE3NDA4NDgwMzAsNzI3NDkxNDE0LDM3MzA5MjM3
-MCwzMTEwMjEwNzksMTEzMjI3NTcxMiw0NzI1OTE2NzQsMzIwNj
-czNTg4LC0yMTI4NDQ4NTY4LC05MTg4NjkzMzEsMjEyOTAzNDg5
-OF19
+eyJoaXN0b3J5IjpbMTIyOTQ2MTg3MSwtMTc3MTA0MjQzNywxNT
+E3MzU1NzkyLDUzOTk0Mjc4NiwtNTAzNDU1MTM4LC00MTQ5MDky
+NjUsLTIxNDc0NTM0ODEsLTI5MzQ1OTE3Miw1NDUyMzAwODUsMT
+YwNDg1NDI1OCwxNzY1MDYzNjQsMTc0MDg0ODAzMCw3Mjc0OTE0
+MTQsMzczMDkyMzcwLDMxMTAyMTA3OSwxMTMyMjc1NzEyLDQ3Mj
+U5MTY3NCwzMjA2NzM1ODgsLTIxMjg0NDg1NjgsLTkxODg2OTMz
+MV19
 -->
