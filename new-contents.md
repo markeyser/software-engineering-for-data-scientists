@@ -239,12 +239,13 @@ By the way, an Atom package for debbuing [here](https://atom.io/packages/python-
 
 
 - [cloud-services-for-jupyter-notebook](https://www.dataschool.io/cloud-services-for-jupyter-notebook/#1binder)
+- [https://www.youtube.com/watch?v=BqJyaejvVjQ](https://www.youtube.com/watch?v=BqJyaejvVjQ)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyOTQ2MTg3MSwtMTc3MTA0MjQzNywxNT
-E3MzU1NzkyLDUzOTk0Mjc4NiwtNTAzNDU1MTM4LC00MTQ5MDky
-NjUsLTIxNDc0NTM0ODEsLTI5MzQ1OTE3Miw1NDUyMzAwODUsMT
-YwNDg1NDI1OCwxNzY1MDYzNjQsMTc0MDg0ODAzMCw3Mjc0OTE0
-MTQsMzczMDkyMzcwLDMxMTAyMTA3OSwxMTMyMjc1NzEyLDQ3Mj
-U5MTY3NCwzMjA2NzM1ODgsLTIxMjg0NDg1NjgsLTkxODg2OTMz
-MV19
+eyJoaXN0b3J5IjpbLTExNTcwMzIzMDMsLTE3NzEwNDI0MzcsMT
+UxNzM1NTc5Miw1Mzk5NDI3ODYsLTUwMzQ1NTEzOCwtNDE0OTA5
+MjY1LC0yMTQ3NDUzNDgxLC0yOTM0NTkxNzIsNTQ1MjMwMDg1LD
+E2MDQ4NTQyNTgsMTc2NTA2MzY0LDE3NDA4NDgwMzAsNzI3NDkx
+NDE0LDM3MzA5MjM3MCwzMTEwMjEwNzksMTEzMjI3NTcxMiw0Nz
+I1OTE2NzQsMzIwNjczNTg4LC0yMTI4NDQ4NTY4LC05MTg4Njkz
+MzFdfQ==
 -->
