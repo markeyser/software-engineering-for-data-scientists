@@ -33,6 +33,7 @@ Another interesting article:
 - [Help-my-data-scientists-cant-write-production-code!](https://insidebigdata.com/2019/08/13/help-my-data-scientists-cant-write-production-code/)
 - [5-pro-tips-for-data-scientists-to-write-good-code](https://www.datasciencecentral.com/profiles/blogs/5-pro-tips-for-data-scientists-to-write-good-code)
 - [https://blog.valohai.com/leveling-up-your-ml-code-from-notebook](https://blog.valohai.com/leveling-up-your-ml-code-from-notebook)
+- [12-steps-to-production-quality-data-science-code](http://www.genevievehayes.com/12-steps-to-production-quality-data-science-code/)
 
 The following topics are relevant for Data Scientists
 
@@ -241,11 +242,11 @@ By the way, an Atom package for debbuing [here](https://atom.io/packages/python-
 - [cloud-services-for-jupyter-notebook](https://www.dataschool.io/cloud-services-for-jupyter-notebook/#1binder)
 - [https://www.youtube.com/watch?v=BqJyaejvVjQ](https://www.youtube.com/watch?v=BqJyaejvVjQ)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTcwMzIzMDMsLTE3NzEwNDI0MzcsMT
-UxNzM1NTc5Miw1Mzk5NDI3ODYsLTUwMzQ1NTEzOCwtNDE0OTA5
-MjY1LC0yMTQ3NDUzNDgxLC0yOTM0NTkxNzIsNTQ1MjMwMDg1LD
-E2MDQ4NTQyNTgsMTc2NTA2MzY0LDE3NDA4NDgwMzAsNzI3NDkx
-NDE0LDM3MzA5MjM3MCwzMTEwMjEwNzksMTEzMjI3NTcxMiw0Nz
-I1OTE2NzQsMzIwNjczNTg4LC0yMTI4NDQ4NTY4LC05MTg4Njkz
-MzFdfQ==
+eyJoaXN0b3J5IjpbLTExNTkzNDE4OTMsLTExNTcwMzIzMDMsLT
+E3NzEwNDI0MzcsMTUxNzM1NTc5Miw1Mzk5NDI3ODYsLTUwMzQ1
+NTEzOCwtNDE0OTA5MjY1LC0yMTQ3NDUzNDgxLC0yOTM0NTkxNz
+IsNTQ1MjMwMDg1LDE2MDQ4NTQyNTgsMTc2NTA2MzY0LDE3NDA4
+NDgwMzAsNzI3NDkxNDE0LDM3MzA5MjM3MCwzMTEwMjEwNzksMT
+EzMjI3NTcxMiw0NzI1OTE2NzQsMzIwNjczNTg4LC0yMTI4NDQ4
+NTY4XX0=
 -->
