@@ -38,6 +38,8 @@ Another interesting article:
 - [How-to-become-a-data-science-triple-threat](http://www.genevievehayes.com/how-to-become-a-data-science-triple-threat/)
 - [team-r-or-team-python](http://www.genevievehayes.com/team-r-or-team-python/)
 
+- [Developer-code-reviews-4-mistakes-to-avoid](https://www.techrepublic.com/article/developer-code-reviews-4-mistakes-to-avoid/)
+
 The following topics are relevant for Data Scientists
 
 - Modularity
@@ -245,7 +247,7 @@ By the way, an Atom package for debbuing [here](https://atom.io/packages/python-
 - [cloud-services-for-jupyter-notebook](https://www.dataschool.io/cloud-services-for-jupyter-notebook/#1binder)
 - [https://www.youtube.com/watch?v=BqJyaejvVjQ](https://www.youtube.com/watch?v=BqJyaejvVjQ)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyODE3NzA0NSwtNTE5NTU2NzM5LC0xMT
+eyJoaXN0b3J5IjpbMTUyNDAwNTE5NywtNTE5NTU2NzM5LC0xMT
 U5MzQxODkzLC0xMTU3MDMyMzAzLC0xNzcxMDQyNDM3LDE1MTcz
 NTU3OTIsNTM5OTQyNzg2LC01MDM0NTUxMzgsLTQxNDkwOTI2NS
 wtMjE0NzQ1MzQ4MSwtMjkzNDU5MTcyLDU0NTIzMDA4NSwxNjA0
