@@ -48,6 +48,10 @@ Another interesting article:
 -[Version-control-data-science](https://www.datacamp.com/community/blog/version-control-data-science)
 [Best practioces on working on data-science-projects](http://guerrilla-analytics.net/data-science-best-practice/)
 [Git-for-data-analysis-why-version-control-is-essential-for-collaboration-and-for-gaining-public-trust](https://blogs.lse.ac.uk/impactofsocialsciences/2016/12/15/git-for-data-analysis-why-version-control-is-essential-for-collaboration-and-for-gaining-public-trust/)
+-[data-science-productivity-tools](https://www.edx.org/course/data-science-productivity-tools)
+- [R-and-version-control-for-the-solo-data-analyst](https://stackoverflow.com/questions/2712421/r-and-version-control-for-the-solo-data-analyst)
+- [https://pdfs.semanticscholar.org/a5c0/2a5842e3afa45274047ef666e2c00e7ebade.pdf](https://pdfs.semanticscholar.org/a5c0/2a5842e3afa45274047ef666e2c00e7ebade.pdf)
+- [https://www.kaggle.com/general/12689](https://www.kaggle.com/general/12689)
 
 The following topics are relevant for Data Scientists
 
@@ -256,11 +260,11 @@ By the way, an Atom package for debbuing [here](https://atom.io/packages/python-
 - [cloud-services-for-jupyter-notebook](https://www.dataschool.io/cloud-services-for-jupyter-notebook/#1binder)
 - [https://www.youtube.com/watch?v=BqJyaejvVjQ](https://www.youtube.com/watch?v=BqJyaejvVjQ)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTMwNjc5NDIsMTM2NTQyOTEwOCwtNTE5NT
-U2NzM5LC0xMTU5MzQxODkzLC0xMTU3MDMyMzAzLC0xNzcxMDQy
-NDM3LDE1MTczNTU3OTIsNTM5OTQyNzg2LC01MDM0NTUxMzgsLT
-QxNDkwOTI2NSwtMjE0NzQ1MzQ4MSwtMjkzNDU5MTcyLDU0NTIz
-MDA4NSwxNjA0ODU0MjU4LDE3NjUwNjM2NCwxNzQwODQ4MDMwLD
-cyNzQ5MTQxNCwzNzMwOTIzNzAsMzExMDIxMDc5LDExMzIyNzU3
-MTJdfQ==
+eyJoaXN0b3J5IjpbLTEwNjUyMDU1OTcsMTM2NTQyOTEwOCwtNT
+E5NTU2NzM5LC0xMTU5MzQxODkzLC0xMTU3MDMyMzAzLC0xNzcx
+MDQyNDM3LDE1MTczNTU3OTIsNTM5OTQyNzg2LC01MDM0NTUxMz
+gsLTQxNDkwOTI2NSwtMjE0NzQ1MzQ4MSwtMjkzNDU5MTcyLDU0
+NTIzMDA4NSwxNjA0ODU0MjU4LDE3NjUwNjM2NCwxNzQwODQ4MD
+MwLDcyNzQ5MTQxNCwzNzMwOTIzNzAsMzExMDIxMDc5LDExMzIy
+NzU3MTJdfQ==
 -->
