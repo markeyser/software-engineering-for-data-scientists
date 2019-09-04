@@ -35,6 +35,8 @@ Another interesting article:
 - [https://blog.valohai.com/leveling-up-your-ml-code-from-notebook](https://blog.valohai.com/leveling-up-your-ml-code-from-notebook)
 - [12-steps-to-production-quality-data-science-code](http://www.genevievehayes.com/12-steps-to-production-quality-data-science-code/)
 
+- [How-to-become-a-data-science-triple-threat](http://www.genevievehayes.com/how-to-become-a-data-science-triple-threat/)
+
 The following topics are relevant for Data Scientists
 
 - Modularity
@@ -242,11 +244,11 @@ By the way, an Atom package for debbuing [here](https://atom.io/packages/python-
 - [cloud-services-for-jupyter-notebook](https://www.dataschool.io/cloud-services-for-jupyter-notebook/#1binder)
 - [https://www.youtube.com/watch?v=BqJyaejvVjQ](https://www.youtube.com/watch?v=BqJyaejvVjQ)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTkzNDE4OTMsLTExNTcwMzIzMDMsLT
-E3NzEwNDI0MzcsMTUxNzM1NTc5Miw1Mzk5NDI3ODYsLTUwMzQ1
-NTEzOCwtNDE0OTA5MjY1LC0yMTQ3NDUzNDgxLC0yOTM0NTkxNz
-IsNTQ1MjMwMDg1LDE2MDQ4NTQyNTgsMTc2NTA2MzY0LDE3NDA4
-NDgwMzAsNzI3NDkxNDE0LDM3MzA5MjM3MCwzMTEwMjEwNzksMT
-EzMjI3NTcxMiw0NzI1OTE2NzQsMzIwNjczNTg4LC0yMTI4NDQ4
-NTY4XX0=
+eyJoaXN0b3J5IjpbLTUxOTU1NjczOSwtMTE1OTM0MTg5MywtMT
+E1NzAzMjMwMywtMTc3MTA0MjQzNywxNTE3MzU1NzkyLDUzOTk0
+Mjc4NiwtNTAzNDU1MTM4LC00MTQ5MDkyNjUsLTIxNDc0NTM0OD
+EsLTI5MzQ1OTE3Miw1NDUyMzAwODUsMTYwNDg1NDI1OCwxNzY1
+MDYzNjQsMTc0MDg0ODAzMCw3Mjc0OTE0MTQsMzczMDkyMzcwLD
+MxMTAyMTA3OSwxMTMyMjc1NzEyLDQ3MjU5MTY3NCwzMjA2NzM1
+ODhdfQ==
 -->
