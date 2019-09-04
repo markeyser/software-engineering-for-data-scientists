@@ -46,6 +46,8 @@ Another interesting article:
 - [How-to-use-git-version-control-for-data-science](https://www.datasciencelearner.com/how-to-use-git-version-control-for-data-science/)
 - [Good nough pracices in scientific computing](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510)
 -[Version-control-data-science](https://www.datacamp.com/community/blog/version-control-data-science)
+[Best practioces on working on data-science-projects](http://guerrilla-analytics.net/data-science-best-practice/)
+[Git-for-data-analysis-why-version-control-is-essential-for-collaboration-and-for-gaining-public-trust](https://blogs.lse.ac.uk/impactofsocialsciences/2016/12/15/git-for-data-analysis-why-version-control-is-essential-for-collaboration-and-for-gaining-public-trust/)
 
 The following topics are relevant for Data Scientists
 
@@ -254,11 +256,11 @@ By the way, an Atom package for debbuing [here](https://atom.io/packages/python-
 - [cloud-services-for-jupyter-notebook](https://www.dataschool.io/cloud-services-for-jupyter-notebook/#1binder)
 - [https://www.youtube.com/watch?v=BqJyaejvVjQ](https://www.youtube.com/watch?v=BqJyaejvVjQ)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2NTQyOTEwOCwtNTE5NTU2NzM5LC0xMT
-U5MzQxODkzLC0xMTU3MDMyMzAzLC0xNzcxMDQyNDM3LDE1MTcz
-NTU3OTIsNTM5OTQyNzg2LC01MDM0NTUxMzgsLTQxNDkwOTI2NS
-wtMjE0NzQ1MzQ4MSwtMjkzNDU5MTcyLDU0NTIzMDA4NSwxNjA0
-ODU0MjU4LDE3NjUwNjM2NCwxNzQwODQ4MDMwLDcyNzQ5MTQxNC
-wzNzMwOTIzNzAsMzExMDIxMDc5LDExMzIyNzU3MTIsNDcyNTkx
-Njc0XX0=
+eyJoaXN0b3J5IjpbNTMwNjc5NDIsMTM2NTQyOTEwOCwtNTE5NT
+U2NzM5LC0xMTU5MzQxODkzLC0xMTU3MDMyMzAzLC0xNzcxMDQy
+NDM3LDE1MTczNTU3OTIsNTM5OTQyNzg2LC01MDM0NTUxMzgsLT
+QxNDkwOTI2NSwtMjE0NzQ1MzQ4MSwtMjkzNDU5MTcyLDU0NTIz
+MDA4NSwxNjA0ODU0MjU4LDE3NjUwNjM2NCwxNzQwODQ4MDMwLD
+cyNzQ5MTQxNCwzNzMwOTIzNzAsMzExMDIxMDc5LDExMzIyNzU3
+MTJdfQ==
 -->
