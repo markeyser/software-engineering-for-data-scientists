@@ -52,6 +52,9 @@ Another interesting article:
 - [R-and-version-control-for-the-solo-data-analyst](https://stackoverflow.com/questions/2712421/r-and-version-control-for-the-solo-data-analyst)
 - [https://pdfs.semanticscholar.org/a5c0/2a5842e3afa45274047ef666e2c00e7ebade.pdf](https://pdfs.semanticscholar.org/a5c0/2a5842e3afa45274047ef666e2c00e7ebade.pdf)
 - [https://www.kaggle.com/general/12689](https://www.kaggle.com/general/12689)
+- [Github-version-control-for-data-science](https://www.datascience.com/resources/webinars/github-version-control-for-data-science)
+- [Version-Control-with-Git-and-SVN](https://support.rstudio.com/hc/en-us/articles/200532077-Version-Control-with-Git-and-SVN?mobile_site=true)
+- [Data-science-in-production-episode-3-version-control-for-data-scienc](https://www.advancinganalytics.co.uk/blog/2018/12/21-data-science-in-production-episode-3-version-control-for-data-scienc)
 
 The following topics are relevant for Data Scientists
 
@@ -260,7 +263,7 @@ By the way, an Atom package for debbuing [here](https://atom.io/packages/python-
 - [cloud-services-for-jupyter-notebook](https://www.dataschool.io/cloud-services-for-jupyter-notebook/#1binder)
 - [https://www.youtube.com/watch?v=BqJyaejvVjQ](https://www.youtube.com/watch?v=BqJyaejvVjQ)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjUyMDU1OTcsMTM2NTQyOTEwOCwtNT
+eyJoaXN0b3J5IjpbLTIwOTYxODg0MjgsMTM2NTQyOTEwOCwtNT
 E5NTU2NzM5LC0xMTU5MzQxODkzLC0xMTU3MDMyMzAzLC0xNzcx
 MDQyNDM3LDE1MTczNTU3OTIsNTM5OTQyNzg2LC01MDM0NTUxMz
 gsLTQxNDkwOTI2NSwtMjE0NzQ1MzQ4MSwtMjkzNDU5MTcyLDU0
