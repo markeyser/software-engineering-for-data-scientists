@@ -42,6 +42,9 @@ Another interesting article:
 - [Mmachine-learning-version-control-is-all-you-need](https://www.lpalmieri.com/posts/2018-09-14-machine-learning-version-control-is-all-you-need/)
 - [How-does-a-data-scientist-use-version-control-tools-like-GIT-and-SVN](https://www.quora.com/How-does-a-data-scientist-use-version-control-tools-like-GIT-and-SVN)
 - [does_anyone_use_data_version_control_dvc_thoughts](https://www.reddit.com/r/datascience/comments/aqkg59/does_anyone_use_data_version_control_dvc_thoughts/)
+- [How-to-version-control-your-production-machine-learning-models](https://blog.algorithmia.com/how-to-version-control-your-production-machine-learning-models/)
+- [How-to-use-git-version-control-for-data-science](https://www.datasciencelearner.com/how-to-use-git-version-control-for-data-science/)
+- [Good nough pracices in scientific computi](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510)
 
 The following topics are relevant for Data Scientists
 
@@ -250,11 +253,11 @@ By the way, an Atom package for debbuing [here](https://atom.io/packages/python-
 - [cloud-services-for-jupyter-notebook](https://www.dataschool.io/cloud-services-for-jupyter-notebook/#1binder)
 - [https://www.youtube.com/watch?v=BqJyaejvVjQ](https://www.youtube.com/watch?v=BqJyaejvVjQ)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTk0MDQ0NjcsLTUxOTU1NjczOSwtMT
-E1OTM0MTg5MywtMTE1NzAzMjMwMywtMTc3MTA0MjQzNywxNTE3
-MzU1NzkyLDUzOTk0Mjc4NiwtNTAzNDU1MTM4LC00MTQ5MDkyNj
-UsLTIxNDc0NTM0ODEsLTI5MzQ1OTE3Miw1NDUyMzAwODUsMTYw
-NDg1NDI1OCwxNzY1MDYzNjQsMTc0MDg0ODAzMCw3Mjc0OTE0MT
-QsMzczMDkyMzcwLDMxMTAyMTA3OSwxMTMyMjc1NzEyLDQ3MjU5
-MTY3NF19
+eyJoaXN0b3J5IjpbMzYzODA3MDExLC01MTk1NTY3MzksLTExNT
+kzNDE4OTMsLTExNTcwMzIzMDMsLTE3NzEwNDI0MzcsMTUxNzM1
+NTc5Miw1Mzk5NDI3ODYsLTUwMzQ1NTEzOCwtNDE0OTA5MjY1LC
+0yMTQ3NDUzNDgxLC0yOTM0NTkxNzIsNTQ1MjMwMDg1LDE2MDQ4
+NTQyNTgsMTc2NTA2MzY0LDE3NDA4NDgwMzAsNzI3NDkxNDE0LD
+M3MzA5MjM3MCwzMTEwMjEwNzksMTEzMjI3NTcxMiw0NzI1OTE2
+NzRdfQ==
 -->
