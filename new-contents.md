@@ -39,6 +39,9 @@ Another interesting article:
 - [team-r-or-team-python](http://www.genevievehayes.com/team-r-or-team-python/)
 
 - [Developer-code-reviews-4-mistakes-to-avoid](https://www.techrepublic.com/article/developer-code-reviews-4-mistakes-to-avoid/)
+- [Mmachine-learning-version-control-is-all-you-need](https://www.lpalmieri.com/posts/2018-09-14-machine-learning-version-control-is-all-you-need/)
+- [How-does-a-data-scientist-use-version-control-tools-like-GIT-and-SVN](https://www.quora.com/How-does-a-data-scientist-use-version-control-tools-like-GIT-and-SVN)
+- [does_anyone_use_data_version_control_dvc_thoughts](https://www.reddit.com/r/datascience/comments/aqkg59/does_anyone_use_data_version_control_dvc_thoughts/)
 
 The following topics are relevant for Data Scientists
 
@@ -247,11 +250,11 @@ By the way, an Atom package for debbuing [here](https://atom.io/packages/python-
 - [cloud-services-for-jupyter-notebook](https://www.dataschool.io/cloud-services-for-jupyter-notebook/#1binder)
 - [https://www.youtube.com/watch?v=BqJyaejvVjQ](https://www.youtube.com/watch?v=BqJyaejvVjQ)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyNDAwNTE5NywtNTE5NTU2NzM5LC0xMT
-U5MzQxODkzLC0xMTU3MDMyMzAzLC0xNzcxMDQyNDM3LDE1MTcz
-NTU3OTIsNTM5OTQyNzg2LC01MDM0NTUxMzgsLTQxNDkwOTI2NS
-wtMjE0NzQ1MzQ4MSwtMjkzNDU5MTcyLDU0NTIzMDA4NSwxNjA0
-ODU0MjU4LDE3NjUwNjM2NCwxNzQwODQ4MDMwLDcyNzQ5MTQxNC
-wzNzMwOTIzNzAsMzExMDIxMDc5LDExMzIyNzU3MTIsNDcyNTkx
-Njc0XX0=
+eyJoaXN0b3J5IjpbLTIwOTk0MDQ0NjcsLTUxOTU1NjczOSwtMT
+E1OTM0MTg5MywtMTE1NzAzMjMwMywtMTc3MTA0MjQzNywxNTE3
+MzU1NzkyLDUzOTk0Mjc4NiwtNTAzNDU1MTM4LC00MTQ5MDkyNj
+UsLTIxNDc0NTM0ODEsLTI5MzQ1OTE3Miw1NDUyMzAwODUsMTYw
+NDg1NDI1OCwxNzY1MDYzNjQsMTc0MDg0ODAzMCw3Mjc0OTE0MT
+QsMzczMDkyMzcwLDMxMTAyMTA3OSwxMTMyMjc1NzEyLDQ3MjU5
+MTY3NF19
 -->
