@@ -237,6 +237,7 @@ Another great presentation
 - [Which languages should you learn for data science?](https://www.freecodecamp.org/news/which-languages-should-you-learn-for-data-science-e806ba55a81f/)
 - [How-to-avoid-common-difficulties-in-your-data-science-programming-environment](https://towardsdatascience.com/how-to-avoid-common-difficulties-in-your-data-science-programming-environment-1b78af2977df)
 - [Introducing-kedro-the-open-source-library-for-production-ready-machine-learning-code](https://medium.com/@QuantumBlack/introducing-kedro-the-open-source-library-for-production-ready-machine-learning-code-d1c6d26ce2cf)
+- [Awesome-production-machine-learning](https://github.com/ethicalml/awesome-production-machine-learning)
 
 
 ## Logging 
@@ -263,11 +264,11 @@ By the way, an Atom package for debbuing [here](https://atom.io/packages/python-
 - [cloud-services-for-jupyter-notebook](https://www.dataschool.io/cloud-services-for-jupyter-notebook/#1binder)
 - [https://www.youtube.com/watch?v=BqJyaejvVjQ](https://www.youtube.com/watch?v=BqJyaejvVjQ)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTYxODg0MjgsMTM2NTQyOTEwOCwtNT
-E5NTU2NzM5LC0xMTU5MzQxODkzLC0xMTU3MDMyMzAzLC0xNzcx
-MDQyNDM3LDE1MTczNTU3OTIsNTM5OTQyNzg2LC01MDM0NTUxMz
-gsLTQxNDkwOTI2NSwtMjE0NzQ1MzQ4MSwtMjkzNDU5MTcyLDU0
-NTIzMDA4NSwxNjA0ODU0MjU4LDE3NjUwNjM2NCwxNzQwODQ4MD
-MwLDcyNzQ5MTQxNCwzNzMwOTIzNzAsMzExMDIxMDc5LDExMzIy
-NzU3MTJdfQ==
+eyJoaXN0b3J5IjpbMzE1MzgwNzY2LC0yMDk2MTg4NDI4LDEzNj
+U0MjkxMDgsLTUxOTU1NjczOSwtMTE1OTM0MTg5MywtMTE1NzAz
+MjMwMywtMTc3MTA0MjQzNywxNTE3MzU1NzkyLDUzOTk0Mjc4Ni
+wtNTAzNDU1MTM4LC00MTQ5MDkyNjUsLTIxNDc0NTM0ODEsLTI5
+MzQ1OTE3Miw1NDUyMzAwODUsMTYwNDg1NDI1OCwxNzY1MDYzNj
+QsMTc0MDg0ODAzMCw3Mjc0OTE0MTQsMzczMDkyMzcwLDMxMTAy
+MTA3OV19
 -->
