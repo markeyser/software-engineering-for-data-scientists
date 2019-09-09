@@ -272,19 +272,19 @@ From the above article:
 
 >###  Doesn’t This Already Exist?
 >
->Fully online IDEs are nothing new and Amazon’s AWS Cloud9 IDE is a robust environment rich in features. Similarly, >there are many online subscription services designed for smaller scale group development.
+>Fully online IDEs are nothing new and Amazon’s AWS Cloud9 IDE is a robust environment rich in features. Similarly, there are many online subscription services designed for smaller scale group development.
 >
->There are even online IDEs which use VS Code’s open source codebase, and anyone familiar with the software will >feel quite at home.
+>There are even online IDEs which use VS Code’s open source codebase, and anyone familiar with the software will feel quite at home.
 >
->Having a remote environment accessible both through the browser and locally is technically possible with any one of >these services. In contrast what Visual Studio Online will likely do is make it a more streamlined and accessible >experience 
+>Having a remote environment accessible both through the browser and locally is technically possible with any one of these services. In contrast what Visual Studio Online will likely do is make it a more streamlined and accessible experience 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyMDU5NDkwNSwtNDk4OTY4NzQyLDMxNT
-M4MDc2NiwtMjA5NjE4ODQyOCwxMzY1NDI5MTA4LC01MTk1NTY3
-MzksLTExNTkzNDE4OTMsLTExNTcwMzIzMDMsLTE3NzEwNDI0Mz
-csMTUxNzM1NTc5Miw1Mzk5NDI3ODYsLTUwMzQ1NTEzOCwtNDE0
-OTA5MjY1LC0yMTQ3NDUzNDgxLC0yOTM0NTkxNzIsNTQ1MjMwMD
-g1LDE2MDQ4NTQyNTgsMTc2NTA2MzY0LDE3NDA4NDgwMzAsNzI3
-NDkxNDE0XX0=
+eyJoaXN0b3J5IjpbLTE5MTM0NzEwNTksLTQ5ODk2ODc0MiwzMT
+UzODA3NjYsLTIwOTYxODg0MjgsMTM2NTQyOTEwOCwtNTE5NTU2
+NzM5LC0xMTU5MzQxODkzLC0xMTU3MDMyMzAzLC0xNzcxMDQyND
+M3LDE1MTczNTU3OTIsNTM5OTQyNzg2LC01MDM0NTUxMzgsLTQx
+NDkwOTI2NSwtMjE0NzQ1MzQ4MSwtMjkzNDU5MTcyLDU0NTIzMD
+A4NSwxNjA0ODU0MjU4LDE3NjUwNjM2NCwxNzQwODQ4MDMwLDcy
+NzQ5MTQxNF19
 -->
