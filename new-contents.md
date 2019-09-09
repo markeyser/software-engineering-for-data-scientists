@@ -303,13 +303,16 @@ Here there is a clear view about how PyCharm provides Data Science funtionally:
 
 [https://www.jetbrains.com/pycharm/features/scientific_tools.html](https://www.jetbrains.com/pycharm/features/scientific_tools.html)
 
+Very intersting, Pychar can do remote:
+
+- [Work remotely with PyCharm, TensorFlow and SSH](https://medium.com/@erikhallstrm/work-remotely-with-pycharm-tensorflow-and-ssh-c60564be862d)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1ODIyODIzNCwtNDg5NTMzNzU2LC0xMT
-c0Mzg5OTk2LC0xNjkxNjM1MjI3LC04ODg0NzkwODYsLTE5MTM0
-NzEwNTksLTQ5ODk2ODc0MiwzMTUzODA3NjYsLTIwOTYxODg0Mj
-gsMTM2NTQyOTEwOCwtNTE5NTU2NzM5LC0xMTU5MzQxODkzLC0x
-MTU3MDMyMzAzLC0xNzcxMDQyNDM3LDE1MTczNTU3OTIsNTM5OT
-QyNzg2LC01MDM0NTUxMzgsLTQxNDkwOTI2NSwtMjE0NzQ1MzQ4
-MSwtMjkzNDU5MTcyXX0=
+eyJoaXN0b3J5IjpbLTk2Mzg3NzM3MCwxNzU4MjI4MjM0LC00OD
+k1MzM3NTYsLTExNzQzODk5OTYsLTE2OTE2MzUyMjcsLTg4ODQ3
+OTA4NiwtMTkxMzQ3MTA1OSwtNDk4OTY4NzQyLDMxNTM4MDc2Ni
+wtMjA5NjE4ODQyOCwxMzY1NDI5MTA4LC01MTk1NTY3MzksLTEx
+NTkzNDE4OTMsLTExNTcwMzIzMDMsLTE3NzEwNDI0MzcsMTUxNz
+M1NTc5Miw1Mzk5NDI3ODYsLTUwMzQ1NTEzOCwtNDE0OTA5MjY1
+LC0yMTQ3NDUzNDgxXX0=
 -->
