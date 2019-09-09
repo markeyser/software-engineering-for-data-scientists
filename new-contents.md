@@ -294,11 +294,15 @@ In the following article you can read about how PyCharm can do an interactive se
 
 - [Top 5 Python IDEs For Data Science](datacamp.com/community/tutorials/data-science-python-ide)
 
+So, it seems that at least PyCharm and Visual Studio Online has both:
+
+- Ability to work remote againsts a server
+- Interactive Python session with plots and tables
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyNjc3ODQ2MCwtMTE3NDM4OTk5NiwtMT
+eyJoaXN0b3J5IjpbLTQ4OTUzMzc1NiwtMTE3NDM4OTk5NiwtMT
 Y5MTYzNTIyNywtODg4NDc5MDg2LC0xOTEzNDcxMDU5LC00OTg5
 Njg3NDIsMzE1MzgwNzY2LC0yMDk2MTg4NDI4LDEzNjU0MjkxMD
 gsLTUxOTU1NjczOSwtMTE1OTM0MTg5MywtMTE1NzAzMjMwMywt
