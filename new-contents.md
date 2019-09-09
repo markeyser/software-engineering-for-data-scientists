@@ -299,14 +299,17 @@ So, it seems that at least PyCharm and Visual Studio Online has both:
 - Ability to work remote againsts a server
 - Interactive Python session with plots and tables
 
+Here there is a clear view about how PyCharm provides Data Science funtionally:
+
+[https://www.jetbrains.com/pycharm/features/scientific_tools.html](https://www.jetbrains.com/pycharm/features/scientific_tools.html)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4OTUzMzc1NiwtMTE3NDM4OTk5NiwtMT
-Y5MTYzNTIyNywtODg4NDc5MDg2LC0xOTEzNDcxMDU5LC00OTg5
-Njg3NDIsMzE1MzgwNzY2LC0yMDk2MTg4NDI4LDEzNjU0MjkxMD
-gsLTUxOTU1NjczOSwtMTE1OTM0MTg5MywtMTE1NzAzMjMwMywt
-MTc3MTA0MjQzNywxNTE3MzU1NzkyLDUzOTk0Mjc4NiwtNTAzND
-U1MTM4LC00MTQ5MDkyNjUsLTIxNDc0NTM0ODEsLTI5MzQ1OTE3
-Miw1NDUyMzAwODVdfQ==
+eyJoaXN0b3J5IjpbMTc1ODIyODIzNCwtNDg5NTMzNzU2LC0xMT
+c0Mzg5OTk2LC0xNjkxNjM1MjI3LC04ODg0NzkwODYsLTE5MTM0
+NzEwNTksLTQ5ODk2ODc0MiwzMTUzODA3NjYsLTIwOTYxODg0Mj
+gsMTM2NTQyOTEwOCwtNTE5NTU2NzM5LC0xMTU5MzQxODkzLC0x
+MTU3MDMyMzAzLC0xNzcxMDQyNDM3LDE1MTczNTU3OTIsNTM5OT
+QyNzg2LC01MDM0NTUxMzgsLTQxNDkwOTI2NSwtMjE0NzQ1MzQ4
+MSwtMjkzNDU5MTcyXX0=
 -->
