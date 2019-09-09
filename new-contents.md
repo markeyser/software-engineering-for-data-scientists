@@ -266,9 +266,12 @@ By the way, an Atom package for debbuing [here](https://atom.io/packages/python-
 
 ## Online IDEs
 
+- [Start Coding in Your Browser With Microsoft Visual Studio Online](https://www.makeuseof.com/tag/coding-browser-microsoft-visual-studio-online/)
+- 
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2NzIxODI3MiwzMTUzODA3NjYsLTIwOT
+eyJoaXN0b3J5IjpbLTQ5ODk2ODc0MiwzMTUzODA3NjYsLTIwOT
 YxODg0MjgsMTM2NTQyOTEwOCwtNTE5NTU2NzM5LC0xMTU5MzQx
 ODkzLC0xMTU3MDMyMzAzLC0xNzcxMDQyNDM3LDE1MTczNTU3OT
 IsNTM5OTQyNzg2LC01MDM0NTUxMzgsLTQxNDkwOTI2NSwtMjE0
