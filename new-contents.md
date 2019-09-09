@@ -288,12 +288,13 @@ PyCharm also comes with remote capabilities
 [programmer-browser-ides](https://www.makeuseof.com/tag/programmer-browser-ides/)
 
 [the-best-code-editors-for-remote-pair-programming](https://buttercms.com/blog/the-best-code-editors-for-remote-pair-programming)
+[best-cloud-ides](https://www.slant.co/topics/713/~best-cloud-ides)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDUyNzQ3Nzk1LC0xNjkxNjM1MjI3LC04OD
-g0NzkwODYsLTE5MTM0NzEwNTksLTQ5ODk2ODc0MiwzMTUzODA3
-NjYsLTIwOTYxODg0MjgsMTM2NTQyOTEwOCwtNTE5NTU2NzM5LC
-0xMTU5MzQxODkzLC0xMTU3MDMyMzAzLC0xNzcxMDQyNDM3LDE1
-MTczNTU3OTIsNTM5OTQyNzg2LC01MDM0NTUxMzgsLTQxNDkwOT
-I2NSwtMjE0NzQ1MzQ4MSwtMjkzNDU5MTcyLDU0NTIzMDA4NSwx
-NjA0ODU0MjU4XX0=
+eyJoaXN0b3J5IjpbLTExNzQzODk5OTYsLTE2OTE2MzUyMjcsLT
+g4ODQ3OTA4NiwtMTkxMzQ3MTA1OSwtNDk4OTY4NzQyLDMxNTM4
+MDc2NiwtMjA5NjE4ODQyOCwxMzY1NDI5MTA4LC01MTk1NTY3Mz
+ksLTExNTkzNDE4OTMsLTExNTcwMzIzMDMsLTE3NzEwNDI0Mzcs
+MTUxNzM1NTc5Miw1Mzk5NDI3ODYsLTUwMzQ1NTEzOCwtNDE0OT
+A5MjY1LC0yMTQ3NDUzNDgxLC0yOTM0NTkxNzIsNTQ1MjMwMDg1
+LDE2MDQ4NTQyNThdfQ==
 -->
