@@ -267,15 +267,24 @@ By the way, an Atom package for debbuing [here](https://atom.io/packages/python-
 ## Online IDEs
 
 - [Start Coding in Your Browser With Microsoft Visual Studio Online](https://www.makeuseof.com/tag/coding-browser-microsoft-visual-studio-online/)
-- 
+
+From the above article:
+
+>###  Doesn’t This Already Exist?
+>
+>Fully online IDEs are nothing new and Amazon’s AWS Cloud9 IDE is a robust environment rich in features. Similarly, >there are many online subscription services designed for smaller scale group development.
+>
+>There are even online IDEs which use VS Code’s open source codebase, and anyone familiar with the software will >feel quite at home.
+>
+>Having a remote environment accessible both through the browser and locally is technically possible with any one of >these services. In contrast what Visual Studio Online will likely do is make it a more streamlined and accessible >experience 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5ODk2ODc0MiwzMTUzODA3NjYsLTIwOT
-YxODg0MjgsMTM2NTQyOTEwOCwtNTE5NTU2NzM5LC0xMTU5MzQx
-ODkzLC0xMTU3MDMyMzAzLC0xNzcxMDQyNDM3LDE1MTczNTU3OT
-IsNTM5OTQyNzg2LC01MDM0NTUxMzgsLTQxNDkwOTI2NSwtMjE0
-NzQ1MzQ4MSwtMjkzNDU5MTcyLDU0NTIzMDA4NSwxNjA0ODU0Mj
-U4LDE3NjUwNjM2NCwxNzQwODQ4MDMwLDcyNzQ5MTQxNCwzNzMw
-OTIzNzBdfQ==
+eyJoaXN0b3J5IjpbMTIyMDU5NDkwNSwtNDk4OTY4NzQyLDMxNT
+M4MDc2NiwtMjA5NjE4ODQyOCwxMzY1NDI5MTA4LC01MTk1NTY3
+MzksLTExNTkzNDE4OTMsLTExNTcwMzIzMDMsLTE3NzEwNDI0Mz
+csMTUxNzM1NTc5Miw1Mzk5NDI3ODYsLTUwMzQ1NTEzOCwtNDE0
+OTA5MjY1LC0yMTQ3NDUzNDgxLC0yOTM0NTkxNzIsNTQ1MjMwMD
+g1LDE2MDQ4NTQyNTgsMTc2NTA2MzY0LDE3NDA4NDgwMzAsNzI3
+NDkxNDE0XX0=
 -->
