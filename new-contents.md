@@ -311,12 +311,15 @@ There is a plugin for R in PyCharm
 
 [https://plugins.jetbrains.com/plugin/6632-r-language-support](https://plugins.jetbrains.com/plugin/6632-r-language-support)
 
+Py Charm free trial 30 days
+
+[https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=windowsAnaconda](https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=windowsAnaconda)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY1NTE5MTM5LDE3NTgyMjgyMzQsLTQ4OT
-UzMzc1NiwtMTE3NDM4OTk5NiwtMTY5MTYzNTIyNywtODg4NDc5
-MDg2LC0xOTEzNDcxMDU5LC00OTg5Njg3NDIsMzE1MzgwNzY2LC
-0yMDk2MTg4NDI4LDEzNjU0MjkxMDgsLTUxOTU1NjczOSwtMTE1
-OTM0MTg5MywtMTE1NzAzMjMwMywtMTc3MTA0MjQzNywxNTE3Mz
-U1NzkyLDUzOTk0Mjc4NiwtNTAzNDU1MTM4LC00MTQ5MDkyNjUs
-LTIxNDc0NTM0ODFdfQ==
+eyJoaXN0b3J5IjpbLTE1ODc5MDczNjQsNTY1NTE5MTM5LDE3NT
+gyMjgyMzQsLTQ4OTUzMzc1NiwtMTE3NDM4OTk5NiwtMTY5MTYz
+NTIyNywtODg4NDc5MDg2LC0xOTEzNDcxMDU5LC00OTg5Njg3ND
+IsMzE1MzgwNzY2LC0yMDk2MTg4NDI4LDEzNjU0MjkxMDgsLTUx
+OTU1NjczOSwtMTE1OTM0MTg5MywtMTE1NzAzMjMwMywtMTc3MT
+A0MjQzNywxNTE3MzU1NzkyLDUzOTk0Mjc4NiwtNTAzNDU1MTM4
+LC00MTQ5MDkyNjVdfQ==
 -->
