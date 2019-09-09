@@ -281,12 +281,16 @@ From the above article:
 - [Intelligent Productivity and Collaboration, from Anywhere](https://devblogs.microsoft.com/visualstudio/intelligent-productivity-and-collaboration-from-anywhere/)
 - [New online code editors and cloud-based IDEs](https://livablesoftware.com/new-online-code-editors-cloud-web-ide/)
 
+PyCharm also comes with remote capabilities
+
+[https://www.jetbrains.com/pycharm/features/](https://www.jetbrains.com/pycharm/features/)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTE2MzUyMjcsLTg4ODQ3OTA4NiwtMT
-kxMzQ3MTA1OSwtNDk4OTY4NzQyLDMxNTM4MDc2NiwtMjA5NjE4
-ODQyOCwxMzY1NDI5MTA4LC01MTk1NTY3MzksLTExNTkzNDE4OT
-MsLTExNTcwMzIzMDMsLTE3NzEwNDI0MzcsMTUxNzM1NTc5Miw1
-Mzk5NDI3ODYsLTUwMzQ1NTEzOCwtNDE0OTA5MjY1LC0yMTQ3ND
-UzNDgxLC0yOTM0NTkxNzIsNTQ1MjMwMDg1LDE2MDQ4NTQyNTgs
-MTc2NTA2MzY0XX0=
+eyJoaXN0b3J5IjpbMTEzMjQ1MzgwLC0xNjkxNjM1MjI3LC04OD
+g0NzkwODYsLTE5MTM0NzEwNTksLTQ5ODk2ODc0MiwzMTUzODA3
+NjYsLTIwOTYxODg0MjgsMTM2NTQyOTEwOCwtNTE5NTU2NzM5LC
+0xMTU5MzQxODkzLC0xMTU3MDMyMzAzLC0xNzcxMDQyNDM3LDE1
+MTczNTU3OTIsNTM5OTQyNzg2LC01MDM0NTUxMzgsLTQxNDkwOT
+I2NSwtMjE0NzQ1MzQ4MSwtMjkzNDU5MTcyLDU0NTIzMDA4NSwx
+NjA0ODU0MjU4XX0=
 -->
