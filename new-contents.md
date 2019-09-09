@@ -289,12 +289,20 @@ PyCharm also comes with remote capabilities
 
 [the-best-code-editors-for-remote-pair-programming](https://buttercms.com/blog/the-best-code-editors-for-remote-pair-programming)
 [best-cloud-ides](https://www.slant.co/topics/713/~best-cloud-ides)
+
+In the following article you can read about how PyCharm can do an interactive session like Hydrogen
+
+- [Top 5 Python IDEs For Data Science](datacamp.com/community/tutorials/data-science-python-ide)
+
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzQzODk5OTYsLTE2OTE2MzUyMjcsLT
-g4ODQ3OTA4NiwtMTkxMzQ3MTA1OSwtNDk4OTY4NzQyLDMxNTM4
-MDc2NiwtMjA5NjE4ODQyOCwxMzY1NDI5MTA4LC01MTk1NTY3Mz
-ksLTExNTkzNDE4OTMsLTExNTcwMzIzMDMsLTE3NzEwNDI0Mzcs
-MTUxNzM1NTc5Miw1Mzk5NDI3ODYsLTUwMzQ1NTEzOCwtNDE0OT
-A5MjY1LC0yMTQ3NDUzNDgxLC0yOTM0NTkxNzIsNTQ1MjMwMDg1
-LDE2MDQ4NTQyNThdfQ==
+eyJoaXN0b3J5IjpbMTIyNjc3ODQ2MCwtMTE3NDM4OTk5NiwtMT
+Y5MTYzNTIyNywtODg4NDc5MDg2LC0xOTEzNDcxMDU5LC00OTg5
+Njg3NDIsMzE1MzgwNzY2LC0yMDk2MTg4NDI4LDEzNjU0MjkxMD
+gsLTUxOTU1NjczOSwtMTE1OTM0MTg5MywtMTE1NzAzMjMwMywt
+MTc3MTA0MjQzNywxNTE3MzU1NzkyLDUzOTk0Mjc4NiwtNTAzND
+U1MTM4LC00MTQ5MDkyNjUsLTIxNDc0NTM0ODEsLTI5MzQ1OTE3
+Miw1NDUyMzAwODVdfQ==
 -->
