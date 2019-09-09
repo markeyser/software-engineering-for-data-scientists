@@ -278,10 +278,10 @@ From the above article:
 >
 >Having a remote environment accessible both through the browser and locally is technically possible with any one of these services. In contrast what Visual Studio Online will likely do is make it a more streamlined and accessible experience 
 
-
+- [# Intelligent Productivity and Collaboration, from Anywhere](https://devblogs.microsoft.com/visualstudio/intelligent-productivity-and-collaboration-from-anywhere/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzMzkwMDY5OSwtMTkxMzQ3MTA1OSwtND
+eyJoaXN0b3J5IjpbLTg4ODQ3OTA4NiwtMTkxMzQ3MTA1OSwtND
 k4OTY4NzQyLDMxNTM4MDc2NiwtMjA5NjE4ODQyOCwxMzY1NDI5
 MTA4LC01MTk1NTY3MzksLTExNTkzNDE4OTMsLTExNTcwMzIzMD
 MsLTE3NzEwNDI0MzcsMTUxNzM1NTc5Miw1Mzk5NDI3ODYsLTUw
