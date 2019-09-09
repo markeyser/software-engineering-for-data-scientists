@@ -285,8 +285,11 @@ PyCharm also comes with remote capabilities
 
 [https://www.jetbrains.com/pycharm/features/](https://www.jetbrains.com/pycharm/features/)
 
+[programmer-browser-ides](https://www.makeuseof.com/tag/programmer-browser-ides/)
+
+[the-best-code-editors-for-remote-pair-programming](https://buttercms.com/blog/the-best-code-editors-for-remote-pair-programming)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzMjQ1MzgwLC0xNjkxNjM1MjI3LC04OD
+eyJoaXN0b3J5IjpbNDUyNzQ3Nzk1LC0xNjkxNjM1MjI3LC04OD
 g0NzkwODYsLTE5MTM0NzEwNTksLTQ5ODk2ODc0MiwzMTUzODA3
 NjYsLTIwOTYxODg0MjgsMTM2NTQyOTEwOCwtNTE5NTU2NzM5LC
 0xMTU5MzQxODkzLC0xMTU3MDMyMzAzLC0xNzcxMDQyNDM3LDE1
