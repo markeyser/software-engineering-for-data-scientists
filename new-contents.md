@@ -279,12 +279,13 @@ From the above article:
 >Having a remote environment accessible both through the browser and locally is technically possible with any one of these services. In contrast what Visual Studio Online will likely do is make it a more streamlined and accessible experience 
 
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTM0NzEwNTksLTQ5ODk2ODc0MiwzMT
-UzODA3NjYsLTIwOTYxODg0MjgsMTM2NTQyOTEwOCwtNTE5NTU2
-NzM5LC0xMTU5MzQxODkzLC0xMTU3MDMyMzAzLC0xNzcxMDQyND
-M3LDE1MTczNTU3OTIsNTM5OTQyNzg2LC01MDM0NTUxMzgsLTQx
-NDkwOTI2NSwtMjE0NzQ1MzQ4MSwtMjkzNDU5MTcyLDU0NTIzMD
-A4NSwxNjA0ODU0MjU4LDE3NjUwNjM2NCwxNzQwODQ4MDMwLDcy
-NzQ5MTQxNF19
+eyJoaXN0b3J5IjpbMTQzMzkwMDY5OSwtMTkxMzQ3MTA1OSwtND
+k4OTY4NzQyLDMxNTM4MDc2NiwtMjA5NjE4ODQyOCwxMzY1NDI5
+MTA4LC01MTk1NTY3MzksLTExNTkzNDE4OTMsLTExNTcwMzIzMD
+MsLTE3NzEwNDI0MzcsMTUxNzM1NTc5Miw1Mzk5NDI3ODYsLTUw
+MzQ1NTEzOCwtNDE0OTA5MjY1LC0yMTQ3NDUzNDgxLC0yOTM0NT
+kxNzIsNTQ1MjMwMDg1LDE2MDQ4NTQyNTgsMTc2NTA2MzY0LDE3
+NDA4NDgwMzBdfQ==
 -->
