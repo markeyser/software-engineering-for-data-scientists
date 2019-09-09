@@ -307,12 +307,16 @@ Very intersting, Pychar can do remote:
 
 - [Work remotely with PyCharm, TensorFlow and SSH](https://medium.com/@erikhallstrm/work-remotely-with-pycharm-tensorflow-and-ssh-c60564be862d)
 
+There is a plugin for R in PyCharm
+
+[https://plugins.jetbrains.com/plugin/6632-r-language-support](https://plugins.jetbrains.com/plugin/6632-r-language-support)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2Mzg3NzM3MCwxNzU4MjI4MjM0LC00OD
-k1MzM3NTYsLTExNzQzODk5OTYsLTE2OTE2MzUyMjcsLTg4ODQ3
-OTA4NiwtMTkxMzQ3MTA1OSwtNDk4OTY4NzQyLDMxNTM4MDc2Ni
-wtMjA5NjE4ODQyOCwxMzY1NDI5MTA4LC01MTk1NTY3MzksLTEx
-NTkzNDE4OTMsLTExNTcwMzIzMDMsLTE3NzEwNDI0MzcsMTUxNz
-M1NTc5Miw1Mzk5NDI3ODYsLTUwMzQ1NTEzOCwtNDE0OTA5MjY1
-LC0yMTQ3NDUzNDgxXX0=
+eyJoaXN0b3J5IjpbNTY1NTE5MTM5LDE3NTgyMjgyMzQsLTQ4OT
+UzMzc1NiwtMTE3NDM4OTk5NiwtMTY5MTYzNTIyNywtODg4NDc5
+MDg2LC0xOTEzNDcxMDU5LC00OTg5Njg3NDIsMzE1MzgwNzY2LC
+0yMDk2MTg4NDI4LDEzNjU0MjkxMDgsLTUxOTU1NjczOSwtMTE1
+OTM0MTg5MywtMTE1NzAzMjMwMywtMTc3MTA0MjQzNywxNTE3Mz
+U1NzkyLDUzOTk0Mjc4NiwtNTAzNDU1MTM4LC00MTQ5MDkyNjUs
+LTIxNDc0NTM0ODFdfQ==
 -->
