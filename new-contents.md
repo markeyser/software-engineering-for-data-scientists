@@ -319,14 +319,18 @@ Py Charm free trial 30 days
 
 - [Managed-mlflow-on-databricks-now-in-public-preview](https://databricks.com/blog/2019/03/06/managed-mlflow-on-databricks-now-in-public-preview.html)
 - [https://databricks.com/mlflow](https://databricks.com/mlflow)
-- 
+
+## Model Tracking tools
+
+- [Model Tracking Tools for Data Science (mlflow)](https://towardsdatascience.com/model-tracking-tools-for-data-science-mlflow-51b681f8452e)
+It seems that MLFlow is replacing 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxMzg5OTU3MSwtMTU4NzkwNzM2NCw1Nj
-U1MTkxMzksMTc1ODIyODIzNCwtNDg5NTMzNzU2LC0xMTc0Mzg5
-OTk2LC0xNjkxNjM1MjI3LC04ODg0NzkwODYsLTE5MTM0NzEwNT
-ksLTQ5ODk2ODc0MiwzMTUzODA3NjYsLTIwOTYxODg0MjgsMTM2
-NTQyOTEwOCwtNTE5NTU2NzM5LC0xMTU5MzQxODkzLC0xMTU3MD
-MyMzAzLC0xNzcxMDQyNDM3LDE1MTczNTU3OTIsNTM5OTQyNzg2
-LC01MDM0NTUxMzhdfQ==
+eyJoaXN0b3J5IjpbLTE5NDY5NTM0NTQsLTkxMzg5OTU3MSwtMT
+U4NzkwNzM2NCw1NjU1MTkxMzksMTc1ODIyODIzNCwtNDg5NTMz
+NzU2LC0xMTc0Mzg5OTk2LC0xNjkxNjM1MjI3LC04ODg0NzkwOD
+YsLTE5MTM0NzEwNTksLTQ5ODk2ODc0MiwzMTUzODA3NjYsLTIw
+OTYxODg0MjgsMTM2NTQyOTEwOCwtNTE5NTU2NzM5LC0xMTU5Mz
+QxODkzLC0xMTU3MDMyMzAzLC0xNzcxMDQyNDM3LDE1MTczNTU3
+OTIsNTM5OTQyNzg2XX0=
 -->
