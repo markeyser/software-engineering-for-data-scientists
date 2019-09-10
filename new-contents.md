@@ -326,12 +326,14 @@ Py Charm free trial 30 days
 It seems that MLFlow is replacing [modeldb](https://github.com/mitdbg/modeldb). There is no books related to this new software, so, here there is an opportunity to write a book. 
 - [Getting started with mlFlow](https://towardsdatascience.com/getting-started-with-mlflow-52eff8c09c61)
 
+I've been reading that all the above software engineering technique could be really useful when compiting in Kaggle du to simplify a lot the work. 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM5Mjk5ODE0LC05MTM4OTk1NzEsLTE1OD
-c5MDczNjQsNTY1NTE5MTM5LDE3NTgyMjgyMzQsLTQ4OTUzMzc1
-NiwtMTE3NDM4OTk5NiwtMTY5MTYzNTIyNywtODg4NDc5MDg2LC
-0xOTEzNDcxMDU5LC00OTg5Njg3NDIsMzE1MzgwNzY2LC0yMDk2
-MTg4NDI4LDEzNjU0MjkxMDgsLTUxOTU1NjczOSwtMTE1OTM0MT
-g5MywtMTE1NzAzMjMwMywtMTc3MTA0MjQzNywxNTE3MzU1Nzky
-LDUzOTk0Mjc4Nl19
+eyJoaXN0b3J5IjpbLTY1MTA5NjAxNywtOTEzODk5NTcxLC0xNT
+g3OTA3MzY0LDU2NTUxOTEzOSwxNzU4MjI4MjM0LC00ODk1MzM3
+NTYsLTExNzQzODk5OTYsLTE2OTE2MzUyMjcsLTg4ODQ3OTA4Ni
+wtMTkxMzQ3MTA1OSwtNDk4OTY4NzQyLDMxNTM4MDc2NiwtMjA5
+NjE4ODQyOCwxMzY1NDI5MTA4LC01MTk1NTY3MzksLTExNTkzND
+E4OTMsLTExNTcwMzIzMDMsLTE3NzEwNDI0MzcsMTUxNzM1NTc5
+Miw1Mzk5NDI3ODZdfQ==
 -->
