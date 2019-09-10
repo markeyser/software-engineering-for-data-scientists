@@ -317,13 +317,16 @@ Py Charm free trial 30 days
 
 ## Deploying models
 
-[Managed-mlflow-on-databricks-now-in-public-preview](https://databricks.com/blog/2019/03/06/managed-mlflow-on-databricks-now-in-public-preview.html)
+- [Managed-mlflow-on-databricks-now-in-public-preview](https://databricks.com/blog/2019/03/06/managed-mlflow-on-databricks-now-in-public-preview.html)
+- [https://databricks.com/mlflow](https://databricks.com/mlflow)
+- 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDU3NTA4OTEsLTE1ODc5MDczNjQsNT
-Y1NTE5MTM5LDE3NTgyMjgyMzQsLTQ4OTUzMzc1NiwtMTE3NDM4
-OTk5NiwtMTY5MTYzNTIyNywtODg4NDc5MDg2LC0xOTEzNDcxMD
-U5LC00OTg5Njg3NDIsMzE1MzgwNzY2LC0yMDk2MTg4NDI4LDEz
-NjU0MjkxMDgsLTUxOTU1NjczOSwtMTE1OTM0MTg5MywtMTE1Nz
-AzMjMwMywtMTc3MTA0MjQzNywxNTE3MzU1NzkyLDUzOTk0Mjc4
-NiwtNTAzNDU1MTM4XX0=
+eyJoaXN0b3J5IjpbLTkxMzg5OTU3MSwtMTU4NzkwNzM2NCw1Nj
+U1MTkxMzksMTc1ODIyODIzNCwtNDg5NTMzNzU2LC0xMTc0Mzg5
+OTk2LC0xNjkxNjM1MjI3LC04ODg0NzkwODYsLTE5MTM0NzEwNT
+ksLTQ5ODk2ODc0MiwzMTUzODA3NjYsLTIwOTYxODg0MjgsMTM2
+NTQyOTEwOCwtNTE5NTU2NzM5LC0xMTU5MzQxODkzLC0xMTU3MD
+MyMzAzLC0xNzcxMDQyNDM3LDE1MTczNTU3OTIsNTM5OTQyNzg2
+LC01MDM0NTUxMzhdfQ==
 -->
