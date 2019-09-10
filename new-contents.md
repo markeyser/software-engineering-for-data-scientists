@@ -314,12 +314,16 @@ There is a plugin for R in PyCharm
 Py Charm free trial 30 days
 
 [https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=windowsAnaconda](https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=windowsAnaconda)
+
+## Deploying models
+
+[Managed-mlflow-on-databricks-now-in-public-preview](https://databricks.com/blog/2019/03/06/managed-mlflow-on-databricks-now-in-public-preview.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODc5MDczNjQsNTY1NTE5MTM5LDE3NT
-gyMjgyMzQsLTQ4OTUzMzc1NiwtMTE3NDM4OTk5NiwtMTY5MTYz
-NTIyNywtODg4NDc5MDg2LC0xOTEzNDcxMDU5LC00OTg5Njg3ND
-IsMzE1MzgwNzY2LC0yMDk2MTg4NDI4LDEzNjU0MjkxMDgsLTUx
-OTU1NjczOSwtMTE1OTM0MTg5MywtMTE1NzAzMjMwMywtMTc3MT
-A0MjQzNywxNTE3MzU1NzkyLDUzOTk0Mjc4NiwtNTAzNDU1MTM4
-LC00MTQ5MDkyNjVdfQ==
+eyJoaXN0b3J5IjpbLTE5NDU3NTA4OTEsLTE1ODc5MDczNjQsNT
+Y1NTE5MTM5LDE3NTgyMjgyMzQsLTQ4OTUzMzc1NiwtMTE3NDM4
+OTk5NiwtMTY5MTYzNTIyNywtODg4NDc5MDg2LC0xOTEzNDcxMD
+U5LC00OTg5Njg3NDIsMzE1MzgwNzY2LC0yMDk2MTg4NDI4LDEz
+NjU0MjkxMDgsLTUxOTU1NjczOSwtMTE1OTM0MTg5MywtMTE1Nz
+AzMjMwMywtMTc3MTA0MjQzNywxNTE3MzU1NzkyLDUzOTk0Mjc4
+NiwtNTAzNDU1MTM4XX0=
 -->
