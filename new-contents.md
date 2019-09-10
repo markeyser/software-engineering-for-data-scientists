@@ -324,14 +324,14 @@ Py Charm free trial 30 days
 
 - [Model Tracking Tools for Data Science (mlflow)](https://towardsdatascience.com/model-tracking-tools-for-data-science-mlflow-51b681f8452e)
 It seems that MLFlow is replacing [modeldb](https://github.com/mitdbg/modeldb). There is no books related to this new software, so, here there is an opportunity to write a book. 
--[Getting started with mlFlow](https://towardsdatascience.com/getting-started-with-mlflow-52eff8c09c61)
+- [Getting started with mlFlow](https://towardsdatascience.com/getting-started-with-mlflow-52eff8c09c61)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDgyNjI5NDYsLTkxMzg5OTU3MSwtMT
-U4NzkwNzM2NCw1NjU1MTkxMzksMTc1ODIyODIzNCwtNDg5NTMz
-NzU2LC0xMTc0Mzg5OTk2LC0xNjkxNjM1MjI3LC04ODg0NzkwOD
-YsLTE5MTM0NzEwNTksLTQ5ODk2ODc0MiwzMTUzODA3NjYsLTIw
-OTYxODg0MjgsMTM2NTQyOTEwOCwtNTE5NTU2NzM5LC0xMTU5Mz
-QxODkzLC0xMTU3MDMyMzAzLC0xNzcxMDQyNDM3LDE1MTczNTU3
-OTIsNTM5OTQyNzg2XX0=
+eyJoaXN0b3J5IjpbMjM5Mjk5ODE0LC05MTM4OTk1NzEsLTE1OD
+c5MDczNjQsNTY1NTE5MTM5LDE3NTgyMjgyMzQsLTQ4OTUzMzc1
+NiwtMTE3NDM4OTk5NiwtMTY5MTYzNTIyNywtODg4NDc5MDg2LC
+0xOTEzNDcxMDU5LC00OTg5Njg3NDIsMzE1MzgwNzY2LC0yMDk2
+MTg4NDI4LDEzNjU0MjkxMDgsLTUxOTU1NjczOSwtMTE1OTM0MT
+g5MywtMTE1NzAzMjMwMywtMTc3MTA0MjQzNywxNTE3MzU1Nzky
+LDUzOTk0Mjc4Nl19
 -->
