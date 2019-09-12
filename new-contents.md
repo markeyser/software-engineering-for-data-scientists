@@ -328,12 +328,17 @@ It seems that MLFlow is replacing [modeldb](https://github.com/mitdbg/modeldb). 
 
 I've been reading that all the above software engineering technique could be really useful when compiting in Kaggle du to simplify a lot the work. 
 
+## Other
+
+[Artificial Intelligence Index](https://aiindex.org/)
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1MTA5NjAxNywtOTEzODk5NTcxLC0xNT
-g3OTA3MzY0LDU2NTUxOTEzOSwxNzU4MjI4MjM0LC00ODk1MzM3
-NTYsLTExNzQzODk5OTYsLTE2OTE2MzUyMjcsLTg4ODQ3OTA4Ni
-wtMTkxMzQ3MTA1OSwtNDk4OTY4NzQyLDMxNTM4MDc2NiwtMjA5
-NjE4ODQyOCwxMzY1NDI5MTA4LC01MTk1NTY3MzksLTExNTkzND
-E4OTMsLTExNTcwMzIzMDMsLTE3NzEwNDI0MzcsMTUxNzM1NTc5
-Miw1Mzk5NDI3ODZdfQ==
+eyJoaXN0b3J5IjpbNjIzMjE5ODcsLTY1MTA5NjAxNywtOTEzOD
+k5NTcxLC0xNTg3OTA3MzY0LDU2NTUxOTEzOSwxNzU4MjI4MjM0
+LC00ODk1MzM3NTYsLTExNzQzODk5OTYsLTE2OTE2MzUyMjcsLT
+g4ODQ3OTA4NiwtMTkxMzQ3MTA1OSwtNDk4OTY4NzQyLDMxNTM4
+MDc2NiwtMjA5NjE4ODQyOCwxMzY1NDI5MTA4LC01MTk1NTY3Mz
+ksLTExNTkzNDE4OTMsLTExNTcwMzIzMDMsLTE3NzEwNDI0Mzcs
+MTUxNzM1NTc5Ml19
 -->
