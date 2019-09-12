@@ -332,13 +332,15 @@ I've been reading that all the above software engineering technique could be rea
 
 [Artificial Intelligence Index](https://aiindex.org/)
 
+[progress-in-ai-isnt-as-impressive-as-you-might-think](https://www.technologyreview.com/s/609611/progress-in-ai-isnt-as-impressive-as-you-might-think/)
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjIzMjE5ODcsLTY1MTA5NjAxNywtOTEzOD
-k5NTcxLC0xNTg3OTA3MzY0LDU2NTUxOTEzOSwxNzU4MjI4MjM0
-LC00ODk1MzM3NTYsLTExNzQzODk5OTYsLTE2OTE2MzUyMjcsLT
-g4ODQ3OTA4NiwtMTkxMzQ3MTA1OSwtNDk4OTY4NzQyLDMxNTM4
-MDc2NiwtMjA5NjE4ODQyOCwxMzY1NDI5MTA4LC01MTk1NTY3Mz
-ksLTExNTkzNDE4OTMsLTExNTcwMzIzMDMsLTE3NzEwNDI0Mzcs
-MTUxNzM1NTc5Ml19
+eyJoaXN0b3J5IjpbOTAwNDUyNjUxLC02NTEwOTYwMTcsLTkxMz
+g5OTU3MSwtMTU4NzkwNzM2NCw1NjU1MTkxMzksMTc1ODIyODIz
+NCwtNDg5NTMzNzU2LC0xMTc0Mzg5OTk2LC0xNjkxNjM1MjI3LC
+04ODg0NzkwODYsLTE5MTM0NzEwNTksLTQ5ODk2ODc0MiwzMTUz
+ODA3NjYsLTIwOTYxODg0MjgsMTM2NTQyOTEwOCwtNTE5NTU2Nz
+M5LC0xMTU5MzQxODkzLC0xMTU3MDMyMzAzLC0xNzcxMDQyNDM3
+LDE1MTczNTU3OTJdfQ==
 -->
