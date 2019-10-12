@@ -7,6 +7,8 @@
 
 - [New Series: The Full Stack Data Scientist - what a data scientist should know to build end-to-end data science solutions](https://medium.com/applied-data-science/new-series-the-full-stack-data-scientist-15791cbef626)
 
+- [The Great Data Science Specialist vs. Generalist Debate](http://lineardigressions.com/episodes/2019/4/14/the-great-data-science-specialist-vs-generalist-debate)
+
 The following blog contains interesting articles around the Full Stack Data Scientist idea;
 
 - [thefullstackdatascientist.com](https://thefullstackdatascientist.com/)
@@ -20,7 +22,7 @@ On Quora:
 
 On DataCamp - Vicki Boykis
 
-- 
+- [Full Stack Data Science (Transcript)](https://www.datacamp.com/community/blog/full-stack-data-science-transcript)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxNDk4NzcwOCw1NzA5NTU0ODZdfQ==
+eyJoaXN0b3J5IjpbLTUxMjIwNzg5NSw1NzA5NTU0ODZdfQ==
 -->
