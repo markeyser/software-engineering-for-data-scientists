@@ -13,10 +13,12 @@
 - [The Great Data Science Specialist vs. Generalist Debate](http://lineardigressions.com/episodes/2019/4/14/the-great-data-science-specialist-vs-generalist-debate)
 - [Why Data Science Teams Need Generalists, Not Specialists](https://hbr.org/2019/03/why-data-science-teams-need-generalists-not-specialists)
 
+-[The Full Stack Data Scientist Part 1: Productionise Your Models with Django APIs](https://medium.com/applied-data-science/the-full-stack-data-scientist-part-1-productionise-your-models-with-django-apis-7799b893ce7c)
+
 Not sure if the following presentatino is related with this or not:
 
 - [Data Science, Past & Future](https://blog.dominodatalab.com/data-science-past-future/)
-- [https://analyticsindiamag.com/full-stack-data-scientist/](https://analyticsindiamag.com/full-stack-data-scientist/)
+- [What is a Full Stack Data Scientist?](https://analyticsindiamag.com/full-stack-data-scientist/)
 
 The following blog contains interesting articles around the Full Stack Data Scientist idea;
 
@@ -41,6 +43,6 @@ A training course
 
 [Full Stack Data Science](https://amitkaps.com/fullstack)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4NzA3NDQ1MywxMjE2NjM3MSwxMjcyNT
-k2MzM1LDU3MDk1NTQ4Nl19
+eyJoaXN0b3J5IjpbLTQyMzE5MjIzLDEyMTY2MzcxLDEyNzI1OT
+YzMzUsNTcwOTU1NDg2XX0=
 -->
