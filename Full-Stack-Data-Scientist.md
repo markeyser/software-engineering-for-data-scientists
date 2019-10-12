@@ -2,6 +2,8 @@
 
 # Full Stack Data Scientist References
 
+- [The Full Stack Data Scientist: Myth, Unicorn, or New Normal?](https://www.forbes.com/sites/cognitiveworld/2019/09/11/the-full-stack-data-scientist-myth-unicorn-or-new-normal/#4c39595d2c60)
+
 - ["Full Stack” Data Science at Stitch Fix (Data Dialogs 2017)](https://www.youtube.com/watch?v=ErrHRMiNNXE)
 
 - [What is a Full Stack Data Scientist?](https://thefullstackdatascientist.com/blog/what-is-a-full-stack-data-scientist/)
@@ -44,6 +46,6 @@ A training course
 
 [Full Stack Data Science](https://amitkaps.com/fullstack)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0NzAxODY0MCwxMjE2NjM3MSwxMjcyNT
+eyJoaXN0b3J5IjpbMTA5MTMxNTc3MiwxMjE2NjM3MSwxMjcyNT
 k2MzM1LDU3MDk1NTQ4Nl19
 -->
