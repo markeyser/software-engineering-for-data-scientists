@@ -2,6 +2,8 @@
 
 # Full Stack Data Scientist References
 
+- ["Full Stack” Data Science at Stitch Fix (Data Dialogs 2017)](https://www.youtube.com/watch?v=ErrHRMiNNXE)
+
 - [What is a Full Stack Data Scientist?](https://thefullstackdatascientist.com/blog/what-is-a-full-stack-data-scientist/)
 - [Become A Full Stack Data Science Company](https://blog.dominodatalab.com/become-full-stack-data-science-company/)
 
@@ -22,9 +24,7 @@ On Quora:
 
 PyData Berlin 2018:
 
-# Going Full Stack with Data Science: Using Technical Readiness... - Emily Gorcenski
-
-
+- [Going Full Stack with Data Science: Using Technical Readiness... - Emily Gorcenski](https://www.youtube.com/watch?v=huqpXMNFD54)
 
 On DataCamp - Vicki Boykis
 
@@ -34,5 +34,5 @@ A training course
 
 [Full Stack Data Science](https://amitkaps.com/fullstack)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzMzEzMTMwNCw1NzA5NTU0ODZdfQ==
+eyJoaXN0b3J5IjpbLTEyMzU0OTA4NDIsNTcwOTU1NDg2XX0=
 -->
