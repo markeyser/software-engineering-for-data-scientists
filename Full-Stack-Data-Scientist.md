@@ -14,6 +14,7 @@
 - [Why Data Science Teams Need Generalists, Not Specialists](https://hbr.org/2019/03/why-data-science-teams-need-generalists-not-specialists)
 
 -[The Full Stack Data Scientist Part 1: Productionise Your Models with Django APIs](https://medium.com/applied-data-science/the-full-stack-data-scientist-part-1-productionise-your-models-with-django-apis-7799b893ce7c)
+- [The Full Stack Data Scientist Part 2: A Practical Introduction to Docker](https://medium.com/applied-data-science/the-full-stack-data-scientist-part-2-a-practical-introduction-to-docker-1ea932c89b57)
 
 Not sure if the following presentatino is related with this or not:
 
@@ -43,6 +44,6 @@ A training course
 
 [Full Stack Data Science](https://amitkaps.com/fullstack)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMzE5MjIzLDEyMTY2MzcxLDEyNzI1OT
-YzMzUsNTcwOTU1NDg2XX0=
+eyJoaXN0b3J5IjpbLTg0NzAxODY0MCwxMjE2NjM3MSwxMjcyNT
+k2MzM1LDU3MDk1NTQ4Nl19
 -->
