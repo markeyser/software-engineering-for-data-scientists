@@ -12,6 +12,8 @@
 
 - [The Great Data Science Specialist vs. Generalist Debate](http://lineardigressions.com/episodes/2019/4/14/the-great-data-science-specialist-vs-generalist-debate)
 
+Not sure if the following 
+
 The following blog contains interesting articles around the Full Stack Data Scientist idea;
 
 - [thefullstackdatascientist.com](https://thefullstackdatascientist.com/)
@@ -35,5 +37,6 @@ A training course
 
 [Full Stack Data Science](https://amitkaps.com/fullstack)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3MjU5NjMzNSw1NzA5NTU0ODZdfQ==
+eyJoaXN0b3J5IjpbMTE0NzMzNTg4MCwxMjcyNTk2MzM1LDU3MD
+k1NTQ4Nl19
 -->
