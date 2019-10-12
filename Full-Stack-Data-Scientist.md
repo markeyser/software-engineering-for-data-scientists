@@ -7,7 +7,9 @@
 
 The following blog contains interesting articles around the Full Stack Data Scientist idea;
 
-- [https://thefullstackdatascientist.com/](https://thefullstackdatascientist.com/)
+- [thefullstackdatascientist.com](https://thefullstackdatascientist.com/)
+
+- [The Perfect Programming Language for a Full Stack Data Scientist: Python](https://thefullstackdatascientist.com/blog/the-perfect-programming-language-for-a-full-stack-data-scientist-python/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwNjY2OTk3MF19
+eyJoaXN0b3J5IjpbLTE3NjkzMTU3NjldfQ==
 -->
