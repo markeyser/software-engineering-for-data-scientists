@@ -16,6 +16,11 @@ The following blog contains interesting articles around the Full Stack Data Scie
 On Quora:
 
 - [What is a "full-stack" data scientist?](https://www.quora.com/What-is-a-full-stack-data-scientist)
+- [Full Stack Data Scientist: The Elusive Unicorn and Data Hacker](https://www.datasciencecentral.com/profiles/blogs/full-stack-data-scientist-the-elusive-unicorn-and-data-hacker)
+
+On DataCamp - Vicki Boykis
+
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTcwOTU1NDg2XX0=
+eyJoaXN0b3J5IjpbMTMxNDk4NzcwOCw1NzA5NTU0ODZdfQ==
 -->
