@@ -20,9 +20,19 @@ On Quora:
 - [What is a "full-stack" data scientist?](https://www.quora.com/What-is-a-full-stack-data-scientist)
 - [Full Stack Data Scientist: The Elusive Unicorn and Data Hacker](https://www.datasciencecentral.com/profiles/blogs/full-stack-data-scientist-the-elusive-unicorn-and-data-hacker)
 
+PyData Berlin 2018:
+
+# Going Full Stack with Data Science: Using Technical Readiness... - Emily Gorcenski
+
+
+
 On DataCamp - Vicki Boykis
 
 - [Full Stack Data Science (Transcript)](https://www.datacamp.com/community/blog/full-stack-data-science-transcript)
+
+A training course
+
+[Full Stack Data Science](https://amitkaps.com/fullstack)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxMjIwNzg5NSw1NzA5NTU0ODZdfQ==
+eyJoaXN0b3J5IjpbMjEzMzEzMTMwNCw1NzA5NTU0ODZdfQ==
 -->
