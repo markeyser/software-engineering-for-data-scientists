@@ -6,6 +6,7 @@
 
 - [What is a Full Stack Data Scientist?](https://thefullstackdatascientist.com/blog/what-is-a-full-stack-data-scientist/)
 - [Become A Full Stack Data Science Company](https://blog.dominodatalab.com/become-full-stack-data-science-company/)
+- [@Indeedeng: From Data to Deployment- Full Stack Data Science](https://www.youtube.com/watch?v=LLvvNNWp3D0)
 
 - [New Series: The Full Stack Data Scientist - what a data scientist should know to build end-to-end data science solutions](https://medium.com/applied-data-science/new-series-the-full-stack-data-scientist-15791cbef626)
 
@@ -34,5 +35,5 @@ A training course
 
 [Full Stack Data Science](https://amitkaps.com/fullstack)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzU0OTA4NDIsNTcwOTU1NDg2XX0=
+eyJoaXN0b3J5IjpbMTI3MjU5NjMzNSw1NzA5NTU0ODZdfQ==
 -->
