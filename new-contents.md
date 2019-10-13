@@ -338,12 +338,13 @@ I've been reading that all the above software engineering technique could be rea
 
 -  [Managing Machine Learning Workflows with Scikit-learn Pipelines Part 1: A Gentle Introduction](https://www.kdnuggets.com/2017/12/managing-machine-learning-workflows-scikit-learn-pipelines-part-1.html?source=post_page-----6d397c16abd---------)
 - [Managing Machine Learning Workflows with Scikit-learn Pipelines Part 2: Integrating Grid Search](https://www.kdnuggets.com/2018/01/managing-machine-learning-workflows-scikit-learn-pipelines-part-2.html?source=post_page-----6d397c16abd----------------------)
+- [# Managing Machine Learning Workflows with Scikit-learn Pipelines Part 3: Multiple Models, Pipelines, and Grid Searches](https://www.kdnuggets.com/2018/01/managing-machine-learning-workflows-scikit-learn-pipelines-part-3.html?source=post_page-----6d397c16abd----------------------)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzNTYzODY0LDkwMDQ1MjY1MSwtNjUxMD
-k2MDE3LC05MTM4OTk1NzEsLTE1ODc5MDczNjQsNTY1NTE5MTM5
-LDE3NTgyMjgyMzQsLTQ4OTUzMzc1NiwtMTE3NDM4OTk5NiwtMT
-Y5MTYzNTIyNywtODg4NDc5MDg2LC0xOTEzNDcxMDU5LC00OTg5
-Njg3NDIsMzE1MzgwNzY2LC0yMDk2MTg4NDI4LDEzNjU0MjkxMD
-gsLTUxOTU1NjczOSwtMTE1OTM0MTg5MywtMTE1NzAzMjMwMywt
-MTc3MTA0MjQzN119
+eyJoaXN0b3J5IjpbLTExNTI4ODMxODEsOTAwNDUyNjUxLC02NT
+EwOTYwMTcsLTkxMzg5OTU3MSwtMTU4NzkwNzM2NCw1NjU1MTkx
+MzksMTc1ODIyODIzNCwtNDg5NTMzNzU2LC0xMTc0Mzg5OTk2LC
+0xNjkxNjM1MjI3LC04ODg0NzkwODYsLTE5MTM0NzEwNTksLTQ5
+ODk2ODc0MiwzMTUzODA3NjYsLTIwOTYxODg0MjgsMTM2NTQyOT
+EwOCwtNTE5NTU2NzM5LC0xMTU5MzQxODkzLC0xMTU3MDMyMzAz
+LC0xNzcxMDQyNDM3XX0=
 -->
