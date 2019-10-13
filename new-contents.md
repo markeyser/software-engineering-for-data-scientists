@@ -334,13 +334,16 @@ I've been reading that all the above software engineering technique could be rea
 
 [progress-in-ai-isnt-as-impressive-as-you-might-think](https://www.technologyreview.com/s/609611/progress-in-ai-isnt-as-impressive-as-you-might-think/)
 
+## Pipelines
 
+- 
+[https://www.kdnuggets.com/2017/12/managing-machine-learning-workflows-scikit-learn-pipelines-part-1.html?source=post_page-----6d397c16abd---------](https://www.kdnuggets.com/2017/12/managing-machine-learning-workflows-scikit-learn-pipelines-part-1.html?source=post_page-----6d397c16abd---------)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTAwNDUyNjUxLC02NTEwOTYwMTcsLTkxMz
-g5OTU3MSwtMTU4NzkwNzM2NCw1NjU1MTkxMzksMTc1ODIyODIz
-NCwtNDg5NTMzNzU2LC0xMTc0Mzg5OTk2LC0xNjkxNjM1MjI3LC
-04ODg0NzkwODYsLTE5MTM0NzEwNTksLTQ5ODk2ODc0MiwzMTUz
-ODA3NjYsLTIwOTYxODg0MjgsMTM2NTQyOTEwOCwtNTE5NTU2Nz
-M5LC0xMTU5MzQxODkzLC0xMTU3MDMyMzAzLC0xNzcxMDQyNDM3
-LDE1MTczNTU3OTJdfQ==
+eyJoaXN0b3J5IjpbMTEzMDg5NjM0Niw5MDA0NTI2NTEsLTY1MT
+A5NjAxNywtOTEzODk5NTcxLC0xNTg3OTA3MzY0LDU2NTUxOTEz
+OSwxNzU4MjI4MjM0LC00ODk1MzM3NTYsLTExNzQzODk5OTYsLT
+E2OTE2MzUyMjcsLTg4ODQ3OTA4NiwtMTkxMzQ3MTA1OSwtNDk4
+OTY4NzQyLDMxNTM4MDc2NiwtMjA5NjE4ODQyOCwxMzY1NDI5MT
+A4LC01MTk1NTY3MzksLTExNTkzNDE4OTMsLTExNTcwMzIzMDMs
+LTE3NzEwNDI0MzddfQ==
 -->
