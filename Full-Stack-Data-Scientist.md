@@ -52,8 +52,10 @@ Other articles:
 
 - [What Great Data Analysts Do — and Why Every Organization Needs Them](https://hbr.org/2018/12/what-great-data-analysts-do-and-why-every-organization-needs-them)
 
-- [https://hbr.org/2018/11/the-kinds-of-data-scientist](https://hbr.org/2018/11/the-kinds-of-data-scientist)
+- [The Kinds of Data Scientist](https://hbr.org/2018/11/the-kinds-of-data-scientist)
+- [7-fastest-growing-job-roles-in-data-science-how-to-work-towards-them](https://analyticsindiamag.com/7-fastest-growing-job-roles-in-data-science-how-to-work-towards-them/)
+- [the-evolving-role-of-future-data-scientists-charanpreet-singh-praxis-business-school-gives-the-lowdown](https://analyticsindiamag.com/the-evolving-role-of-future-data-scientists-charanpreet-singh-praxis-business-school-gives-the-lowdown/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODcyMDgwMjksMTA5MTMxNTc3MiwxMj
+eyJoaXN0b3J5IjpbLTE0NDQ1NzUzNzAsMTA5MTMxNTc3MiwxMj
 E2NjM3MSwxMjcyNTk2MzM1LDU3MDk1NTQ4Nl19
 -->
