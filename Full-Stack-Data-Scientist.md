@@ -45,7 +45,15 @@ On DataCamp - Vicki Boykis
 A training course
 
 [Full Stack Data Science](https://amitkaps.com/fullstack)
+
+Other articles:
+
+
+
+- [What Great Data Analysts Do — and Why Every Organization Needs Them](https://hbr.org/2018/12/what-great-data-analysts-do-and-why-every-organization-needs-them)
+
+- [https://hbr.org/2018/11/the-kinds-of-data-scientist](https://hbr.org/2018/11/the-kinds-of-data-scientist)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5MTMxNTc3MiwxMjE2NjM3MSwxMjcyNT
-k2MzM1LDU3MDk1NTQ4Nl19
+eyJoaXN0b3J5IjpbLTE3ODcyMDgwMjksMTA5MTMxNTc3MiwxMj
+E2NjM3MSwxMjcyNTk2MzM1LDU3MDk1NTQ4Nl19
 -->
