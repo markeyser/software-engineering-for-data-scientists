@@ -339,12 +339,18 @@ I've been reading that all the above software engineering technique could be rea
 -  [Managing Machine Learning Workflows with Scikit-learn Pipelines Part 1: A Gentle Introduction](https://www.kdnuggets.com/2017/12/managing-machine-learning-workflows-scikit-learn-pipelines-part-1.html?source=post_page-----6d397c16abd---------)
 - [Managing Machine Learning Workflows with Scikit-learn Pipelines Part 2: Integrating Grid Search](https://www.kdnuggets.com/2018/01/managing-machine-learning-workflows-scikit-learn-pipelines-part-2.html?source=post_page-----6d397c16abd----------------------)
 - [# Managing Machine Learning Workflows with Scikit-learn Pipelines Part 3: Multiple Models, Pipelines, and Grid Searches](https://www.kdnuggets.com/2018/01/managing-machine-learning-workflows-scikit-learn-pipelines-part-3.html?source=post_page-----6d397c16abd----------------------)
+
+## OOP with Python
+
+The following course from O'Reilly is also provided on Udemy (I already have the course bought). 
+
+- [Python-beyond-the-basics-object-oriented-programming](https://www.udemy.com/course/python-beyond-the-basics-object-oriented-programming/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTI4ODMxODEsOTAwNDUyNjUxLC02NT
-EwOTYwMTcsLTkxMzg5OTU3MSwtMTU4NzkwNzM2NCw1NjU1MTkx
-MzksMTc1ODIyODIzNCwtNDg5NTMzNzU2LC0xMTc0Mzg5OTk2LC
-0xNjkxNjM1MjI3LC04ODg0NzkwODYsLTE5MTM0NzEwNTksLTQ5
-ODk2ODc0MiwzMTUzODA3NjYsLTIwOTYxODg0MjgsMTM2NTQyOT
-EwOCwtNTE5NTU2NzM5LC0xMTU5MzQxODkzLC0xMTU3MDMyMzAz
-LC0xNzcxMDQyNDM3XX0=
+eyJoaXN0b3J5IjpbLTg2NjQ1NDkzNCwtMTE1Mjg4MzE4MSw5MD
+A0NTI2NTEsLTY1MTA5NjAxNywtOTEzODk5NTcxLC0xNTg3OTA3
+MzY0LDU2NTUxOTEzOSwxNzU4MjI4MjM0LC00ODk1MzM3NTYsLT
+ExNzQzODk5OTYsLTE2OTE2MzUyMjcsLTg4ODQ3OTA4NiwtMTkx
+MzQ3MTA1OSwtNDk4OTY4NzQyLDMxNTM4MDc2NiwtMjA5NjE4OD
+QyOCwxMzY1NDI5MTA4LC01MTk1NTY3MzksLTExNTkzNDE4OTMs
+LTExNTcwMzIzMDNdfQ==
 -->
