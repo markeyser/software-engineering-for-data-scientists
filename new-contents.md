@@ -345,13 +345,15 @@ I've been reading that all the above software engineering technique could be rea
 The following course from O'Reilly is also provided on Udemy (I already have the course bought). The course is really good.
 
 - [Python beyond the basics object oriented programming](https://www.udemy.com/course/python-beyond-the-basics-object-oriented-programming/)
-- [https://www.udemy.com/course/learning-path-python-functional-programming-with-python/](https://www.udemy.com/course/learning-path-python-functional-programming-with-python/)
+This course also seems interesting:
+
+- [Learning-path-python-functional-programming-with-python](https://www.udemy.com/course/learning-path-python-functional-programming-with-python/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTM3NzQxMjgsLTE1MTk5NzUwMjYsLT
-ExNTI4ODMxODEsOTAwNDUyNjUxLC02NTEwOTYwMTcsLTkxMzg5
-OTU3MSwtMTU4NzkwNzM2NCw1NjU1MTkxMzksMTc1ODIyODIzNC
-wtNDg5NTMzNzU2LC0xMTc0Mzg5OTk2LC0xNjkxNjM1MjI3LC04
-ODg0NzkwODYsLTE5MTM0NzEwNTksLTQ5ODk2ODc0MiwzMTUzOD
-A3NjYsLTIwOTYxODg0MjgsMTM2NTQyOTEwOCwtNTE5NTU2NzM5
-LC0xMTU5MzQxODkzXX0=
+eyJoaXN0b3J5IjpbLTU2MzcxODY3MCwtMTUxOTk3NTAyNiwtMT
+E1Mjg4MzE4MSw5MDA0NTI2NTEsLTY1MTA5NjAxNywtOTEzODk5
+NTcxLC0xNTg3OTA3MzY0LDU2NTUxOTEzOSwxNzU4MjI4MjM0LC
+00ODk1MzM3NTYsLTExNzQzODk5OTYsLTE2OTE2MzUyMjcsLTg4
+ODQ3OTA4NiwtMTkxMzQ3MTA1OSwtNDk4OTY4NzQyLDMxNTM4MD
+c2NiwtMjA5NjE4ODQyOCwxMzY1NDI5MTA4LC01MTk1NTY3Mzks
+LTExNTkzNDE4OTNdfQ==
 -->
