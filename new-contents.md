@@ -342,15 +342,15 @@ I've been reading that all the above software engineering technique could be rea
 
 ## OOP with Python
 
-The following course from O'Reilly is also provided on Udemy (I already have the course bought). 
+The following course from O'Reilly is also provided on Udemy (I already have the course bought). The course is really good.
 
-- [Python-beyond-the-basics-object-oriented-programming](https://www.udemy.com/course/python-beyond-the-basics-object-oriented-programming/)
+- [Python beyond the basics object oriented programming](https://www.udemy.com/course/python-beyond-the-basics-object-oriented-programming/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2NjQ1NDkzNCwtMTE1Mjg4MzE4MSw5MD
-A0NTI2NTEsLTY1MTA5NjAxNywtOTEzODk5NTcxLC0xNTg3OTA3
-MzY0LDU2NTUxOTEzOSwxNzU4MjI4MjM0LC00ODk1MzM3NTYsLT
-ExNzQzODk5OTYsLTE2OTE2MzUyMjcsLTg4ODQ3OTA4NiwtMTkx
-MzQ3MTA1OSwtNDk4OTY4NzQyLDMxNTM4MDc2NiwtMjA5NjE4OD
-QyOCwxMzY1NDI5MTA4LC01MTk1NTY3MzksLTExNTkzNDE4OTMs
-LTExNTcwMzIzMDNdfQ==
+eyJoaXN0b3J5IjpbLTE1MTk5NzUwMjYsLTExNTI4ODMxODEsOT
+AwNDUyNjUxLC02NTEwOTYwMTcsLTkxMzg5OTU3MSwtMTU4Nzkw
+NzM2NCw1NjU1MTkxMzksMTc1ODIyODIzNCwtNDg5NTMzNzU2LC
+0xMTc0Mzg5OTk2LC0xNjkxNjM1MjI3LC04ODg0NzkwODYsLTE5
+MTM0NzEwNTksLTQ5ODk2ODc0MiwzMTUzODA3NjYsLTIwOTYxOD
+g0MjgsMTM2NTQyOTEwOCwtNTE5NTU2NzM5LC0xMTU5MzQxODkz
+LC0xMTU3MDMyMzAzXX0=
 -->
