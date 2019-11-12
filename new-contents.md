@@ -348,12 +348,31 @@ The following course from O'Reilly is also provided on Udemy (I already have the
 This course also seems interesting:
 
 - [Learning-path-python-functional-programming-with-python](https://www.udemy.com/course/learning-path-python-functional-programming-with-python/)
+
+## Other
+
+From Kashyap:
+
+<![endif]-->
+
+Hi All,
+
+I found this course online to write better and maintainable python code – Check it out [here](https://app.pluralsight.com/library/courses/python-developers-toolkit/table-of-contents). Things I found especially useful & can be easily integrated to our workflow:
+
+-   Use of virtualenv - to create virtual environments to ensure that programs don’t crash due to package versioning.
+-   Sphinx – to create documentation that can be hosted on either a web server or within our gitlab wiki. Example of current python projects using Sphinx [here](https://www.sphinx-doc.org/en/master/examples.html).
+
+NYL has a partnership with Pluralsight so - **use the NYL email id to login**. Please feel free to forward to anyone who is using python on our team.
+
+From Guy:
+
+[# [Deployment of ML Models](https://www.youtube.com/watch?v=bjsJOl8gz5k&list=PLZoTAELRMXVOAvUbePX1lTdxQR8EY35Z1)](https://www.youtube.com/playlist?list=PLZoTAELRMXVOAvUbePX1lTdxQR8EY35Z1&app=desktop)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2MzcxODY3MCwtMTUxOTk3NTAyNiwtMT
-E1Mjg4MzE4MSw5MDA0NTI2NTEsLTY1MTA5NjAxNywtOTEzODk5
-NTcxLC0xNTg3OTA3MzY0LDU2NTUxOTEzOSwxNzU4MjI4MjM0LC
-00ODk1MzM3NTYsLTExNzQzODk5OTYsLTE2OTE2MzUyMjcsLTg4
-ODQ3OTA4NiwtMTkxMzQ3MTA1OSwtNDk4OTY4NzQyLDMxNTM4MD
-c2NiwtMjA5NjE4ODQyOCwxMzY1NDI5MTA4LC01MTk1NTY3Mzks
-LTExNTkzNDE4OTNdfQ==
+eyJoaXN0b3J5IjpbLTY0NDMxNTE4NSwtNTYzNzE4NjcwLC0xNT
+E5OTc1MDI2LC0xMTUyODgzMTgxLDkwMDQ1MjY1MSwtNjUxMDk2
+MDE3LC05MTM4OTk1NzEsLTE1ODc5MDczNjQsNTY1NTE5MTM5LD
+E3NTgyMjgyMzQsLTQ4OTUzMzc1NiwtMTE3NDM4OTk5NiwtMTY5
+MTYzNTIyNywtODg4NDc5MDg2LC0xOTEzNDcxMDU5LC00OTg5Nj
+g3NDIsMzE1MzgwNzY2LC0yMDk2MTg4NDI4LDEzNjU0MjkxMDgs
+LTUxOTU1NjczOV19
 -->
