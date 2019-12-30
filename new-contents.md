@@ -367,12 +367,14 @@ NYL has a partnership with Pluralsight so - **use the NYL email id to login**. P
 From Guy:
 
 - [Deployment of ML Models](https://www.youtube.com/playlist?list=PLZoTAELRMXVOAvUbePX1lTdxQR8EY35Z1&app=desktop)
+
+- [Designing-restful-apis Udacity](https://www.udacity.com/course/designing-restful-apis--ud388)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzAzNTgzNTcsLTU2MzcxODY3MCwtMT
-UxOTk3NTAyNiwtMTE1Mjg4MzE4MSw5MDA0NTI2NTEsLTY1MTA5
-NjAxNywtOTEzODk5NTcxLC0xNTg3OTA3MzY0LDU2NTUxOTEzOS
-wxNzU4MjI4MjM0LC00ODk1MzM3NTYsLTExNzQzODk5OTYsLTE2
-OTE2MzUyMjcsLTg4ODQ3OTA4NiwtMTkxMzQ3MTA1OSwtNDk4OT
-Y4NzQyLDMxNTM4MDc2NiwtMjA5NjE4ODQyOCwxMzY1NDI5MTA4
-LC01MTk1NTY3MzldfQ==
+eyJoaXN0b3J5IjpbMTE3OTI5MTM5NSwtMTczMDM1ODM1NywtNT
+YzNzE4NjcwLC0xNTE5OTc1MDI2LC0xMTUyODgzMTgxLDkwMDQ1
+MjY1MSwtNjUxMDk2MDE3LC05MTM4OTk1NzEsLTE1ODc5MDczNj
+QsNTY1NTE5MTM5LDE3NTgyMjgyMzQsLTQ4OTUzMzc1NiwtMTE3
+NDM4OTk5NiwtMTY5MTYzNTIyNywtODg4NDc5MDg2LC0xOTEzND
+cxMDU5LC00OTg5Njg3NDIsMzE1MzgwNzY2LC0yMDk2MTg4NDI4
+LDEzNjU0MjkxMDhdfQ==
 -->
