@@ -369,12 +369,13 @@ From Guy:
 - [Deployment of ML Models](https://www.youtube.com/playlist?list=PLZoTAELRMXVOAvUbePX1lTdxQR8EY35Z1&app=desktop)
 
 - [Designing-restful-apis Udacity](https://www.udacity.com/course/designing-restful-apis--ud388)
+- [How Becoming Not a Data Scientist Made Me a Better Data Scientist](https://joelgrus.com/speaking/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3OTI5MTM5NSwtMTczMDM1ODM1NywtNT
-YzNzE4NjcwLC0xNTE5OTc1MDI2LC0xMTUyODgzMTgxLDkwMDQ1
-MjY1MSwtNjUxMDk2MDE3LC05MTM4OTk1NzEsLTE1ODc5MDczNj
-QsNTY1NTE5MTM5LDE3NTgyMjgyMzQsLTQ4OTUzMzc1NiwtMTE3
-NDM4OTk5NiwtMTY5MTYzNTIyNywtODg4NDc5MDg2LC0xOTEzND
-cxMDU5LC00OTg5Njg3NDIsMzE1MzgwNzY2LC0yMDk2MTg4NDI4
-LDEzNjU0MjkxMDhdfQ==
+eyJoaXN0b3J5IjpbLTIwODQ4ODQ3NDgsMTE3OTI5MTM5NSwtMT
+czMDM1ODM1NywtNTYzNzE4NjcwLC0xNTE5OTc1MDI2LC0xMTUy
+ODgzMTgxLDkwMDQ1MjY1MSwtNjUxMDk2MDE3LC05MTM4OTk1Nz
+EsLTE1ODc5MDczNjQsNTY1NTE5MTM5LDE3NTgyMjgyMzQsLTQ4
+OTUzMzc1NiwtMTE3NDM4OTk5NiwtMTY5MTYzNTIyNywtODg4ND
+c5MDg2LC0xOTEzNDcxMDU5LC00OTg5Njg3NDIsMzE1MzgwNzY2
+LC0yMDk2MTg4NDI4XX0=
 -->
