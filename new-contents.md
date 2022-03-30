@@ -16,6 +16,12 @@ _Overall, Joel’s objections to Jupyter notebooks seem to come in large part fr
 A super interestging article:
 
 - [Data scientists, the only useful code is production code](https://thuijskens.github.io/2018/11/13/useful-code-is-production-code/)
+- [Data scientists should not write production cod](https://www.linkedin.com/pulse/data-scientists-should-write-production-code-carlos-aya-moreno)
+- [Help! My Data Scientists Can’t Write (Production) Code!](https://insidebigdata.com/2019/08/13/help-my-data-scientists-cant-write-production-code/)
+- [Should Data Scientists Know How To Write Production Code?](https://towardsdatascience.com/should-data-scientists-know-how-to-write-production-code-ae38f9e2f339)
+- [How to Write Production-Level Code for Data Science Projects](https://blogs.oracle.com/ai-and-datascience/post/how-to-write-production-level-code-for-data-science-projects)
+- [How to write Production Level Code in Data Science | Part 1 | Production Level Code in Python](https://youtu.be/ovHUmR81tEQ)
+- [How to write Production Level Code in Data Science | Part 2 | Production Level Code in Python](https://youtu.be/G2okrxwORto)
 
 Another interesting article:
 
